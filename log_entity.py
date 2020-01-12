@@ -9,7 +9,7 @@ class LogEntity:
         if self.log_type == "RECEIVED":
             self.network_data = split[2]
         elif self.log_type == "SENT":
-            self.from_node_id = split[2]
+            self.from_node_id = int(split[2])
             self.network_data = split[3]
         elif self.log_type == "TEMPARATURE":
             self.temperature = float(split[2])

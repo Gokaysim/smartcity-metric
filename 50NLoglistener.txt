@@ -1,0 +1,2627 @@
+4:06:26.108	ID:48	[INFO: Main      ] Starting Contiki-NG-release/v4.3-82-gbd1c809-dirty
+4:06:26.108	ID:48	[INFO: Main      ] - Routing: RPL Lite
+4:06:26.108	ID:48	[INFO: Main      ] - Net: sicslowpan
+4:06:26.108	ID:48	[INFO: Main      ] - MAC: CSMA
+4:06:26.108	ID:48	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+4:06:26.108	ID:48	[INFO: Main      ] - 802.15.4 Default channel: 26
+4:06:26.108	ID:48	[INFO: Main      ] Node ID: 48
+4:06:26.108	ID:48	[INFO: Main      ] Link-layer address: 0030.0030.0030.0030
+4:06:26.108	ID:48	[INFO: Main      ] Tentative link-local IPv6 address: fe80::230:30:30:30
+4:06:26.122	ID:19	[INFO: Main      ] Starting Contiki-NG-release/v4.3-82-gbd1c809-dirty
+4:06:26.122	ID:19	[INFO: Main      ] - Routing: RPL Lite
+4:06:26.122	ID:19	[INFO: Main      ] - Net: sicslowpan
+4:06:26.122	ID:19	[INFO: Main      ] - MAC: CSMA
+4:06:26.122	ID:19	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+4:06:26.122	ID:19	[INFO: Main      ] - 802.15.4 Default channel: 26
+4:06:26.122	ID:19	[INFO: Main      ] Node ID: 19
+4:06:26.122	ID:19	[INFO: Main      ] Link-layer address: 0013.0013.0013.0013
+4:06:26.122	ID:19	[INFO: Main      ] Tentative link-local IPv6 address: fe80::213:13:13:13
+4:06:26.130	ID:40	[INFO: Main      ] Starting Contiki-NG-release/v4.3-82-gbd1c809-dirty
+4:06:26.130	ID:40	[INFO: Main      ] - Routing: RPL Lite
+4:06:26.130	ID:40	[INFO: Main      ] - Net: sicslowpan
+4:06:26.130	ID:40	[INFO: Main      ] - MAC: CSMA
+4:06:26.130	ID:40	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+4:06:26.130	ID:40	[INFO: Main      ] - 802.15.4 Default channel: 26
+4:06:26.130	ID:40	[INFO: Main      ] Node ID: 40
+4:06:26.130	ID:40	[INFO: Main      ] Link-layer address: 0028.0028.0028.0028
+4:06:26.130	ID:40	[INFO: Main      ] Tentative link-local IPv6 address: fe80::228:28:28:28
+4:06:26.136	ID:18	[INFO: Main      ] Starting Contiki-NG-release/v4.3-82-gbd1c809-dirty
+4:06:26.136	ID:18	[INFO: Main      ] - Routing: RPL Lite
+4:06:26.136	ID:18	[INFO: Main      ] - Net: sicslowpan
+4:06:26.136	ID:18	[INFO: Main      ] - MAC: CSMA
+4:06:26.136	ID:18	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+4:06:26.136	ID:18	[INFO: Main      ] - 802.15.4 Default channel: 26
+4:06:26.136	ID:18	[INFO: Main      ] Node ID: 18
+4:06:26.136	ID:18	[INFO: Main      ] Link-layer address: 0012.0012.0012.0012
+4:06:26.136	ID:18	[INFO: Main      ] Tentative link-local IPv6 address: fe80::212:12:12:12
+4:06:26.157	ID:16	[INFO: Main      ] Starting Contiki-NG-release/v4.3-82-gbd1c809-dirty
+4:06:26.157	ID:16	[INFO: Main      ] - Routing: RPL Lite
+4:06:26.157	ID:16	[INFO: Main      ] - Net: sicslowpan
+4:06:26.157	ID:16	[INFO: Main      ] - MAC: CSMA
+4:06:26.157	ID:16	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+4:06:26.157	ID:16	[INFO: Main      ] - 802.15.4 Default channel: 26
+4:06:26.157	ID:16	[INFO: Main      ] Node ID: 16
+4:06:26.157	ID:16	[INFO: Main      ] Link-layer address: 0010.0010.0010.0010
+4:06:26.157	ID:16	[INFO: Main      ] Tentative link-local IPv6 address: fe80::210:10:10:10
+4:06:26.182	ID:7	[INFO: Main      ] Starting Contiki-NG-release/v4.3-82-gbd1c809-dirty
+4:06:26.182	ID:7	[INFO: Main      ] - Routing: RPL Lite
+4:06:26.182	ID:7	[INFO: Main      ] - Net: sicslowpan
+4:06:26.182	ID:7	[INFO: Main      ] - MAC: CSMA
+4:06:26.182	ID:7	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+4:06:26.182	ID:7	[INFO: Main      ] - 802.15.4 Default channel: 26
+4:06:26.182	ID:7	[INFO: Main      ] Node ID: 7
+4:06:26.182	ID:7	[INFO: Main      ] Link-layer address: 0007.0007.0007.0007
+4:06:26.182	ID:7	[INFO: Main      ] Tentative link-local IPv6 address: fe80::207:7:7:7
+4:06:26.197	ID:21	[INFO: Main      ] Starting Contiki-NG-release/v4.3-82-gbd1c809-dirty
+4:06:26.197	ID:21	[INFO: Main      ] - Routing: RPL Lite
+4:06:26.197	ID:21	[INFO: Main      ] - Net: sicslowpan
+4:06:26.197	ID:21	[INFO: Main      ] - MAC: CSMA
+4:06:26.197	ID:21	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+4:06:26.197	ID:21	[INFO: Main      ] - 802.15.4 Default channel: 26
+4:06:26.197	ID:21	[INFO: Main      ] Node ID: 21
+4:06:26.197	ID:21	[INFO: Main      ] Link-layer address: 0015.0015.0015.0015
+4:06:26.197	ID:21	[INFO: Main      ] Tentative link-local IPv6 address: fe80::215:15:15:15
+4:06:26.197	ID:46	[INFO: Main      ] Starting Contiki-NG-release/v4.3-82-gbd1c809-dirty
+4:06:26.197	ID:46	[INFO: Main      ] - Routing: RPL Lite
+4:06:26.197	ID:46	[INFO: Main      ] - Net: sicslowpan
+4:06:26.197	ID:46	[INFO: Main      ] - MAC: CSMA
+4:06:26.197	ID:46	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+4:06:26.197	ID:46	[INFO: Main      ] - 802.15.4 Default channel: 26
+4:06:26.197	ID:46	[INFO: Main      ] Node ID: 46
+4:06:26.197	ID:46	[INFO: Main      ] Link-layer address: 002e.002e.002e.002e
+4:06:26.197	ID:46	[INFO: Main      ] Tentative link-local IPv6 address: fe80::22e:2e:2e:2e
+4:06:26.214	ID:33	[INFO: Main      ] Starting Contiki-NG-release/v4.3-82-gbd1c809-dirty
+4:06:26.214	ID:33	[INFO: Main      ] - Routing: RPL Lite
+4:06:26.214	ID:33	[INFO: Main      ] - Net: sicslowpan
+4:06:26.214	ID:33	[INFO: Main      ] - MAC: CSMA
+4:06:26.214	ID:33	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+4:06:26.214	ID:33	[INFO: Main      ] - 802.15.4 Default channel: 26
+4:06:26.214	ID:33	[INFO: Main      ] Node ID: 33
+4:06:26.214	ID:33	[INFO: Main      ] Link-layer address: 0021.0021.0021.0021
+4:06:26.214	ID:33	[INFO: Main      ] Tentative link-local IPv6 address: fe80::221:21:21:21
+4:06:26.233	ID:44	[INFO: Main      ] Starting Contiki-NG-release/v4.3-82-gbd1c809-dirty
+4:06:26.233	ID:44	[INFO: Main      ] - Routing: RPL Lite
+4:06:26.233	ID:44	[INFO: Main      ] - Net: sicslowpan
+4:06:26.233	ID:44	[INFO: Main      ] - MAC: CSMA
+4:06:26.233	ID:44	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+4:06:26.233	ID:44	[INFO: Main      ] - 802.15.4 Default channel: 26
+4:06:26.233	ID:44	[INFO: Main      ] Node ID: 44
+4:06:26.233	ID:44	[INFO: Main      ] Link-layer address: 002c.002c.002c.002c
+4:06:26.233	ID:44	[INFO: Main      ] Tentative link-local IPv6 address: fe80::22c:2c:2c:2c
+4:06:26.242	ID:20	[INFO: Main      ] Starting Contiki-NG-release/v4.3-82-gbd1c809-dirty
+4:06:26.242	ID:20	[INFO: Main      ] - Routing: RPL Lite
+4:06:26.242	ID:20	[INFO: Main      ] - Net: sicslowpan
+4:06:26.242	ID:20	[INFO: Main      ] - MAC: CSMA
+4:06:26.242	ID:20	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+4:06:26.242	ID:20	[INFO: Main      ] - 802.15.4 Default channel: 26
+4:06:26.242	ID:20	[INFO: Main      ] Node ID: 20
+4:06:26.242	ID:20	[INFO: Main      ] Link-layer address: 0014.0014.0014.0014
+4:06:26.242	ID:20	[INFO: Main      ] Tentative link-local IPv6 address: fe80::214:14:14:14
+4:06:26.247	ID:42	[INFO: Main      ] Starting Contiki-NG-release/v4.3-82-gbd1c809-dirty
+4:06:26.247	ID:42	[INFO: Main      ] - Routing: RPL Lite
+4:06:26.247	ID:42	[INFO: Main      ] - Net: sicslowpan
+4:06:26.247	ID:42	[INFO: Main      ] - MAC: CSMA
+4:06:26.247	ID:42	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+4:06:26.247	ID:42	[INFO: Main      ] - 802.15.4 Default channel: 26
+4:06:26.247	ID:42	[INFO: Main      ] Node ID: 42
+4:06:26.247	ID:42	[INFO: Main      ] Link-layer address: 002a.002a.002a.002a
+4:06:26.247	ID:42	[INFO: Main      ] Tentative link-local IPv6 address: fe80::22a:2a:2a:2a
+4:06:26.278	ID:5	[INFO: Main      ] Starting Contiki-NG-release/v4.3-82-gbd1c809-dirty
+4:06:26.278	ID:5	[INFO: Main      ] - Routing: RPL Lite
+4:06:26.278	ID:5	[INFO: Main      ] - Net: sicslowpan
+4:06:26.278	ID:5	[INFO: Main      ] - MAC: CSMA
+4:06:26.278	ID:5	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+4:06:26.278	ID:5	[INFO: Main      ] - 802.15.4 Default channel: 26
+4:06:26.278	ID:5	[INFO: Main      ] Node ID: 5
+4:06:26.278	ID:5	[INFO: Main      ] Link-layer address: 0005.0005.0005.0005
+4:06:26.278	ID:5	[INFO: Main      ] Tentative link-local IPv6 address: fe80::205:5:5:5
+4:06:26.303	ID:26	[INFO: Main      ] Starting Contiki-NG-release/v4.3-82-gbd1c809-dirty
+4:06:26.303	ID:26	[INFO: Main      ] - Routing: RPL Lite
+4:06:26.303	ID:26	[INFO: Main      ] - Net: sicslowpan
+4:06:26.303	ID:26	[INFO: Main      ] - MAC: CSMA
+4:06:26.303	ID:26	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+4:06:26.303	ID:26	[INFO: Main      ] - 802.15.4 Default channel: 26
+4:06:26.303	ID:26	[INFO: Main      ] Node ID: 26
+4:06:26.303	ID:26	[INFO: Main      ] Link-layer address: 001a.001a.001a.001a
+4:06:26.303	ID:26	[INFO: Main      ] Tentative link-local IPv6 address: fe80::21a:1a:1a:1a
+4:06:26.322	ID:27	[INFO: Main      ] Starting Contiki-NG-release/v4.3-82-gbd1c809-dirty
+4:06:26.322	ID:27	[INFO: Main      ] - Routing: RPL Lite
+4:06:26.322	ID:27	[INFO: Main      ] - Net: sicslowpan
+4:06:26.322	ID:27	[INFO: Main      ] - MAC: CSMA
+4:06:26.322	ID:27	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+4:06:26.322	ID:27	[INFO: Main      ] - 802.15.4 Default channel: 26
+4:06:26.322	ID:27	[INFO: Main      ] Node ID: 27
+4:06:26.322	ID:27	[INFO: Main      ] Link-layer address: 001b.001b.001b.001b
+4:06:26.322	ID:27	[INFO: Main      ] Tentative link-local IPv6 address: fe80::21b:1b:1b:1b
+4:06:26.323	ID:50	[INFO: Main      ] Starting Contiki-NG-release/v4.3-82-gbd1c809-dirty
+4:06:26.323	ID:50	[INFO: Main      ] - Routing: RPL Lite
+4:06:26.323	ID:50	[INFO: Main      ] - Net: sicslowpan
+4:06:26.323	ID:50	[INFO: Main      ] - MAC: CSMA
+4:06:26.323	ID:50	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+4:06:26.323	ID:50	[INFO: Main      ] - 802.15.4 Default channel: 26
+4:06:26.323	ID:50	[INFO: Main      ] Node ID: 50
+4:06:26.323	ID:50	[INFO: Main      ] Link-layer address: 0032.0032.0032.0032
+4:06:26.323	ID:50	[INFO: Main      ] Tentative link-local IPv6 address: fe80::232:32:32:32
+4:06:26.353	ID:1	[INFO: Main      ] Starting Contiki-NG-release/v4.3-82-gbd1c809-dirty
+4:06:26.353	ID:1	[INFO: Main      ] - Routing: RPL Lite
+4:06:26.353	ID:1	[INFO: Main      ] - Net: sicslowpan
+4:06:26.353	ID:1	[INFO: Main      ] - MAC: CSMA
+4:06:26.353	ID:1	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+4:06:26.353	ID:1	[INFO: Main      ] - 802.15.4 Default channel: 26
+4:06:26.353	ID:1	[INFO: Main      ] Node ID: 1
+4:06:26.353	ID:1	[INFO: Main      ] Link-layer address: 0001.0001.0001.0001
+4:06:26.353	ID:1	[INFO: Main      ] Tentative link-local IPv6 address: fe80::201:1:1:1
+4:06:26.362	ID:9	[INFO: Main      ] Starting Contiki-NG-release/v4.3-82-gbd1c809-dirty
+4:06:26.362	ID:9	[INFO: Main      ] - Routing: RPL Lite
+4:06:26.362	ID:9	[INFO: Main      ] - Net: sicslowpan
+4:06:26.362	ID:9	[INFO: Main      ] - MAC: CSMA
+4:06:26.362	ID:9	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+4:06:26.362	ID:9	[INFO: Main      ] - 802.15.4 Default channel: 26
+4:06:26.362	ID:9	[INFO: Main      ] Node ID: 9
+4:06:26.362	ID:9	[INFO: Main      ] Link-layer address: 0009.0009.0009.0009
+4:06:26.362	ID:9	[INFO: Main      ] Tentative link-local IPv6 address: fe80::209:9:9:9
+4:06:26.391	ID:47	[INFO: Main      ] Starting Contiki-NG-release/v4.3-82-gbd1c809-dirty
+4:06:26.391	ID:47	[INFO: Main      ] - Routing: RPL Lite
+4:06:26.391	ID:47	[INFO: Main      ] - Net: sicslowpan
+4:06:26.391	ID:47	[INFO: Main      ] - MAC: CSMA
+4:06:26.391	ID:47	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+4:06:26.391	ID:47	[INFO: Main      ] - 802.15.4 Default channel: 26
+4:06:26.391	ID:47	[INFO: Main      ] Node ID: 47
+4:06:26.391	ID:47	[INFO: Main      ] Link-layer address: 002f.002f.002f.002f
+4:06:26.391	ID:47	[INFO: Main      ] Tentative link-local IPv6 address: fe80::22f:2f:2f:2f
+4:06:26.414	ID:34	[INFO: Main      ] Starting Contiki-NG-release/v4.3-82-gbd1c809-dirty
+4:06:26.414	ID:34	[INFO: Main      ] - Routing: RPL Lite
+4:06:26.414	ID:34	[INFO: Main      ] - Net: sicslowpan
+4:06:26.414	ID:34	[INFO: Main      ] - MAC: CSMA
+4:06:26.414	ID:34	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+4:06:26.414	ID:34	[INFO: Main      ] - 802.15.4 Default channel: 26
+4:06:26.414	ID:34	[INFO: Main      ] Node ID: 34
+4:06:26.414	ID:34	[INFO: Main      ] Link-layer address: 0022.0022.0022.0022
+4:06:26.414	ID:34	[INFO: Main      ] Tentative link-local IPv6 address: fe80::222:22:22:22
+4:06:26.415	ID:38	[INFO: Main      ] Starting Contiki-NG-release/v4.3-82-gbd1c809-dirty
+4:06:26.415	ID:38	[INFO: Main      ] - Routing: RPL Lite
+4:06:26.415	ID:38	[INFO: Main      ] - Net: sicslowpan
+4:06:26.415	ID:38	[INFO: Main      ] - MAC: CSMA
+4:06:26.415	ID:38	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+4:06:26.415	ID:38	[INFO: Main      ] - 802.15.4 Default channel: 26
+4:06:26.415	ID:38	[INFO: Main      ] Node ID: 38
+4:06:26.415	ID:38	[INFO: Main      ] Link-layer address: 0026.0026.0026.0026
+4:06:26.415	ID:38	[INFO: Main      ] Tentative link-local IPv6 address: fe80::226:26:26:26
+4:06:26.416	ID:12	[INFO: Main      ] Starting Contiki-NG-release/v4.3-82-gbd1c809-dirty
+4:06:26.416	ID:12	[INFO: Main      ] - Routing: RPL Lite
+4:06:26.416	ID:12	[INFO: Main      ] - Net: sicslowpan
+4:06:26.416	ID:12	[INFO: Main      ] - MAC: CSMA
+4:06:26.416	ID:12	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+4:06:26.416	ID:12	[INFO: Main      ] - 802.15.4 Default channel: 26
+4:06:26.416	ID:12	[INFO: Main      ] Node ID: 12
+4:06:26.416	ID:12	[INFO: Main      ] Link-layer address: 000c.000c.000c.000c
+4:06:26.416	ID:12	[INFO: Main      ] Tentative link-local IPv6 address: fe80::20c:c:c:c
+4:06:26.597	ID:22	[INFO: Main      ] Starting Contiki-NG-release/v4.3-82-gbd1c809-dirty
+4:06:26.597	ID:22	[INFO: Main      ] - Routing: RPL Lite
+4:06:26.597	ID:22	[INFO: Main      ] - Net: sicslowpan
+4:06:26.597	ID:22	[INFO: Main      ] - MAC: CSMA
+4:06:26.597	ID:22	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+4:06:26.597	ID:22	[INFO: Main      ] - 802.15.4 Default channel: 26
+4:06:26.597	ID:22	[INFO: Main      ] Node ID: 22
+4:06:26.597	ID:22	[INFO: Main      ] Link-layer address: 0016.0016.0016.0016
+4:06:26.597	ID:22	[INFO: Main      ] Tentative link-local IPv6 address: fe80::216:16:16:16
+4:06:26.601	ID:23	[INFO: Main      ] Starting Contiki-NG-release/v4.3-82-gbd1c809-dirty
+4:06:26.601	ID:23	[INFO: Main      ] - Routing: RPL Lite
+4:06:26.601	ID:23	[INFO: Main      ] - Net: sicslowpan
+4:06:26.601	ID:23	[INFO: Main      ] - MAC: CSMA
+4:06:26.601	ID:23	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+4:06:26.601	ID:23	[INFO: Main      ] - 802.15.4 Default channel: 26
+4:06:26.601	ID:23	[INFO: Main      ] Node ID: 23
+4:06:26.601	ID:23	[INFO: Main      ] Link-layer address: 0017.0017.0017.0017
+4:06:26.601	ID:23	[INFO: Main      ] Tentative link-local IPv6 address: fe80::217:17:17:17
+4:06:26.606	ID:2	[INFO: Main      ] Starting Contiki-NG-release/v4.3-82-gbd1c809-dirty
+4:06:26.606	ID:2	[INFO: Main      ] - Routing: RPL Lite
+4:06:26.606	ID:2	[INFO: Main      ] - Net: sicslowpan
+4:06:26.606	ID:2	[INFO: Main      ] - MAC: CSMA
+4:06:26.606	ID:2	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+4:06:26.606	ID:2	[INFO: Main      ] - 802.15.4 Default channel: 26
+4:06:26.606	ID:2	[INFO: Main      ] Node ID: 2
+4:06:26.606	ID:2	[INFO: Main      ] Link-layer address: 0002.0002.0002.0002
+4:06:26.606	ID:2	[INFO: Main      ] Tentative link-local IPv6 address: fe80::202:2:2:2
+4:06:26.615	ID:35	[INFO: Main      ] Starting Contiki-NG-release/v4.3-82-gbd1c809-dirty
+4:06:26.615	ID:35	[INFO: Main      ] - Routing: RPL Lite
+4:06:26.615	ID:35	[INFO: Main      ] - Net: sicslowpan
+4:06:26.615	ID:35	[INFO: Main      ] - MAC: CSMA
+4:06:26.615	ID:35	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+4:06:26.615	ID:35	[INFO: Main      ] - 802.15.4 Default channel: 26
+4:06:26.615	ID:35	[INFO: Main      ] Node ID: 35
+4:06:26.615	ID:35	[INFO: Main      ] Link-layer address: 0023.0023.0023.0023
+4:06:26.615	ID:35	[INFO: Main      ] Tentative link-local IPv6 address: fe80::223:23:23:23
+4:06:26.650	ID:11	[INFO: Main      ] Starting Contiki-NG-release/v4.3-82-gbd1c809-dirty
+4:06:26.650	ID:11	[INFO: Main      ] - Routing: RPL Lite
+4:06:26.650	ID:11	[INFO: Main      ] - Net: sicslowpan
+4:06:26.650	ID:11	[INFO: Main      ] - MAC: CSMA
+4:06:26.650	ID:11	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+4:06:26.650	ID:11	[INFO: Main      ] - 802.15.4 Default channel: 26
+4:06:26.650	ID:11	[INFO: Main      ] Node ID: 11
+4:06:26.650	ID:11	[INFO: Main      ] Link-layer address: 000b.000b.000b.000b
+4:06:26.650	ID:11	[INFO: Main      ] Tentative link-local IPv6 address: fe80::20b:b:b:b
+4:06:26.670	ID:45	[INFO: Main      ] Starting Contiki-NG-release/v4.3-82-gbd1c809-dirty
+4:06:26.670	ID:45	[INFO: Main      ] - Routing: RPL Lite
+4:06:26.670	ID:45	[INFO: Main      ] - Net: sicslowpan
+4:06:26.670	ID:45	[INFO: Main      ] - MAC: CSMA
+4:06:26.670	ID:45	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+4:06:26.670	ID:45	[INFO: Main      ] - 802.15.4 Default channel: 26
+4:06:26.670	ID:45	[INFO: Main      ] Node ID: 45
+4:06:26.670	ID:45	[INFO: Main      ] Link-layer address: 002d.002d.002d.002d
+4:06:26.670	ID:45	[INFO: Main      ] Tentative link-local IPv6 address: fe80::22d:2d:2d:2d
+4:06:26.715	ID:30	[INFO: Main      ] Starting Contiki-NG-release/v4.3-82-gbd1c809-dirty
+4:06:26.715	ID:30	[INFO: Main      ] - Routing: RPL Lite
+4:06:26.715	ID:30	[INFO: Main      ] - Net: sicslowpan
+4:06:26.715	ID:30	[INFO: Main      ] - MAC: CSMA
+4:06:26.715	ID:30	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+4:06:26.715	ID:30	[INFO: Main      ] - 802.15.4 Default channel: 26
+4:06:26.715	ID:30	[INFO: Main      ] Node ID: 30
+4:06:26.715	ID:30	[INFO: Main      ] Link-layer address: 001e.001e.001e.001e
+4:06:26.715	ID:30	[INFO: Main      ] Tentative link-local IPv6 address: fe80::21e:1e:1e:1e
+4:06:26.727	ID:6	[INFO: Main      ] Starting Contiki-NG-release/v4.3-82-gbd1c809-dirty
+4:06:26.727	ID:6	[INFO: Main      ] - Routing: RPL Lite
+4:06:26.727	ID:6	[INFO: Main      ] - Net: sicslowpan
+4:06:26.727	ID:6	[INFO: Main      ] - MAC: CSMA
+4:06:26.727	ID:6	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+4:06:26.727	ID:6	[INFO: Main      ] - 802.15.4 Default channel: 26
+4:06:26.727	ID:6	[INFO: Main      ] Node ID: 6
+4:06:26.727	ID:6	[INFO: Main      ] Link-layer address: 0006.0006.0006.0006
+4:06:26.727	ID:6	[INFO: Main      ] Tentative link-local IPv6 address: fe80::206:6:6:6
+4:06:26.770	ID:31	[INFO: Main      ] Starting Contiki-NG-release/v4.3-82-gbd1c809-dirty
+4:06:26.770	ID:31	[INFO: Main      ] - Routing: RPL Lite
+4:06:26.770	ID:31	[INFO: Main      ] - Net: sicslowpan
+4:06:26.770	ID:31	[INFO: Main      ] - MAC: CSMA
+4:06:26.770	ID:31	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+4:06:26.770	ID:31	[INFO: Main      ] - 802.15.4 Default channel: 26
+4:06:26.770	ID:31	[INFO: Main      ] Node ID: 31
+4:06:26.770	ID:31	[INFO: Main      ] Link-layer address: 001f.001f.001f.001f
+4:06:26.770	ID:31	[INFO: Main      ] Tentative link-local IPv6 address: fe80::21f:1f:1f:1f
+4:06:26.804	ID:8	[INFO: Main      ] Starting Contiki-NG-release/v4.3-82-gbd1c809-dirty
+4:06:26.804	ID:8	[INFO: Main      ] - Routing: RPL Lite
+4:06:26.804	ID:8	[INFO: Main      ] - Net: sicslowpan
+4:06:26.804	ID:8	[INFO: Main      ] - MAC: CSMA
+4:06:26.804	ID:8	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+4:06:26.804	ID:8	[INFO: Main      ] - 802.15.4 Default channel: 26
+4:06:26.804	ID:8	[INFO: Main      ] Node ID: 8
+4:06:26.804	ID:8	[INFO: Main      ] Link-layer address: 0008.0008.0008.0008
+4:06:26.804	ID:8	[INFO: Main      ] Tentative link-local IPv6 address: fe80::208:8:8:8
+4:06:26.838	ID:37	[INFO: Main      ] Starting Contiki-NG-release/v4.3-82-gbd1c809-dirty
+4:06:26.838	ID:37	[INFO: Main      ] - Routing: RPL Lite
+4:06:26.838	ID:37	[INFO: Main      ] - Net: sicslowpan
+4:06:26.838	ID:37	[INFO: Main      ] - MAC: CSMA
+4:06:26.838	ID:37	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+4:06:26.838	ID:37	[INFO: Main      ] - 802.15.4 Default channel: 26
+4:06:26.838	ID:37	[INFO: Main      ] Node ID: 37
+4:06:26.838	ID:37	[INFO: Main      ] Link-layer address: 0025.0025.0025.0025
+4:06:26.838	ID:37	[INFO: Main      ] Tentative link-local IPv6 address: fe80::225:25:25:25
+4:06:26.843	ID:43	[INFO: Main      ] Starting Contiki-NG-release/v4.3-82-gbd1c809-dirty
+4:06:26.843	ID:43	[INFO: Main      ] - Routing: RPL Lite
+4:06:26.843	ID:43	[INFO: Main      ] - Net: sicslowpan
+4:06:26.843	ID:43	[INFO: Main      ] - MAC: CSMA
+4:06:26.843	ID:43	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+4:06:26.843	ID:43	[INFO: Main      ] - 802.15.4 Default channel: 26
+4:06:26.843	ID:43	[INFO: Main      ] Node ID: 43
+4:06:26.843	ID:43	[INFO: Main      ] Link-layer address: 002b.002b.002b.002b
+4:06:26.843	ID:43	[INFO: Main      ] Tentative link-local IPv6 address: fe80::22b:2b:2b:2b
+4:06:26.848	ID:15	[INFO: Main      ] Starting Contiki-NG-release/v4.3-82-gbd1c809-dirty
+4:06:26.848	ID:15	[INFO: Main      ] - Routing: RPL Lite
+4:06:26.848	ID:15	[INFO: Main      ] - Net: sicslowpan
+4:06:26.848	ID:15	[INFO: Main      ] - MAC: CSMA
+4:06:26.848	ID:15	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+4:06:26.848	ID:15	[INFO: Main      ] - 802.15.4 Default channel: 26
+4:06:26.848	ID:15	[INFO: Main      ] Node ID: 15
+4:06:26.848	ID:15	[INFO: Main      ] Link-layer address: 000f.000f.000f.000f
+4:06:26.848	ID:15	[INFO: Main      ] Tentative link-local IPv6 address: fe80::20f:f:f:f
+4:06:26.848	ID:41	[INFO: Main      ] Starting Contiki-NG-release/v4.3-82-gbd1c809-dirty
+4:06:26.848	ID:41	[INFO: Main      ] - Routing: RPL Lite
+4:06:26.848	ID:41	[INFO: Main      ] - Net: sicslowpan
+4:06:26.848	ID:41	[INFO: Main      ] - MAC: CSMA
+4:06:26.848	ID:41	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+4:06:26.848	ID:41	[INFO: Main      ] - 802.15.4 Default channel: 26
+4:06:26.848	ID:41	[INFO: Main      ] Node ID: 41
+4:06:26.848	ID:41	[INFO: Main      ] Link-layer address: 0029.0029.0029.0029
+4:06:26.848	ID:41	[INFO: Main      ] Tentative link-local IPv6 address: fe80::229:29:29:29
+4:06:26.851	ID:29	[INFO: Main      ] Starting Contiki-NG-release/v4.3-82-gbd1c809-dirty
+4:06:26.851	ID:29	[INFO: Main      ] - Routing: RPL Lite
+4:06:26.851	ID:29	[INFO: Main      ] - Net: sicslowpan
+4:06:26.851	ID:29	[INFO: Main      ] - MAC: CSMA
+4:06:26.851	ID:29	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+4:06:26.851	ID:29	[INFO: Main      ] - 802.15.4 Default channel: 26
+4:06:26.851	ID:29	[INFO: Main      ] Node ID: 29
+4:06:26.851	ID:29	[INFO: Main      ] Link-layer address: 001d.001d.001d.001d
+4:06:26.851	ID:29	[INFO: Main      ] Tentative link-local IPv6 address: fe80::21d:1d:1d:1d
+4:06:26.893	ID:17	[INFO: Main      ] Starting Contiki-NG-release/v4.3-82-gbd1c809-dirty
+4:06:26.893	ID:17	[INFO: Main      ] - Routing: RPL Lite
+4:06:26.893	ID:17	[INFO: Main      ] - Net: sicslowpan
+4:06:26.893	ID:17	[INFO: Main      ] - MAC: CSMA
+4:06:26.893	ID:17	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+4:06:26.893	ID:17	[INFO: Main      ] - 802.15.4 Default channel: 26
+4:06:26.893	ID:17	[INFO: Main      ] Node ID: 17
+4:06:26.893	ID:17	[INFO: Main      ] Link-layer address: 0011.0011.0011.0011
+4:06:26.893	ID:17	[INFO: Main      ] Tentative link-local IPv6 address: fe80::211:11:11:11
+4:06:26.930	ID:28	[INFO: Main      ] Starting Contiki-NG-release/v4.3-82-gbd1c809-dirty
+4:06:26.930	ID:28	[INFO: Main      ] - Routing: RPL Lite
+4:06:26.930	ID:28	[INFO: Main      ] - Net: sicslowpan
+4:06:26.930	ID:28	[INFO: Main      ] - MAC: CSMA
+4:06:26.930	ID:28	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+4:06:26.930	ID:28	[INFO: Main      ] - 802.15.4 Default channel: 26
+4:06:26.930	ID:28	[INFO: Main      ] Node ID: 28
+4:06:26.930	ID:28	[INFO: Main      ] Link-layer address: 001c.001c.001c.001c
+4:06:26.930	ID:28	[INFO: Main      ] Tentative link-local IPv6 address: fe80::21c:1c:1c:1c
+4:06:26.943	ID:32	[INFO: Main      ] Starting Contiki-NG-release/v4.3-82-gbd1c809-dirty
+4:06:26.943	ID:32	[INFO: Main      ] - Routing: RPL Lite
+4:06:26.943	ID:32	[INFO: Main      ] - Net: sicslowpan
+4:06:26.943	ID:32	[INFO: Main      ] - MAC: CSMA
+4:06:26.943	ID:32	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+4:06:26.943	ID:32	[INFO: Main      ] - 802.15.4 Default channel: 26
+4:06:26.943	ID:32	[INFO: Main      ] Node ID: 32
+4:06:26.943	ID:32	[INFO: Main      ] Link-layer address: 0020.0020.0020.0020
+4:06:26.943	ID:32	[INFO: Main      ] Tentative link-local IPv6 address: fe80::220:20:20:20
+4:06:26.980	ID:49	[INFO: Main      ] Starting Contiki-NG-release/v4.3-82-gbd1c809-dirty
+4:06:26.980	ID:49	[INFO: Main      ] - Routing: RPL Lite
+4:06:26.980	ID:49	[INFO: Main      ] - Net: sicslowpan
+4:06:26.980	ID:49	[INFO: Main      ] - MAC: CSMA
+4:06:26.980	ID:49	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+4:06:26.980	ID:49	[INFO: Main      ] - 802.15.4 Default channel: 26
+4:06:26.980	ID:49	[INFO: Main      ] Node ID: 49
+4:06:26.980	ID:49	[INFO: Main      ] Link-layer address: 0031.0031.0031.0031
+4:06:26.980	ID:49	[INFO: Main      ] Tentative link-local IPv6 address: fe80::231:31:31:31
+4:06:26.989	ID:14	[INFO: Main      ] Starting Contiki-NG-release/v4.3-82-gbd1c809-dirty
+4:06:26.989	ID:14	[INFO: Main      ] - Routing: RPL Lite
+4:06:26.989	ID:14	[INFO: Main      ] - Net: sicslowpan
+4:06:26.989	ID:14	[INFO: Main      ] - MAC: CSMA
+4:06:26.989	ID:14	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+4:06:26.989	ID:14	[INFO: Main      ] - 802.15.4 Default channel: 26
+4:06:26.989	ID:14	[INFO: Main      ] Node ID: 14
+4:06:26.989	ID:14	[INFO: Main      ] Link-layer address: 000e.000e.000e.000e
+4:06:26.989	ID:14	[INFO: Main      ] Tentative link-local IPv6 address: fe80::20e:e:e:e
+4:06:26.997	ID:4	[INFO: Main      ] Starting Contiki-NG-release/v4.3-82-gbd1c809-dirty
+4:06:26.997	ID:4	[INFO: Main      ] - Routing: RPL Lite
+4:06:26.997	ID:4	[INFO: Main      ] - Net: sicslowpan
+4:06:26.997	ID:4	[INFO: Main      ] - MAC: CSMA
+4:06:26.997	ID:4	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+4:06:26.997	ID:4	[INFO: Main      ] - 802.15.4 Default channel: 26
+4:06:26.997	ID:4	[INFO: Main      ] Node ID: 4
+4:06:26.997	ID:4	[INFO: Main      ] Link-layer address: 0004.0004.0004.0004
+4:06:26.997	ID:4	[INFO: Main      ] Tentative link-local IPv6 address: fe80::204:4:4:4
+4:06:27.007	ID:13	[INFO: Main      ] Starting Contiki-NG-release/v4.3-82-gbd1c809-dirty
+4:06:27.007	ID:13	[INFO: Main      ] - Routing: RPL Lite
+4:06:27.007	ID:13	[INFO: Main      ] - Net: sicslowpan
+4:06:27.007	ID:13	[INFO: Main      ] - MAC: CSMA
+4:06:27.007	ID:13	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+4:06:27.007	ID:13	[INFO: Main      ] - 802.15.4 Default channel: 26
+4:06:27.007	ID:13	[INFO: Main      ] Node ID: 13
+4:06:27.007	ID:13	[INFO: Main      ] Link-layer address: 000d.000d.000d.000d
+4:06:27.007	ID:13	[INFO: Main      ] Tentative link-local IPv6 address: fe80::20d:d:d:d
+4:06:27.026	ID:3	[INFO: Main      ] Starting Contiki-NG-release/v4.3-82-gbd1c809-dirty
+4:06:27.026	ID:3	[INFO: Main      ] - Routing: RPL Lite
+4:06:27.026	ID:3	[INFO: Main      ] - Net: sicslowpan
+4:06:27.026	ID:3	[INFO: Main      ] - MAC: CSMA
+4:06:27.026	ID:3	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+4:06:27.026	ID:3	[INFO: Main      ] - 802.15.4 Default channel: 26
+4:06:27.026	ID:3	[INFO: Main      ] Node ID: 3
+4:06:27.026	ID:3	[INFO: Main      ] Link-layer address: 0003.0003.0003.0003
+4:06:27.026	ID:3	[INFO: Main      ] Tentative link-local IPv6 address: fe80::203:3:3:3
+4:06:27.032	ID:10	[INFO: Main      ] Starting Contiki-NG-release/v4.3-82-gbd1c809-dirty
+4:06:27.032	ID:10	[INFO: Main      ] - Routing: RPL Lite
+4:06:27.032	ID:10	[INFO: Main      ] - Net: sicslowpan
+4:06:27.032	ID:10	[INFO: Main      ] - MAC: CSMA
+4:06:27.032	ID:10	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+4:06:27.032	ID:10	[INFO: Main      ] - 802.15.4 Default channel: 26
+4:06:27.032	ID:10	[INFO: Main      ] Node ID: 10
+4:06:27.032	ID:10	[INFO: Main      ] Link-layer address: 000a.000a.000a.000a
+4:06:27.032	ID:10	[INFO: Main      ] Tentative link-local IPv6 address: fe80::20a:a:a:a
+4:06:27.068	ID:24	[INFO: Main      ] Starting Contiki-NG-release/v4.3-82-gbd1c809-dirty
+4:06:27.068	ID:24	[INFO: Main      ] - Routing: RPL Lite
+4:06:27.068	ID:24	[INFO: Main      ] - Net: sicslowpan
+4:06:27.068	ID:24	[INFO: Main      ] - MAC: CSMA
+4:06:27.068	ID:24	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+4:06:27.068	ID:24	[INFO: Main      ] - 802.15.4 Default channel: 26
+4:06:27.068	ID:24	[INFO: Main      ] Node ID: 24
+4:06:27.068	ID:24	[INFO: Main      ] Link-layer address: 0018.0018.0018.0018
+4:06:27.068	ID:24	[INFO: Main      ] Tentative link-local IPv6 address: fe80::218:18:18:18
+4:06:27.089	ID:25	[INFO: Main      ] Starting Contiki-NG-release/v4.3-82-gbd1c809-dirty
+4:06:27.089	ID:25	[INFO: Main      ] - Routing: RPL Lite
+4:06:27.089	ID:25	[INFO: Main      ] - Net: sicslowpan
+4:06:27.089	ID:25	[INFO: Main      ] - MAC: CSMA
+4:06:27.089	ID:25	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+4:06:27.089	ID:25	[INFO: Main      ] - 802.15.4 Default channel: 26
+4:06:27.089	ID:25	[INFO: Main      ] Node ID: 25
+4:06:27.089	ID:25	[INFO: Main      ] Link-layer address: 0019.0019.0019.0019
+4:06:27.089	ID:25	[INFO: Main      ] Tentative link-local IPv6 address: fe80::219:19:19:19
+4:06:27.096	ID:36	[INFO: Main      ] Starting Contiki-NG-release/v4.3-82-gbd1c809-dirty
+4:06:27.096	ID:36	[INFO: Main      ] - Routing: RPL Lite
+4:06:27.096	ID:36	[INFO: Main      ] - Net: sicslowpan
+4:06:27.096	ID:36	[INFO: Main      ] - MAC: CSMA
+4:06:27.096	ID:36	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+4:06:27.096	ID:36	[INFO: Main      ] - 802.15.4 Default channel: 26
+4:06:27.096	ID:36	[INFO: Main      ] Node ID: 36
+4:06:27.096	ID:36	[INFO: Main      ] Link-layer address: 0024.0024.0024.0024
+4:06:27.096	ID:36	[INFO: Main      ] Tentative link-local IPv6 address: fe80::224:24:24:24
+4:06:27.100	ID:39	[INFO: Main      ] Starting Contiki-NG-release/v4.3-82-gbd1c809-dirty
+4:06:27.100	ID:39	[INFO: Main      ] - Routing: RPL Lite
+4:06:27.100	ID:39	[INFO: Main      ] - Net: sicslowpan
+4:06:27.100	ID:39	[INFO: Main      ] - MAC: CSMA
+4:06:27.100	ID:39	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+4:06:27.100	ID:39	[INFO: Main      ] - 802.15.4 Default channel: 26
+4:06:27.100	ID:39	[INFO: Main      ] Node ID: 39
+4:06:27.100	ID:39	[INFO: Main      ] Link-layer address: 0027.0027.0027.0027
+4:06:27.100	ID:39	[INFO: Main      ] Tentative link-local IPv6 address: fe80::227:27:27:27
+4:08:06.136	ID:18	LOG TEMPARATURE 25.3 
+4:08:06.157	ID:16	LOG TEMPARATURE 30.8 
+4:08:06.182	ID:7	LOG TEMPARATURE 30.8 
+4:08:06.197	ID:21	LOG TEMPARATURE 8.5 
+4:08:06.197	ID:46	LOG TEMPARATURE 17.0 
+4:08:06.303	ID:26	LOG TEMPARATURE 25.5 
+4:08:06.323	ID:50	LOG TEMPARATURE 26.3 
+4:08:06.353	ID:1	LOG TEMPARATURE 32.1 
+4:08:06.362	ID:9	LOG TEMPARATURE 21.3 
+4:08:06.416	ID:12	LOG TEMPARATURE 0.5 
+4:08:06.416	ID:12	LOG AVAILABILITY 1
+4:08:06.416	ID:12	LOG SENT 11 12|1:12;|0.5:12;|0.5:12; 
+4:08:06.429	ID:17	LOG RECEIVED 12|1:12;|0.5:12;|0.5:12; 
+4:08:06.467	ID:12	LOG SENT 13 12|1:12;|0.5:12;|0.5:12; 
+4:08:06.477	ID:19	LOG RECEIVED 12|1:12;|0.5:12;|0.5:12; 
+4:08:06.670	ID:45	LOG TEMPARATURE 4.4 
+4:08:06.715	ID:30	LOG TEMPARATURE 25.8 
+4:08:06.843	ID:43	LOG TEMPARATURE 21.2 
+4:08:06.848	ID:15	LOG TEMPARATURE 6.5 
+4:08:06.893	ID:17	LOG TEMPARATURE 33.1 
+4:08:06.893	ID:17	LOG AVAILABILITY 1
+4:08:06.893	ID:17	LOG SENT 16 17|1:17;|33.1:17;|33.1:17; 
+4:08:06.913	ID:22	LOG RECEIVED 17|1:17;|33.1:17;|33.1:17; 
+4:08:06.929	ID:17	LOG SENT 18 17|1:12,17;|33.1:17;|33.1:17; 
+4:08:06.943	ID:32	LOG TEMPARATURE 19.7 
+4:08:06.952	ID:24	LOG RECEIVED 17|1:12,17;|33.1:17;|33.1:17; 
+4:08:06.980	ID:49	LOG AVAILABILITY 1
+4:08:06.980	ID:49	LOG SENT 48 49|1:49;|| 
+4:08:06.989	ID:14	LOG TEMPARATURE 28.3 
+4:08:06.997	ID:4	LOG TEMPARATURE 7.4 
+4:08:07.032	ID:10	LOG TEMPARATURE 12.9 
+4:08:07.089	ID:25	LOG TEMPARATURE 13.5 
+4:09:46.130	ID:40	LOG TEMPARATURE 19.3 
+4:09:46.157	ID:16	LOG TEMPARATURE 2.2 
+4:09:46.197	ID:21	LOG TEMPARATURE 9.0 
+4:09:46.242	ID:20	LOG TEMPARATURE 24.5 
+4:09:46.247	ID:42	LOG AVAILABILITY 1
+4:09:46.247	ID:42	LOG SENT 41 42|1:42;|| 
+4:09:46.303	ID:26	LOG TEMPARATURE 25.6 
+4:09:46.322	ID:27	LOG TEMPARATURE 9.0 
+4:09:46.323	ID:50	LOG TEMPARATURE 20.5 
+4:09:46.353	ID:1	LOG TEMPARATURE 7.2 
+4:09:46.391	ID:47	LOG TEMPARATURE 3.0 
+4:09:46.391	ID:47	LOG AVAILABILITY 1
+4:09:46.391	ID:47	LOG SENT 46 47|1:47;|3.0:47;|3.0:47; 
+4:09:46.415	ID:38	LOG TEMPARATURE 31.7 
+4:09:46.601	ID:23	LOG AVAILABILITY 1
+4:09:46.601	ID:23	LOG SENT 22 23|1:23;|| 
+4:09:46.615	ID:35	LOG TEMPARATURE 0.4 
+4:09:46.638	ID:34	LOG RECEIVED 23|1:23;|| 
+4:09:46.668	ID:23	LOG SENT 24 23|1:23;|| 
+4:09:46.687	ID:36	LOG RECEIVED 23|1:23;|| 
+4:09:46.715	ID:30	LOG TEMPARATURE 29.7 
+4:09:46.770	ID:31	LOG TEMPARATURE 34.5 
+4:09:46.804	ID:8	LOG TEMPARATURE 2.9 
+4:09:46.838	ID:37	LOG TEMPARATURE 7.0 
+4:09:46.843	ID:43	LOG TEMPARATURE 3.1 
+4:09:46.851	ID:29	LOG TEMPARATURE 9.5 
+4:09:46.893	ID:17	LOG TEMPARATURE 27.8 
+4:09:47.026	ID:3	LOG TEMPARATURE 24.2 
+4:09:47.032	ID:10	LOG TEMPARATURE 17.6 
+4:09:47.032	ID:10	LOG AVAILABILITY 1
+4:09:47.032	ID:10	LOG SENT 9 10|1:10;|17.6:10;|15.2:10; 
+4:09:47.056	ID:9	LOG RECEIVED 10|1:10;|17.6:10;|15.2:10; 
+4:09:47.068	ID:24	LOG AVAILABILITY 1
+4:09:47.068	ID:24	LOG SENT 23 24|1:24;|| 
+4:09:47.072	ID:10	LOG SENT 11 10|1:10;|17.6:10;|15.2:10; 
+4:09:47.085	ID:17	LOG RECEIVED 10|1:10;|17.6:10;|15.2:10; 
+4:09:47.089	ID:25	LOG TEMPARATURE 26.9 
+4:09:47.094	ID:35	LOG RECEIVED 24|1:24;|| 
+4:09:47.100	ID:39	LOG TEMPARATURE 16.1 
+4:09:47.110	ID:24	LOG SENT 25 24|1:12,24;|| 
+4:09:47.144	ID:37	LOG RECEIVED 24|1:12,24;|| 
+4:09:56.012	ID:49	LOG SENT 50 49|1:49;|| 
+4:11:25.441	ID:47	LOG SENT 48 47|1:47;|3.0:47;|3.0:47; 
+4:11:26.108	ID:48	LOG TEMPARATURE 32.9 
+4:11:26.130	ID:40	LOG TEMPARATURE 28.8 
+4:11:26.157	ID:16	LOG TEMPARATURE 4.5 
+4:11:26.182	ID:7	LOG TEMPARATURE 28.4 
+4:11:26.197	ID:21	LOG TEMPARATURE 7.5 
+4:11:26.214	ID:33	LOG TEMPARATURE 21.6 
+4:11:26.242	ID:20	LOG TEMPARATURE 24.0 
+4:11:26.242	ID:20	LOG AVAILABILITY 1
+4:11:26.242	ID:20	LOG SENT 19 20|1:20;|24.0:20;|24.2:20; 
+4:11:26.267	ID:25	LOG RECEIVED 20|1:20;|24.0:20;|24.2:20; 
+4:11:26.278	ID:5	LOG TEMPARATURE 0.2 
+4:11:26.303	ID:26	LOG TEMPARATURE 34.2 
+4:11:26.304	ID:20	LOG SENT 21 20|1:20;|24.0:20;|24.2:20; 
+4:11:26.322	ID:27	LOG TEMPARATURE 26.7 
+4:11:26.341	ID:33	LOG RECEIVED 20|1:20;|24.0:20;|24.2:20; 
+4:11:26.353	ID:1	LOG TEMPARATURE 17.5 
+4:11:26.362	ID:9	LOG TEMPARATURE 34.6 
+4:11:26.416	ID:12	LOG TEMPARATURE 28.7 
+4:11:26.416	ID:12	LOG AVAILABILITY 0
+4:11:26.416	ID:12	LOG SENT 11 12|0:12;|28.7:12;|28.7:12; 
+4:11:26.432	ID:17	LOG RECEIVED 12|0:12;|28.7:12;|28.7:12; 
+4:11:26.454	ID:12	LOG SENT 13 12|0:12;|28.7:12;|28.7:12; 
+4:11:26.461	ID:19	LOG RECEIVED 12|0:12;|28.7:12;|28.7:12; 
+4:11:26.601	ID:23	LOG TEMPARATURE 10.6 
+4:11:26.606	ID:2	LOG TEMPARATURE 8.8 
+4:11:26.615	ID:35	LOG TEMPARATURE 15.6 
+4:11:26.650	ID:11	LOG TEMPARATURE 10.1 
+4:11:26.670	ID:45	LOG TEMPARATURE 16.8 
+4:11:26.770	ID:31	LOG TEMPARATURE 17.6 
+4:11:26.838	ID:37	LOG TEMPARATURE 11.2 
+4:11:26.843	ID:43	LOG TEMPARATURE 13.1 
+4:11:26.851	ID:29	LOG TEMPARATURE 10.1 
+4:11:26.930	ID:28	LOG TEMPARATURE 10.8 
+4:11:26.989	ID:14	LOG TEMPARATURE 24.0 
+4:11:27.068	ID:24	LOG TEMPARATURE 14.9 
+4:11:27.089	ID:25	LOG AVAILABILITY 1
+4:11:27.089	ID:25	LOG SENT 24 25|1:25;|26.9:25;|20.2:25; 
+4:11:27.096	ID:36	LOG TEMPARATURE 22.1 
+4:11:27.100	ID:39	LOG AVAILABILITY 1
+4:11:27.100	ID:39	LOG SENT 38 39|1:39;|16.1:39;|16.1:39; 
+4:11:27.126	ID:36	LOG RECEIVED 25|1:25;|26.9:25;|20.2:25; 
+4:11:27.165	ID:25	LOG SENT 26 25|1:20,25;|26.9:25;|20.2:25; 
+4:11:27.171	ID:38	LOG RECEIVED 25|1:20,25;|26.9:25;|20.2:25; 
+4:11:52.112	ID:42	LOG SENT 43 42|1:42;|| 
+4:13:06.136	ID:18	LOG AVAILABILITY 1
+4:13:06.136	ID:18	LOG SENT 17 18|1:18;|25.3:18;|25.3:18; 
+4:13:06.165	ID:23	LOG RECEIVED 18|1:18;|25.3:18;|25.3:18; 
+4:13:06.182	ID:7	LOG TEMPARATURE 16.4 
+4:13:06.197	ID:21	LOG AVAILABILITY 1
+4:13:06.197	ID:21	LOG SENT 20 21|1:21;|7.5:21;|8.3:21; 
+4:13:06.206	ID:18	LOG SENT 19 18|1:18;|25.3:18;|25.3:18; 
+4:13:06.226	ID:32	LOG RECEIVED 21|1:21;|7.5:21;|8.3:21; 
+4:13:06.233	ID:44	LOG TEMPARATURE 0.1 
+4:13:06.250	ID:21	LOG SENT 22 21|1:21;|7.5:21;|8.3:21; 
+4:13:06.267	ID:34	LOG RECEIVED 21|1:21;|7.5:21;|8.3:21; 
+4:13:06.278	ID:5	LOG TEMPARATURE 34.2 
+4:13:06.283	ID:25	LOG RECEIVED 18|1:18;|25.3:18;|25.3:18; 
+4:13:06.322	ID:27	LOG TEMPARATURE 7.7 
+4:13:06.353	ID:1	LOG TEMPARATURE 1.3 
+4:13:06.353	ID:1	LOG AVAILABILITY 1
+4:13:06.353	ID:1	LOG SENT 0 1|1:1;|1.3:1;|14.5:1; 
+4:13:06.415	ID:38	LOG TEMPARATURE 12.9 
+4:13:06.597	ID:22	LOG TEMPARATURE 11.8 
+4:13:06.606	ID:2	LOG TEMPARATURE 26.2 
+4:13:06.606	ID:2	LOG AVAILABILITY 1
+4:13:06.606	ID:2	LOG SENT 1 2|1:2;|26.2:2;|17.5:2; 
+4:13:06.615	ID:35	LOG TEMPARATURE 28.5 
+4:13:06.623	ID:1	LOG RECEIVED 2|1:2;|26.2:2;|17.5:2; 
+4:13:06.650	ID:11	LOG TEMPARATURE 34.4 
+4:13:06.662	ID:2	LOG SENT 3 2|1:2;|26.2:2;|17.5:2; 
+4:13:06.690	ID:3	LOG RECEIVED 2|1:2;|26.2:2;|17.5:2; 
+4:13:06.727	ID:6	LOG AVAILABILITY 1
+4:13:06.727	ID:6	LOG SENT 5 6|1:6;|| 
+4:13:06.744	ID:5	LOG RECEIVED 6|1:6;|| 
+4:13:06.757	ID:6	LOG SENT 7 6|1:6;|| 
+4:13:06.771	ID:7	LOG RECEIVED 6|1:6;|| 
+4:13:06.838	ID:37	LOG TEMPARATURE 32.4 
+4:13:06.843	ID:43	LOG TEMPARATURE 20.4 
+4:13:06.848	ID:15	LOG AVAILABILITY 1
+4:13:06.848	ID:15	LOG SENT 14 15|1:15;|6.5:15;|6.5:15; 
+4:13:06.848	ID:41	LOG TEMPARATURE 6.1 
+4:13:06.851	ID:29	LOG TEMPARATURE 15.4 
+4:13:06.890	ID:20	LOG RECEIVED 15|1:15;|6.5:15;|6.5:15; 
+4:13:06.893	ID:17	LOG TEMPARATURE 29.1 
+4:13:06.896	ID:15	LOG SENT 16 15|1:15;|6.5:15;|6.5:15; 
+4:13:06.927	ID:22	LOG RECEIVED 15|1:15;|6.5:15;|6.5:15; 
+4:13:06.930	ID:28	LOG TEMPARATURE 8.9 
+4:13:06.989	ID:14	LOG TEMPARATURE 16.5 
+4:13:06.997	ID:4	LOG TEMPARATURE 29.1 
+4:13:07.026	ID:3	LOG TEMPARATURE 25.2 
+4:13:07.886	ID:39	LOG SENT 40 39|1:39;|16.1:39;|16.1:39; 
+4:14:46.108	ID:48	LOG AVAILABILITY 1
+4:14:46.108	ID:48	LOG SENT 47 48|1:48;|32.9:48;|32.9:48; 
+4:14:46.122	ID:19	LOG TEMPARATURE 14.1 
+4:14:46.136	ID:18	LOG TEMPARATURE 18.8 
+4:14:46.182	ID:7	LOG TEMPARATURE 5.6 
+4:14:46.197	ID:21	LOG TEMPARATURE 30.2 
+4:14:46.278	ID:5	LOG TEMPARATURE 19.4 
+4:14:46.322	ID:27	LOG TEMPARATURE 21.6 
+4:14:46.362	ID:9	LOG AVAILABILITY 1
+4:14:46.362	ID:9	LOG SENT 8 9|1:10,9;|34.6:9;|27.9:9; 
+4:14:46.401	ID:8	LOG RECEIVED 9|1:10,9;|34.6:9;|27.9:9; 
+4:14:46.410	ID:9	LOG SENT 10 9|1:9;|34.6:9;|27.9:9; 
+4:14:46.414	ID:34	LOG TEMPARATURE 6.6 
+4:14:46.423	ID:16	LOG RECEIVED 9|1:9;|34.6:9;|27.9:9; 
+4:14:46.597	ID:22	LOG TEMPARATURE 25.6 
+4:14:46.601	ID:23	LOG TEMPARATURE 2.8 
+4:14:46.606	ID:2	LOG TEMPARATURE 17.5 
+4:14:46.615	ID:35	LOG TEMPARATURE 19.3 
+4:14:46.670	ID:45	LOG TEMPARATURE 24.6 
+4:14:46.838	ID:37	LOG TEMPARATURE 13.1 
+4:14:46.848	ID:41	LOG TEMPARATURE 33.8 
+4:14:46.893	ID:17	LOG TEMPARATURE 8.9 
+4:14:46.893	ID:17	LOG AVAILABILITY 0
+4:14:46.893	ID:17	LOG SENT 16 17|0:17;|8.9:17;|21.9:17; 
+4:14:46.906	ID:22	LOG RECEIVED 17|0:17;|8.9:17;|21.9:17; 
+4:14:46.919	ID:17	LOG SENT 18 17|0:12,17;|8.9:17;|21.9:17; 
+4:14:46.950	ID:24	LOG RECEIVED 17|0:12,17;|8.9:17;|21.9:17; 
+4:14:46.997	ID:4	LOG TEMPARATURE 0.3 
+4:14:47.026	ID:3	LOG TEMPARATURE 28.5 
+4:14:47.032	ID:10	LOG TEMPARATURE 7.5 
+4:14:47.089	ID:25	LOG TEMPARATURE 0.4 
+4:14:57.338	ID:1	LOG SENT 2 1|1:1;|1.3:1;|14.5:1; 
+4:14:57.355	ID:2	LOG RECEIVED 1|1:1;|1.3:1;|14.5:1; 
+4:16:20.911	ID:48	LOG SENT 49 48|1:48;|32.9:48;|32.9:48; 
+4:16:26.122	ID:19	LOG TEMPARATURE 34.3 
+4:16:26.136	ID:18	LOG TEMPARATURE 12.9 
+4:16:26.157	ID:16	LOG TEMPARATURE 30.0 
+4:16:26.182	ID:7	LOG TEMPARATURE 2.0 
+4:16:26.197	ID:46	LOG TEMPARATURE 20.4 
+4:16:26.214	ID:33	LOG TEMPARATURE 6.2 
+4:16:26.233	ID:44	LOG TEMPARATURE 20.1 
+4:16:26.242	ID:20	LOG TEMPARATURE 29.1 
+4:16:26.303	ID:26	LOG TEMPARATURE 13.5 
+4:16:26.322	ID:27	LOG TEMPARATURE 17.4 
+4:16:26.323	ID:50	LOG AVAILABILITY 1
+4:16:26.323	ID:50	LOG SENT 49 50|1:50;|20.5:50;|23.4:50; 
+4:16:26.362	ID:9	LOG TEMPARATURE 30.7 
+4:16:26.414	ID:34	LOG TEMPARATURE 34.5 
+4:16:26.597	ID:22	LOG TEMPARATURE 5.5 
+4:16:26.601	ID:23	LOG TEMPARATURE 13.2 
+4:16:26.601	ID:23	LOG AVAILABILITY 0
+4:16:26.601	ID:23	LOG SENT 22 23|0:23;|13.2:23;|8.9:23; 
+4:16:26.606	ID:2	LOG TEMPARATURE 18.9 
+4:16:26.615	ID:35	LOG TEMPARATURE 8.0 
+4:16:26.640	ID:34	LOG RECEIVED 23|0:23;|13.2:23;|8.9:23; 
+4:16:26.670	ID:45	LOG TEMPARATURE 5.3 
+4:16:26.680	ID:23	LOG SENT 24 23|0:23;1:18;|13.2:23;|8.9:23; 
+4:16:26.715	ID:30	LOG TEMPARATURE 30.2 
+4:16:26.719	ID:36	LOG RECEIVED 23|0:23;1:18;|13.2:23;|8.9:23; 
+4:16:26.770	ID:31	LOG TEMPARATURE 25.2 
+4:16:26.848	ID:15	LOG TEMPARATURE 27.3 
+4:16:26.848	ID:15	LOG AVAILABILITY 0
+4:16:26.848	ID:15	LOG SENT 14 15|0:15;|27.3:15;|27.3:15; 
+4:16:26.851	ID:29	LOG TEMPARATURE 3.4 
+4:16:26.855	ID:20	LOG RECEIVED 15|0:15;|27.3:15;|27.3:15; 
+4:16:26.885	ID:15	LOG SENT 16 15|0:15;|27.3:15;|27.3:15; 
+4:16:26.893	ID:17	LOG TEMPARATURE 5.3 
+4:16:26.909	ID:22	LOG RECEIVED 15|0:15;|27.3:15;|27.3:15; 
+4:16:26.943	ID:32	LOG AVAILABILITY 1
+4:16:26.943	ID:32	LOG SENT 31 32|1:32;|19.7:32;|19.7:32; 
+4:16:26.985	ID:49	LOG RECEIVED 32|1:32;|19.7:32;|19.7:32; 
+4:16:26.997	ID:4	LOG TEMPARATURE 7.3 
+4:16:27.007	ID:13	LOG TEMPARATURE 8.0 
+4:16:27.007	ID:13	LOG AVAILABILITY 1
+4:16:27.007	ID:13	LOG SENT 12 13|1:13;|8.0:13;|8.0:13; 
+4:16:27.010	ID:32	LOG SENT 33 32|1:21,32;|19.7:32;|19.7:32; 
+4:16:27.026	ID:3	LOG TEMPARATURE 10.4 
+4:16:27.026	ID:3	LOG AVAILABILITY 1
+4:16:27.026	ID:3	LOG SENT 2 3|1:3;|10.4:3;|22.1:3; 
+4:16:27.032	ID:10	LOG TEMPARATURE 16.0 
+4:16:27.032	ID:10	LOG AVAILABILITY 0
+4:16:27.032	ID:10	LOG SENT 9 10|0:10;|16.0:10;|11.8:10; 
+4:16:27.055	ID:18	LOG RECEIVED 13|1:13;|8.0:13;|8.0:13; 
+4:16:27.091	ID:13	LOG SENT 14 13|1:13;|8.0:13;|8.0:13; 
+4:16:27.096	ID:36	LOG TEMPARATURE 19.2 
+4:16:27.111	ID:9	LOG RECEIVED 10|0:10;|16.0:10;|11.8:10; 
+4:16:27.116	ID:10	LOG SENT 11 10|0:10;|16.0:10;|11.8:10; 
+4:16:27.123	ID:2	LOG RECEIVED 3|1:3;|10.4:3;|22.1:3; 
+4:16:27.132	ID:20	LOG RECEIVED 13|1:13;|8.0:13;|8.0:13; 
+4:16:27.141	ID:17	LOG RECEIVED 10|0:10;|16.0:10;|11.8:10; 
+4:16:27.177	ID:3	LOG SENT 4 3|1:2,3;|10.4:3;|22.1:3; 
+4:16:27.203	ID:4	LOG RECEIVED 3|1:2,3;|10.4:3;|22.1:3; 
+4:18:06.122	ID:19	LOG TEMPARATURE 23.9 
+4:18:06.130	ID:40	LOG TEMPARATURE 22.5 
+4:18:06.136	ID:18	LOG TEMPARATURE 33.3 
+4:18:06.182	ID:7	LOG TEMPARATURE 13.3 
+4:18:06.197	ID:21	LOG TEMPARATURE 3.3 
+4:18:06.197	ID:46	LOG TEMPARATURE 19.1 
+4:18:06.214	ID:33	LOG TEMPARATURE 16.4 
+4:18:06.233	ID:44	LOG TEMPARATURE 29.1 
+4:18:06.242	ID:20	LOG TEMPARATURE 20.6 
+4:18:06.303	ID:26	LOG TEMPARATURE 15.9 
+4:18:06.322	ID:27	LOG TEMPARATURE 3.4 
+4:18:06.362	ID:9	LOG TEMPARATURE 17.0 
+4:18:06.597	ID:22	LOG TEMPARATURE 5.9 
+4:18:06.606	ID:2	LOG TEMPARATURE 6.6 
+4:18:06.838	ID:37	LOG TEMPARATURE 25.7 
+4:18:06.843	ID:43	LOG TEMPARATURE 24.4 
+4:18:06.848	ID:41	LOG TEMPARATURE 5.6 
+4:18:06.893	ID:17	LOG TEMPARATURE 22.1 
+4:18:06.989	ID:14	LOG TEMPARATURE 20.1 
+4:18:07.007	ID:13	LOG AVAILABILITY 0
+4:18:07.007	ID:13	LOG SENT 12 13|0:13;|| 
+4:18:07.018	ID:18	LOG RECEIVED 13|0:13;|| 
+4:18:07.026	ID:3	LOG TEMPARATURE 22.6 
+4:18:07.042	ID:13	LOG SENT 14 13|0:13;|| 
+4:18:07.070	ID:20	LOG RECEIVED 13|0:13;|| 
+4:18:07.089	ID:25	LOG AVAILABILITY 0
+4:18:07.089	ID:25	LOG SENT 24 25|0:25;|0.4:25;|0.4:25; 
+4:18:07.102	ID:36	LOG RECEIVED 25|0:25;|0.4:25;|0.4:25; 
+4:18:07.121	ID:25	LOG SENT 26 25|0:25;1:20;|0.4:25;|0.4:25; 
+4:18:07.147	ID:38	LOG RECEIVED 25|0:25;1:20;|0.4:25;|0.4:25; 
+4:18:24.190	ID:50	LOG SENT 51 50|1:50;|20.5:50;|23.4:50; 
+4:19:46.122	ID:19	LOG TEMPARATURE 15.4 
+4:19:46.157	ID:16	LOG TEMPARATURE 34.3 
+4:19:46.197	ID:21	LOG TEMPARATURE 30.6 
+4:19:46.197	ID:46	LOG TEMPARATURE 20.2 
+4:19:46.303	ID:26	LOG TEMPARATURE 1.5 
+4:19:46.322	ID:27	LOG TEMPARATURE 11.9 
+4:19:46.414	ID:34	LOG TEMPARATURE 0.8 
+4:19:46.415	ID:38	LOG TEMPARATURE 0.0 
+4:19:46.416	ID:12	LOG TEMPARATURE 22.3 
+4:19:46.601	ID:23	LOG TEMPARATURE 1.1 
+4:19:46.615	ID:35	LOG TEMPARATURE 23.2 
+4:19:46.670	ID:45	LOG TEMPARATURE 0.8 
+4:19:46.727	ID:6	LOG AVAILABILITY 0
+4:19:46.727	ID:6	LOG SENT 5 6|0:6;|| 
+4:19:46.749	ID:5	LOG RECEIVED 6|0:6;|| 
+4:19:46.775	ID:6	LOG SENT 7 6|0:6;|| 
+4:19:46.804	ID:8	LOG TEMPARATURE 27.1 
+4:19:46.804	ID:8	LOG AVAILABILITY 1
+4:19:46.804	ID:8	LOG SENT 7 8|1:10,8;|27.1:8;|15.0:8; 
+4:19:46.815	ID:7	LOG RECEIVED 6|0:6;|| 
+4:19:46.838	ID:37	LOG TEMPARATURE 11.4 
+4:19:46.843	ID:43	LOG TEMPARATURE 13.0 
+4:19:46.844	ID:7	LOG RECEIVED 8|1:10,8;|27.1:8;|15.0:8; 
+4:19:46.848	ID:41	LOG AVAILABILITY 1
+4:19:46.848	ID:41	LOG SENT 40 41|1:41;|5.6:41;|15.2:41; 
+4:19:46.851	ID:29	LOG TEMPARATURE 3.2 
+4:19:46.874	ID:8	LOG SENT 9 8|1:8;|27.1:8;|15.0:8; 
+4:19:46.893	ID:17	LOG TEMPARATURE 9.2 
+4:19:46.908	ID:9	LOG RECEIVED 8|1:8;|27.1:8;|15.0:8; 
+4:19:46.997	ID:4	LOG TEMPARATURE 6.4 
+4:19:47.026	ID:3	LOG TEMPARATURE 24.3 
+4:19:47.096	ID:36	LOG TEMPARATURE 29.2 
+4:19:47.096	ID:36	LOG AVAILABILITY 1
+4:19:47.096	ID:36	LOG SENT 35 36|1:36;|29.2:36;|23.5:36; 
+4:21:26.242	ID:20	LOG TEMPARATURE 9.2 
+4:21:26.242	ID:20	LOG AVAILABILITY 0
+4:21:26.242	ID:20	LOG SENT 19 20|0:20;|9.2:20;|19.6:20; 
+4:21:26.283	ID:25	LOG RECEIVED 20|0:20;|9.2:20;|19.6:20; 
+4:21:26.315	ID:20	LOG SENT 21 20|0:15,20;|9.2:20;|19.6:20; 
+4:21:26.348	ID:33	LOG RECEIVED 20|0:15,20;|9.2:20;|19.6:20; 
+4:21:26.362	ID:9	LOG TEMPARATURE 29.6 
+4:21:26.414	ID:34	LOG TEMPARATURE 10.1 
+4:21:26.414	ID:34	LOG AVAILABILITY 1
+4:21:26.414	ID:34	LOG SENT 33 34|1:34;|10.1:34;|13.0:34; 
+4:21:26.415	ID:38	LOG TEMPARATURE 20.9 
+4:21:26.597	ID:22	LOG TEMPARATURE 12.9 
+4:21:26.606	ID:2	LOG TEMPARATURE 19.7 
+4:21:26.615	ID:35	LOG TEMPARATURE 9.4 
+4:21:26.650	ID:11	LOG TEMPARATURE 19.2 
+4:21:26.715	ID:30	LOG TEMPARATURE 21.8 
+4:21:26.804	ID:8	LOG TEMPARATURE 19.0 
+4:21:26.848	ID:15	LOG TEMPARATURE 28.8 
+4:21:26.848	ID:15	LOG AVAILABILITY 1
+4:21:26.848	ID:15	LOG SENT 14 15|1:15;|28.8:15;|28.8:15; 
+4:21:26.873	ID:20	LOG RECEIVED 15|1:15;|28.8:15;|28.8:15; 
+4:21:26.914	ID:15	LOG SENT 16 15|1:15;|28.8:15;|28.8:15; 
+4:21:26.932	ID:22	LOG RECEIVED 15|1:15;|28.8:15;|28.8:15; 
+4:21:27.007	ID:13	LOG TEMPARATURE 9.7 
+4:21:27.032	ID:10	LOG TEMPARATURE 30.4 
+4:21:27.068	ID:24	LOG TEMPARATURE 27.8 
+4:21:27.068	ID:24	LOG AVAILABILITY 0
+4:21:27.068	ID:24	LOG SENT 23 24|0:24;|27.8:24;|21.3:24; 
+4:21:27.084	ID:35	LOG RECEIVED 24|0:24;|27.8:24;|21.3:24; 
+4:21:27.121	ID:24	LOG SENT 25 24|0:12,24;|27.8:24;|21.3:24; 
+4:21:27.147	ID:37	LOG RECEIVED 24|0:12,24;|27.8:24;|21.3:24; 
+4:21:49.396	ID:36	LOG SENT 37 36|0:23;1:36;|29.2:36;|23.5:36; 
+4:22:02.044	ID:41	LOG SENT 42 41|1:41;|5.6:41;|15.2:41; 
+4:23:06.130	ID:40	LOG TEMPARATURE 12.9 
+4:23:06.136	ID:18	LOG TEMPARATURE 23.6 
+4:23:06.182	ID:7	LOG TEMPARATURE 28.6 
+4:23:06.242	ID:20	LOG TEMPARATURE 18.6 
+4:23:06.278	ID:5	LOG TEMPARATURE 12.3 
+4:23:06.322	ID:27	LOG TEMPARATURE 0.5 
+4:23:06.362	ID:9	LOG TEMPARATURE 13.1 
+4:23:06.415	ID:38	LOG TEMPARATURE 33.5 
+4:23:06.416	ID:12	LOG TEMPARATURE 0.2 
+4:23:06.597	ID:22	LOG TEMPARATURE 7.3 
+4:23:06.601	ID:23	LOG TEMPARATURE 30.3 
+4:23:06.606	ID:2	LOG TEMPARATURE 32.7 
+4:23:06.615	ID:35	LOG AVAILABILITY 1
+4:23:06.615	ID:35	LOG SENT 34 35|1:35;|9.4:35;|14.9:35; 
+4:23:06.650	ID:11	LOG TEMPARATURE 2.5 
+4:23:06.715	ID:30	LOG TEMPARATURE 25.2 
+4:23:06.770	ID:31	LOG TEMPARATURE 33.9 
+4:23:06.804	ID:8	LOG TEMPARATURE 30.9 
+4:23:06.848	ID:15	LOG TEMPARATURE 26.8 
+4:23:06.851	ID:29	LOG TEMPARATURE 24.6 
+4:23:06.851	ID:29	LOG AVAILABILITY 1
+4:23:06.851	ID:29	LOG SENT 28 29|1:29;|24.6:29;|11.0:29; 
+4:23:06.875	ID:40	LOG RECEIVED 29|1:29;|24.6:29;|11.0:29; 
+4:23:06.903	ID:29	LOG SENT 30 29|1:29;|24.6:29;|11.0:29; 
+4:23:06.927	ID:48	LOG RECEIVED 29|1:29;|24.6:29;|11.0:29; 
+4:23:06.930	ID:28	LOG TEMPARATURE 4.5 
+4:23:06.989	ID:14	LOG TEMPARATURE 17.6 
+4:23:06.997	ID:4	LOG TEMPARATURE 33.5 
+4:23:07.026	ID:3	LOG TEMPARATURE 31.2 
+4:23:07.032	ID:10	LOG TEMPARATURE 33.0 
+4:23:07.068	ID:24	LOG TEMPARATURE 5.0 
+4:23:07.231	ID:34	LOG SENT 35 34|0:23;1:34;|10.1:34;|13.0:34; 
+4:24:46.122	ID:19	LOG AVAILABILITY 1
+4:24:46.122	ID:19	LOG SENT 18 19|1:19;|15.4:19;|21.9:19; 
+4:24:46.129	ID:24	LOG RECEIVED 19|1:19;|15.4:19;|21.9:19; 
+4:24:46.130	ID:40	LOG TEMPARATURE 19.6 
+4:24:46.134	ID:19	LOG SENT 20 19|0:12;1:19;|15.4:19;|21.9:19; 
+4:24:46.136	ID:18	LOG TEMPARATURE 9.6 
+4:24:46.157	ID:16	LOG TEMPARATURE 10.1 
+4:24:46.167	ID:32	LOG RECEIVED 19|0:12;1:19;|15.4:19;|21.9:19; 
+4:24:46.233	ID:44	LOG TEMPARATURE 15.4 
+4:24:46.242	ID:20	LOG TEMPARATURE 15.1 
+4:24:46.415	ID:38	LOG TEMPARATURE 34.1 
+4:24:46.601	ID:23	LOG TEMPARATURE 10.3 
+4:24:46.715	ID:30	LOG TEMPARATURE 26.4 
+4:24:46.838	ID:37	LOG TEMPARATURE 10.3 
+4:24:46.838	ID:37	LOG AVAILABILITY 1
+4:24:46.838	ID:37	LOG SENT 36 37|1:37;|10.3:37;|15.9:37; 
+4:24:46.843	ID:43	LOG TEMPARATURE 30.8 
+4:24:46.848	ID:15	LOG TEMPARATURE 16.3 
+4:24:46.851	ID:29	LOG TEMPARATURE 1.6 
+4:24:46.893	ID:17	LOG TEMPARATURE 25.2 
+4:24:46.997	ID:4	LOG TEMPARATURE 32.4 
+4:24:47.089	ID:25	LOG TEMPARATURE 3.1 
+4:24:47.089	ID:25	LOG AVAILABILITY 1
+4:24:47.089	ID:25	LOG SENT 24 25|1:25;|3.1:25;|3.1:25; 
+4:24:47.097	ID:36	LOG RECEIVED 25|1:25;|3.1:25;|3.1:25; 
+4:24:47.109	ID:25	LOG SENT 26 25|0:20;1:25;|3.1:25;|3.1:25; 
+4:24:47.145	ID:38	LOG RECEIVED 25|0:20;1:25;|3.1:25;|3.1:25; 
+4:24:57.879	ID:35	LOG SENT 36 35|0:24;1:35;|9.4:35;|14.9:35; 
+4:26:26.122	ID:19	LOG TEMPARATURE 22.0 
+4:26:26.136	ID:18	LOG TEMPARATURE 9.8 
+4:26:26.157	ID:16	LOG TEMPARATURE 9.0 
+4:26:26.182	ID:7	LOG TEMPARATURE 4.0 
+4:26:26.197	ID:21	LOG TEMPARATURE 14.3 
+4:26:26.214	ID:33	LOG TEMPARATURE 32.3 
+4:26:26.303	ID:26	LOG TEMPARATURE 6.2 
+4:26:26.322	ID:27	LOG TEMPARATURE 8.4 
+4:26:26.362	ID:9	LOG TEMPARATURE 25.1 
+4:26:26.415	ID:38	LOG TEMPARATURE 14.1 
+4:26:26.650	ID:11	LOG TEMPARATURE 29.4 
+4:26:26.670	ID:45	LOG TEMPARATURE 29.3 
+4:26:26.727	ID:6	LOG TEMPARATURE 15.0 
+4:26:26.770	ID:31	LOG TEMPARATURE 1.4 
+4:26:26.770	ID:31	LOG AVAILABILITY 1
+4:26:26.770	ID:31	LOG SENT 30 31|1:31;|1.4:31;|22.5:31; 
+4:26:26.797	ID:48	LOG RECEIVED 31|1:31;|1.4:31;|22.5:31; 
+4:26:26.804	ID:8	LOG TEMPARATURE 34.9 
+4:26:26.835	ID:31	LOG SENT 32 31|1:31;|1.4:31;|22.5:31; 
+4:26:26.843	ID:43	LOG TEMPARATURE 30.4 
+4:26:26.848	ID:15	LOG TEMPARATURE 20.5 
+4:26:26.851	ID:29	LOG TEMPARATURE 5.1 
+4:26:26.873	ID:50	LOG RECEIVED 31|1:31;|1.4:31;|22.5:31; 
+4:26:26.893	ID:17	LOG TEMPARATURE 23.8 
+4:26:26.893	ID:17	LOG AVAILABILITY 1
+4:26:26.893	ID:17	LOG SENT 16 17|1:17;|23.8:17;|17.1:17; 
+4:26:26.919	ID:22	LOG RECEIVED 17|1:17;|23.8:17;|17.1:17; 
+4:26:26.930	ID:28	LOG TEMPARATURE 6.9 
+4:26:26.937	ID:17	LOG SENT 18 17|0:12;1:17;|23.8:17;|17.1:17; 
+4:26:26.948	ID:24	LOG RECEIVED 17|0:12;1:17;|23.8:17;|17.1:17; 
+4:26:26.989	ID:14	LOG TEMPARATURE 22.1 
+4:26:27.007	ID:13	LOG TEMPARATURE 12.6 
+4:26:27.032	ID:10	LOG AVAILABILITY 1
+4:26:27.032	ID:10	LOG SENT 9 10|1:10;|33.0:10;|31.7:10; 
+4:26:27.039	ID:9	LOG RECEIVED 10|1:10;|33.0:10;|31.7:10; 
+4:26:27.073	ID:10	LOG SENT 11 10|1:10;|33.0:10;|31.7:10; 
+4:26:27.111	ID:17	LOG RECEIVED 10|1:10;|33.0:10;|31.7:10; 
+4:26:39.466	ID:37	LOG SENT 38 37|0:12;1:37;|10.3:37;|15.9:37; 
+4:28:06.122	ID:19	LOG TEMPARATURE 29.6 
+4:28:06.197	ID:21	LOG TEMPARATURE 20.4 
+4:28:06.197	ID:46	LOG TEMPARATURE 24.8 
+4:28:06.214	ID:33	LOG TEMPARATURE 4.4 
+4:28:06.278	ID:5	LOG TEMPARATURE 3.0 
+4:28:06.362	ID:9	LOG TEMPARATURE 11.2 
+4:28:06.416	ID:12	LOG TEMPARATURE 7.5 
+4:28:06.601	ID:23	LOG TEMPARATURE 4.5 
+4:28:06.601	ID:23	LOG AVAILABILITY 1
+4:28:06.601	ID:23	LOG SENT 22 23|1:23;|4.5:23;|11.6:23; 
+4:28:06.623	ID:34	LOG RECEIVED 23|1:23;|4.5:23;|11.6:23; 
+4:28:06.649	ID:23	LOG SENT 24 23|1:18,23;|4.5:23;|11.6:23; 
+4:28:06.670	ID:45	LOG TEMPARATURE 11.3 
+4:28:06.691	ID:36	LOG RECEIVED 23|1:18,23;|4.5:23;|11.6:23; 
+4:28:06.715	ID:30	LOG TEMPARATURE 21.3 
+4:28:06.770	ID:31	LOG TEMPARATURE 29.5 
+4:28:06.848	ID:15	LOG TEMPARATURE 15.3 
+4:28:06.851	ID:29	LOG TEMPARATURE 19.8 
+4:28:06.851	ID:29	LOG AVAILABILITY 0
+4:28:06.851	ID:29	LOG SENT 28 29|0:29;|19.8:29;|8.8:29; 
+4:28:06.873	ID:40	LOG RECEIVED 29|0:29;|19.8:29;|8.8:29; 
+4:28:06.893	ID:17	LOG TEMPARATURE 31.2 
+4:28:06.897	ID:29	LOG SENT 30 29|0:29;|19.8:29;|8.8:29; 
+4:28:06.925	ID:48	LOG RECEIVED 29|0:29;|19.8:29;|8.8:29; 
+4:28:06.930	ID:28	LOG TEMPARATURE 24.5 
+4:28:06.930	ID:28	LOG AVAILABILITY 1
+4:28:06.930	ID:28	LOG SENT 27 28|1:28;|24.5:28;|11.1:28; 
+4:28:06.941	ID:39	LOG RECEIVED 28|1:28;|24.5:28;|11.1:28; 
+4:28:06.957	ID:28	LOG SENT 29 28|1:28;|24.5:28;|11.1:28; 
+4:28:06.991	ID:41	LOG RECEIVED 28|1:28;|24.5:28;|11.1:28; 
+4:28:06.997	ID:4	LOG TEMPARATURE 31.0 
+4:28:07.007	ID:13	LOG TEMPARATURE 12.2 
+4:28:07.026	ID:3	LOG TEMPARATURE 21.9 
+4:28:07.032	ID:10	LOG AVAILABILITY 0
+4:28:07.032	ID:10	LOG SENT 9 10|0:10;|| 
+4:28:07.038	ID:9	LOG RECEIVED 10|0:10;|| 
+4:28:07.061	ID:10	LOG SENT 11 10|0:10;|| 
+4:28:07.068	ID:24	LOG TEMPARATURE 8.3 
+4:28:07.089	ID:25	LOG TEMPARATURE 7.7 
+4:28:07.104	ID:17	LOG RECEIVED 10|0:10;|| 
+4:29:46.197	ID:21	LOG AVAILABILITY 0
+4:29:46.197	ID:21	LOG SENT 20 21|0:21;|20.4:21;|19.8:21; 
+4:29:46.197	ID:46	LOG TEMPARATURE 9.6 
+4:29:46.208	ID:32	LOG RECEIVED 21|0:21;|20.4:21;|19.8:21; 
+4:29:46.214	ID:33	LOG TEMPARATURE 1.1 
+4:29:46.236	ID:21	LOG SENT 22 21|0:21;|20.4:21;|19.8:21; 
+4:29:46.242	ID:20	LOG TEMPARATURE 18.8 
+4:29:46.259	ID:34	LOG RECEIVED 21|0:21;|20.4:21;|19.8:21; 
+4:29:46.303	ID:26	LOG TEMPARATURE 7.4 
+4:29:46.322	ID:27	LOG TEMPARATURE 4.4 
+4:29:46.362	ID:9	LOG TEMPARATURE 21.2 
+4:29:46.415	ID:38	LOG TEMPARATURE 15.8 
+4:29:46.416	ID:12	LOG TEMPARATURE 0.5 
+4:29:46.597	ID:22	LOG TEMPARATURE 8.1 
+4:29:46.601	ID:23	LOG TEMPARATURE 9.2 
+4:29:46.606	ID:2	LOG TEMPARATURE 17.8 
+4:29:46.650	ID:11	LOG TEMPARATURE 10.2 
+4:29:46.670	ID:45	LOG TEMPARATURE 33.1 
+4:29:46.727	ID:6	LOG TEMPARATURE 32.5 
+4:29:46.804	ID:8	LOG TEMPARATURE 30.2 
+4:29:46.804	ID:8	LOG AVAILABILITY 0
+4:29:46.804	ID:8	LOG SENT 7 8|0:8;1:10;|30.2:8;|28.8:8; 
+4:29:46.834	ID:7	LOG RECEIVED 8|0:8;1:10;|30.2:8;|28.8:8; 
+4:29:46.843	ID:43	LOG TEMPARATURE 26.8 
+4:29:46.848	ID:15	LOG TEMPARATURE 0.0 
+4:29:46.859	ID:8	LOG SENT 9 8|0:8;|30.2:8;|28.8:8; 
+4:29:46.866	ID:9	LOG RECEIVED 8|0:8;|30.2:8;|28.8:8; 
+4:29:46.893	ID:17	LOG AVAILABILITY 0
+4:29:46.893	ID:17	LOG SENT 16 17|0:17;|31.2:17;|31.2:17; 
+4:29:46.925	ID:22	LOG RECEIVED 17|0:17;|31.2:17;|31.2:17; 
+4:29:46.930	ID:28	LOG TEMPARATURE 29.4 
+4:29:46.930	ID:17	LOG SENT 18 17|0:12,17;|31.2:17;|31.2:17; 
+4:29:46.960	ID:24	LOG RECEIVED 17|0:12,17;|31.2:17;|31.2:17; 
+4:29:46.989	ID:14	LOG TEMPARATURE 27.8 
+4:29:46.997	ID:4	LOG TEMPARATURE 23.1 
+4:29:47.007	ID:13	LOG TEMPARATURE 14.4 
+4:29:47.032	ID:10	LOG TEMPARATURE 4.8 
+4:31:26.136	ID:18	LOG TEMPARATURE 15.8 
+4:31:26.157	ID:16	LOG TEMPARATURE 2.9 
+4:31:26.182	ID:7	LOG AVAILABILITY 1
+4:31:26.182	ID:7	LOG SENT 6 7|1:7;|4.0:7;|16.1:7; 
+4:31:26.197	ID:21	LOG TEMPARATURE 27.5 
+4:31:26.197	ID:21	LOG AVAILABILITY 1
+4:31:26.197	ID:21	LOG SENT 20 21|1:21;|27.5:21;|27.5:21; 
+4:31:26.197	ID:46	LOG TEMPARATURE 0.5 
+4:31:26.207	ID:32	LOG RECEIVED 21|1:21;|27.5:21;|27.5:21; 
+4:31:26.214	ID:33	LOG TEMPARATURE 32.4 
+4:31:26.221	ID:6	LOG RECEIVED 7|1:7;|4.0:7;|16.1:7; 
+4:31:26.230	ID:7	LOG SENT 8 7|0:6;1:7;|4.0:7;|16.1:7; 
+4:31:26.233	ID:44	LOG TEMPARATURE 23.6 
+4:31:26.242	ID:20	LOG TEMPARATURE 29.3 
+4:31:26.243	ID:21	LOG SENT 22 21|1:21;|27.5:21;|27.5:21; 
+4:31:26.255	ID:8	LOG RECEIVED 7|0:6;1:7;|4.0:7;|16.1:7; 
+4:31:26.262	ID:34	LOG RECEIVED 21|1:21;|27.5:21;|27.5:21; 
+4:31:26.278	ID:5	LOG TEMPARATURE 29.9 
+4:31:26.303	ID:26	LOG TEMPARATURE 29.8 
+4:31:26.322	ID:27	LOG TEMPARATURE 28.9 
+4:31:26.362	ID:9	LOG TEMPARATURE 9.6 
+4:31:26.415	ID:38	LOG TEMPARATURE 1.1 
+4:31:26.601	ID:23	LOG AVAILABILITY 0
+4:31:26.601	ID:23	LOG SENT 22 23|0:23;|9.2:23;|9.2:23; 
+4:31:26.606	ID:2	LOG TEMPARATURE 31.6 
+4:31:26.608	ID:34	LOG RECEIVED 23|0:23;|9.2:23;|9.2:23; 
+4:31:26.622	ID:23	LOG SENT 24 23|0:23;1:18;|9.2:23;|9.2:23; 
+4:31:26.628	ID:36	LOG RECEIVED 23|0:23;1:18;|9.2:23;|9.2:23; 
+4:31:26.670	ID:45	LOG TEMPARATURE 2.2 
+4:31:26.804	ID:8	LOG TEMPARATURE 14.8 
+4:31:26.848	ID:15	LOG AVAILABILITY 0
+4:31:26.848	ID:15	LOG SENT 14 15|0:15;|0.0:15;|15.8:15; 
+4:31:26.892	ID:20	LOG RECEIVED 15|0:15;|0.0:15;|15.8:15; 
+4:31:26.893	ID:17	LOG TEMPARATURE 21.9 
+4:31:26.897	ID:15	LOG SENT 16 15|0:15;|0.0:15;|15.8:15; 
+4:31:26.935	ID:22	LOG RECEIVED 15|0:15;|0.0:15;|15.8:15; 
+4:31:26.997	ID:4	LOG AVAILABILITY 1
+4:31:26.997	ID:4	LOG SENT 3 4|1:4;|23.1:4;|18.9:4; 
+4:31:27.007	ID:13	LOG TEMPARATURE 29.6 
+4:31:27.026	ID:3	LOG RECEIVED 4|1:4;|23.1:4;|18.9:4; 
+4:31:27.027	ID:3	LOG TEMPARATURE 21.2 
+4:31:27.061	ID:4	LOG SENT 5 4|1:2,4;|23.1:4;|18.9:4; 
+4:31:27.068	ID:24	LOG TEMPARATURE 15.9 
+4:31:27.089	ID:25	LOG TEMPARATURE 24.6 
+4:31:27.099	ID:5	LOG RECEIVED 4|1:2,4;|23.1:4;|18.9:4; 
+4:33:06.136	ID:18	LOG TEMPARATURE 1.3 
+4:33:06.157	ID:16	LOG TEMPARATURE 6.6 
+4:33:06.157	ID:16	LOG AVAILABILITY 1
+4:33:06.157	ID:16	LOG SENT 15 16|1:16;|6.6:16;|14.5:16; 
+4:33:06.197	ID:21	LOG TEMPARATURE 34.9 
+4:33:06.203	ID:21	LOG RECEIVED 16|1:16;|6.6:16;|14.5:16; 
+4:33:06.233	ID:44	LOG TEMPARATURE 26.7 
+4:33:06.243	ID:16	LOG SENT 17 16|1:9,16;|6.6:16;|14.5:16; 
+4:33:06.282	ID:23	LOG RECEIVED 16|1:9,16;|6.6:16;|14.5:16; 
+4:33:06.303	ID:26	LOG TEMPARATURE 11.9 
+4:33:06.322	ID:27	LOG TEMPARATURE 13.3 
+4:33:06.415	ID:38	LOG TEMPARATURE 15.3 
+4:33:06.416	ID:12	LOG TEMPARATURE 28.5 
+4:33:06.597	ID:22	LOG TEMPARATURE 29.3 
+4:33:06.601	ID:23	LOG TEMPARATURE 13.3 
+4:33:06.606	ID:2	LOG TEMPARATURE 8.8 
+4:33:06.650	ID:11	LOG TEMPARATURE 28.0 
+4:33:06.670	ID:45	LOG TEMPARATURE 26.6 
+4:33:06.727	ID:6	LOG TEMPARATURE 11.1 
+4:33:06.770	ID:31	LOG TEMPARATURE 23.9 
+4:33:06.851	ID:29	LOG TEMPARATURE 22.5 
+4:33:07.007	ID:13	LOG TEMPARATURE 26.1 
+4:33:07.026	ID:3	LOG TEMPARATURE 17.8 
+4:33:07.089	ID:25	LOG TEMPARATURE 6.0 
+4:34:46.130	ID:40	LOG TEMPARATURE 24.8 
+4:34:46.136	ID:18	LOG TEMPARATURE 29.1 
+4:34:46.157	ID:16	LOG TEMPARATURE 0.1 
+4:34:46.182	ID:7	LOG TEMPARATURE 17.0 
+4:34:46.197	ID:21	LOG TEMPARATURE 21.7 
+4:34:46.197	ID:46	LOG TEMPARATURE 3.3 
+4:34:46.233	ID:44	LOG TEMPARATURE 24.9 
+4:34:46.278	ID:5	LOG TEMPARATURE 0.5 
+4:34:46.303	ID:26	LOG TEMPARATURE 7.7 
+4:34:46.322	ID:27	LOG TEMPARATURE 32.5 
+4:34:46.362	ID:9	LOG TEMPARATURE 26.6 
+4:34:46.415	ID:38	LOG TEMPARATURE 26.7 
+4:34:46.597	ID:22	LOG TEMPARATURE 25.5 
+4:34:46.601	ID:23	LOG TEMPARATURE 15.6 
+4:34:46.606	ID:2	LOG TEMPARATURE 5.7 
+4:34:46.715	ID:30	LOG TEMPARATURE 31.6 
+4:34:46.770	ID:31	LOG TEMPARATURE 25.1 
+4:34:46.843	ID:43	LOG TEMPARATURE 29.4 
+4:34:46.893	ID:17	LOG TEMPARATURE 18.9 
+4:34:46.989	ID:14	LOG TEMPARATURE 16.0 
+4:34:46.997	ID:4	LOG TEMPARATURE 7.1 
+4:34:47.007	ID:13	LOG AVAILABILITY 1
+4:34:47.007	ID:13	LOG SENT 12 13|1:13;|26.1:13;|17.4:13; 
+4:34:47.014	ID:18	LOG RECEIVED 13|1:13;|26.1:13;|17.4:13; 
+4:34:47.020	ID:13	LOG SENT 14 13|1:13;|26.1:13;|17.4:13; 
+4:34:47.026	ID:3	LOG TEMPARATURE 13.8 
+4:34:47.028	ID:20	LOG RECEIVED 13|1:13;|26.1:13;|17.4:13; 
+4:34:47.032	ID:10	LOG TEMPARATURE 34.7 
+4:36:26.122	ID:19	LOG TEMPARATURE 12.4 
+4:36:26.136	ID:18	LOG AVAILABILITY 0
+4:36:26.136	ID:18	LOG SENT 17 18|0:18;|29.1:18;|17.1:18; 
+4:36:26.157	ID:16	LOG TEMPARATURE 20.4 
+4:36:26.178	ID:23	LOG RECEIVED 18|0:18;|29.1:18;|17.1:18; 
+4:36:26.197	ID:21	LOG TEMPARATURE 30.0 
+4:36:26.212	ID:18	LOG SENT 19 18|0:18;1:13;|29.1:18;|17.1:18; 
+4:36:26.233	ID:44	LOG TEMPARATURE 8.5 
+4:36:26.252	ID:25	LOG RECEIVED 18|0:18;1:13;|29.1:18;|17.1:18; 
+4:36:26.278	ID:5	LOG TEMPARATURE 10.6 
+4:36:26.303	ID:26	LOG TEMPARATURE 7.6 
+4:36:26.322	ID:27	LOG TEMPARATURE 4.5 
+4:36:26.362	ID:9	LOG TEMPARATURE 7.0 
+4:36:26.416	ID:12	LOG TEMPARATURE 8.0 
+4:36:26.650	ID:11	LOG TEMPARATURE 3.1 
+4:36:26.650	ID:11	LOG AVAILABILITY 1
+4:36:26.650	ID:11	LOG SENT 10 11|1:11;|3.1:11;|17.1:11; 
+4:36:26.687	ID:16	LOG RECEIVED 11|1:11;|3.1:11;|17.1:11; 
+4:36:26.692	ID:11	LOG SENT 12 11|1:11;|3.1:11;|17.1:11; 
+4:36:26.704	ID:18	LOG RECEIVED 11|1:11;|3.1:11;|17.1:11; 
+4:36:26.804	ID:8	LOG TEMPARATURE 19.0 
+4:36:26.848	ID:15	LOG TEMPARATURE 15.2 
+4:36:26.851	ID:29	LOG TEMPARATURE 31.5 
+4:36:26.893	ID:17	LOG TEMPARATURE 4.5 
+4:36:26.930	ID:28	LOG TEMPARATURE 24.4 
+4:36:27.068	ID:24	LOG TEMPARATURE 28.4 
+4:36:27.089	ID:25	LOG TEMPARATURE 8.7 
+4:38:06.136	ID:18	LOG TEMPARATURE 11.4 
+4:38:06.136	ID:18	LOG AVAILABILITY 1
+4:38:06.136	ID:18	LOG SENT 17 18|1:18;|11.4:18;|11.4:18; 
+4:38:06.157	ID:16	LOG TEMPARATURE 23.2 
+4:38:06.157	ID:16	LOG AVAILABILITY 0
+4:38:06.157	ID:16	LOG SENT 15 16|0:16;|23.2:16;|14.6:16; 
+4:38:06.164	ID:21	LOG RECEIVED 16|0:16;|23.2:16;|14.6:16; 
+4:38:06.180	ID:16	LOG SENT 17 16|0:16;1:9;|23.2:16;|14.6:16; 
+4:38:06.182	ID:7	LOG TEMPARATURE 9.7 
+4:38:06.197	ID:46	LOG AVAILABILITY 1
+4:38:06.197	ID:46	LOG SENT 45 46|1:46;|3.3:46;|14.4:46; 
+4:38:06.214	ID:33	LOG TEMPARATURE 26.0 
+4:38:06.222	ID:23	LOG RECEIVED 16|0:16;1:9;|23.2:16;|14.6:16; 
+4:38:06.245	ID:23	LOG RECEIVED 18|1:18;|11.4:18;|11.4:18; 
+4:38:06.278	ID:5	LOG TEMPARATURE 14.5 
+4:38:06.278	ID:5	LOG AVAILABILITY 1
+4:38:06.278	ID:5	LOG SENT 4 5|0:6;1:5;|14.5:5;|13.8:5; 
+4:38:06.286	ID:18	LOG SENT 19 18|1:13,18;|11.4:18;|11.4:18; 
+4:38:06.292	ID:25	LOG RECEIVED 18|1:13,18;|11.4:18;|11.4:18; 
+4:38:06.322	ID:27	LOG TEMPARATURE 29.1 
+4:38:06.343	ID:4	LOG RECEIVED 5|0:6;1:5;|14.5:5;|13.8:5; 
+4:38:06.384	ID:5	LOG SENT 6 5|1:5;|14.5:5;|13.8:5; 
+4:38:06.416	ID:12	LOG TEMPARATURE 31.3 
+4:38:06.451	ID:6	LOG RECEIVED 5|1:5;|14.5:5;|13.8:5; 
+4:38:06.597	ID:22	LOG TEMPARATURE 13.0 
+4:38:06.597	ID:22	LOG AVAILABILITY 1
+4:38:06.597	ID:22	LOG SENT 21 22|1:22;|13.0:22;|14.5:22; 
+4:38:06.601	ID:23	LOG TEMPARATURE 13.0 
+4:38:06.606	ID:2	LOG TEMPARATURE 19.9 
+4:38:06.612	ID:33	LOG RECEIVED 22|1:22;|13.0:22;|14.5:22; 
+4:38:06.650	ID:11	LOG TEMPARATURE 1.3 
+4:38:06.654	ID:22	LOG SENT 23 22|0:17;1:22;|13.0:22;|14.5:22; 
+4:38:06.670	ID:45	LOG TEMPARATURE 9.6 
+4:38:06.696	ID:35	LOG RECEIVED 22|0:17;1:22;|13.0:22;|14.5:22; 
+4:38:06.804	ID:8	LOG TEMPARATURE 34.2 
+4:38:06.893	ID:17	LOG TEMPARATURE 21.3 
+4:38:06.930	ID:28	LOG TEMPARATURE 6.3 
+4:38:07.007	ID:13	LOG TEMPARATURE 6.8 
+4:38:07.026	ID:3	LOG AVAILABILITY 0
+4:38:07.026	ID:3	LOG SENT 2 3|0:3;|13.8:3;|21.8:3; 
+4:38:07.032	ID:10	LOG TEMPARATURE 21.5 
+4:38:07.032	ID:10	LOG AVAILABILITY 1
+4:38:07.032	ID:10	LOG SENT 9 10|1:10;|21.5:10;|20.3:10; 
+4:38:07.043	ID:2	LOG RECEIVED 3|0:3;|13.8:3;|21.8:3; 
+4:38:07.059	ID:3	LOG SENT 4 3|0:3;1:2;|13.8:3;|21.8:3; 
+4:38:07.062	ID:9	LOG RECEIVED 10|1:10;|21.5:10;|20.3:10; 
+4:38:07.084	ID:4	LOG RECEIVED 3|0:3;1:2;|13.8:3;|21.8:3; 
+4:38:07.104	ID:10	LOG SENT 11 10|1:10;|21.5:10;|20.3:10; 
+4:38:07.134	ID:17	LOG RECEIVED 10|1:10;|21.5:10;|20.3:10; 
+4:39:46.122	ID:19	LOG TEMPARATURE 5.3 
+4:39:46.136	ID:18	LOG TEMPARATURE 19.2 
+4:39:46.182	ID:7	LOG TEMPARATURE 2.9 
+4:39:46.197	ID:21	LOG TEMPARATURE 20.0 
+4:39:46.214	ID:33	LOG TEMPARATURE 28.0 
+4:39:46.242	ID:20	LOG TEMPARATURE 14.9 
+4:39:46.278	ID:5	LOG TEMPARATURE 12.0 
+4:39:46.303	ID:26	LOG TEMPARATURE 26.0 
+4:39:46.362	ID:9	LOG TEMPARATURE 5.5 
+4:39:46.362	ID:9	LOG AVAILABILITY 0
+4:39:46.362	ID:9	LOG SENT 8 9|0:9;1:10;|5.5:9;|17.9:9; 
+4:39:46.387	ID:8	LOG RECEIVED 9|0:9;1:10;|5.5:9;|17.9:9; 
+4:39:46.399	ID:9	LOG SENT 10 9|0:9;|5.5:9;|17.9:9; 
+4:39:46.407	ID:16	LOG RECEIVED 9|0:9;|5.5:9;|17.9:9; 
+4:39:46.597	ID:22	LOG TEMPARATURE 5.9 
+4:39:46.601	ID:23	LOG TEMPARATURE 9.3 
+4:39:46.606	ID:2	LOG AVAILABILITY 0
+4:39:46.606	ID:2	LOG SENT 1 2|0:2;|19.9:2;|17.9:2; 
+4:39:46.640	ID:1	LOG RECEIVED 2|0:2;|19.9:2;|17.9:2; 
+4:39:46.664	ID:2	LOG SENT 3 2|0:2;1:1;|19.9:2;|17.9:2; 
+4:39:46.681	ID:3	LOG RECEIVED 2|0:2;1:1;|19.9:2;|17.9:2; 
+4:39:46.715	ID:30	LOG TEMPARATURE 25.4 
+4:39:46.715	ID:30	LOG AVAILABILITY 1
+4:39:46.715	ID:30	LOG SENT 29 30|1:30;|25.4:30;|26.4:30; 
+4:39:46.727	ID:6	LOG TEMPARATURE 34.5 
+4:39:46.747	ID:41	LOG RECEIVED 30|1:30;|25.4:30;|26.4:30; 
+4:39:46.770	ID:31	LOG AVAILABILITY 0
+4:39:46.770	ID:31	LOG SENT 30 31|0:31;|25.1:31;|26.2:31; 
+4:39:46.777	ID:30	LOG SENT 31 30|1:30;|25.4:30;|26.4:30; 
+4:39:46.807	ID:49	LOG RECEIVED 30|1:30;|25.4:30;|26.4:30; 
+4:39:46.835	ID:48	LOG RECEIVED 31|0:31;|25.1:31;|26.2:31; 
+4:39:46.843	ID:43	LOG TEMPARATURE 8.0 
+4:39:46.843	ID:31	LOG SENT 32 31|0:31;|25.1:31;|26.2:31; 
+4:39:46.872	ID:50	LOG RECEIVED 31|0:31;|25.1:31;|26.2:31; 
+4:39:46.930	ID:28	LOG TEMPARATURE 25.4 
+4:39:46.997	ID:4	LOG TEMPARATURE 5.3 
+4:39:47.026	ID:3	LOG TEMPARATURE 4.9 
+4:39:47.032	ID:10	LOG TEMPARATURE 18.8 
+4:39:47.479	ID:46	LOG SENT 47 46|1:46;|3.3:46;|14.4:46; 
+4:41:26.122	ID:19	LOG TEMPARATURE 28.9 
+4:41:26.182	ID:7	LOG TEMPARATURE 25.8 
+4:41:26.182	ID:7	LOG AVAILABILITY 0
+4:41:26.182	ID:7	LOG SENT 6 7|0:7;|25.8:7;|13.9:7; 
+4:41:26.197	ID:21	LOG TEMPARATURE 33.9 
+4:41:26.216	ID:6	LOG RECEIVED 7|0:7;|25.8:7;|13.9:7; 
+4:41:26.261	ID:7	LOG SENT 8 7|0:6,7;|25.8:7;|13.9:7; 
+4:41:26.303	ID:26	LOG TEMPARATURE 12.2 
+4:41:26.303	ID:26	LOG AVAILABILITY 1
+4:41:26.303	ID:26	LOG SENT 25 26|1:26;|12.2:26;|16.1:26; 
+4:41:26.306	ID:8	LOG RECEIVED 7|0:6,7;|25.8:7;|13.9:7; 
+4:41:26.322	ID:27	LOG TEMPARATURE 30.6 
+4:41:26.342	ID:37	LOG RECEIVED 26|1:26;|12.2:26;|16.1:26; 
+4:41:26.362	ID:9	LOG TEMPARATURE 13.6 
+4:41:26.375	ID:26	LOG SENT 27 26|1:26;|12.2:26;|16.1:26; 
+4:41:26.384	ID:39	LOG RECEIVED 26|1:26;|12.2:26;|16.1:26; 
+4:41:26.416	ID:12	LOG TEMPARATURE 5.5 
+4:41:26.601	ID:23	LOG TEMPARATURE 23.8 
+4:41:26.650	ID:11	LOG TEMPARATURE 33.5 
+4:41:26.670	ID:45	LOG TEMPARATURE 19.9 
+4:41:26.715	ID:30	LOG TEMPARATURE 30.7 
+4:41:26.727	ID:6	LOG TEMPARATURE 24.1 
+4:41:26.843	ID:43	LOG TEMPARATURE 17.3 
+4:41:26.851	ID:29	LOG TEMPARATURE 30.0 
+4:41:26.930	ID:28	LOG TEMPARATURE 7.5 
+4:41:26.989	ID:14	LOG TEMPARATURE 7.6 
+4:41:26.997	ID:4	LOG TEMPARATURE 31.3 
+4:41:27.007	ID:13	LOG TEMPARATURE 8.8 
+4:41:27.007	ID:13	LOG AVAILABILITY 0
+4:41:27.007	ID:13	LOG SENT 12 13|0:13;|8.8:13;|7.8:13; 
+4:41:27.032	ID:10	LOG TEMPARATURE 11.6 
+4:41:27.051	ID:18	LOG RECEIVED 13|0:13;|8.8:13;|7.8:13; 
+4:41:27.071	ID:13	LOG SENT 14 13|0:13;|8.8:13;|7.8:13; 
+4:41:27.101	ID:20	LOG RECEIVED 13|0:13;|8.8:13;|7.8:13; 
+4:43:06.197	ID:21	LOG TEMPARATURE 16.3 
+4:43:06.233	ID:44	LOG TEMPARATURE 6.7 
+4:43:06.242	ID:20	LOG TEMPARATURE 0.4 
+4:43:06.322	ID:27	LOG TEMPARATURE 0.2 
+4:43:06.362	ID:9	LOG AVAILABILITY 1
+4:43:06.362	ID:9	LOG SENT 8 9|1:10,9;|13.6:9;|13.6:9; 
+4:43:06.369	ID:8	LOG RECEIVED 9|1:10,9;|13.6:9;|13.6:9; 
+4:43:06.378	ID:9	LOG SENT 10 9|1:9;|13.6:9;|13.6:9; 
+4:43:06.406	ID:16	LOG RECEIVED 9|1:9;|13.6:9;|13.6:9; 
+4:43:06.415	ID:38	LOG TEMPARATURE 24.2 
+4:43:06.416	ID:12	LOG AVAILABILITY 1
+4:43:06.416	ID:12	LOG SENT 11 12|1:12;|5.5:12;|13.0:12; 
+4:43:06.425	ID:17	LOG RECEIVED 12|1:12;|5.5:12;|13.0:12; 
+4:43:06.453	ID:12	LOG SENT 13 12|1:12;|5.5:12;|13.0:12; 
+4:43:06.472	ID:19	LOG RECEIVED 12|1:12;|5.5:12;|13.0:12; 
+4:43:06.601	ID:23	LOG TEMPARATURE 31.5 
+4:43:06.670	ID:45	LOG TEMPARATURE 7.6 
+4:43:06.770	ID:31	LOG TEMPARATURE 27.7 
+4:43:06.848	ID:15	LOG TEMPARATURE 14.8 
+4:43:06.851	ID:29	LOG TEMPARATURE 14.0 
+4:43:06.930	ID:28	LOG TEMPARATURE 28.2 
+4:43:07.026	ID:3	LOG TEMPARATURE 19.9 
+4:43:07.032	ID:10	LOG TEMPARATURE 17.6 
+4:43:07.032	ID:10	LOG AVAILABILITY 0
+4:43:07.032	ID:10	LOG SENT 9 10|0:10;|17.6:10;|16.0:10; 
+4:43:07.058	ID:9	LOG RECEIVED 10|0:10;|17.6:10;|16.0:10; 
+4:43:07.072	ID:10	LOG SENT 11 10|0:10;|17.6:10;|16.0:10; 
+4:43:07.107	ID:17	LOG RECEIVED 10|0:10;|17.6:10;|16.0:10; 
+4:44:46.122	ID:19	LOG AVAILABILITY 0
+4:44:46.122	ID:19	LOG SENT 18 19|0:19;|28.9:19;|19.6:19; 
+4:44:46.134	ID:24	LOG RECEIVED 19|0:19;|28.9:19;|19.6:19; 
+4:44:46.136	ID:18	LOG TEMPARATURE 19.3 
+4:44:46.174	ID:19	LOG SENT 20 19|0:19;1:12;|28.9:19;|19.6:19; 
+4:44:46.182	ID:7	LOG TEMPARATURE 10.7 
+4:44:46.197	ID:21	LOG AVAILABILITY 0
+4:44:46.197	ID:21	LOG SENT 20 21|0:21;|16.3:21;|26.1:21; 
+4:44:46.212	ID:32	LOG RECEIVED 19|0:19;1:12;|28.9:19;|19.6:19; 
+4:44:46.214	ID:33	LOG TEMPARATURE 26.5 
+4:44:46.242	ID:20	LOG TEMPARATURE 27.4 
+4:44:46.250	ID:32	LOG RECEIVED 21|0:21;|16.3:21;|26.1:21; 
+4:44:46.270	ID:21	LOG SENT 22 21|0:16,21;|16.3:21;|26.1:21; 
+4:44:46.303	ID:26	LOG TEMPARATURE 10.3 
+4:44:46.306	ID:34	LOG RECEIVED 21|0:16,21;|16.3:21;|26.1:21; 
+4:44:46.322	ID:27	LOG TEMPARATURE 3.5 
+4:44:46.601	ID:23	LOG TEMPARATURE 33.1 
+4:44:46.715	ID:30	LOG TEMPARATURE 7.4 
+4:44:46.804	ID:8	LOG TEMPARATURE 34.2 
+4:44:46.843	ID:43	LOG TEMPARATURE 7.3 
+4:44:46.989	ID:14	LOG AVAILABILITY 1
+4:44:46.989	ID:14	LOG SENT 13 14|1:14;|7.6:14;|20.0:14; 
+4:44:46.997	ID:4	LOG TEMPARATURE 3.2 
+4:44:46.998	ID:19	LOG RECEIVED 14|1:14;|7.6:14;|20.0:14; 
+4:44:47.007	ID:13	LOG TEMPARATURE 21.1 
+4:44:47.026	ID:3	LOG TEMPARATURE 2.4 
+4:44:47.030	ID:14	LOG SENT 15 14|1:14;|7.6:14;|20.0:14; 
+4:44:47.032	ID:10	LOG TEMPARATURE 11.0 
+4:44:47.068	ID:24	LOG TEMPARATURE 12.1 
+4:44:47.076	ID:21	LOG RECEIVED 14|1:14;|7.6:14;|20.0:14; 
+4:44:47.089	ID:25	LOG TEMPARATURE 26.3 
+4:46:26.130	ID:40	LOG TEMPARATURE 29.5 
+4:46:26.130	ID:40	LOG AVAILABILITY 1
+4:46:26.130	ID:40	LOG SENT 39 40|1:40;|29.5:40;|22.5:40; 
+4:46:26.136	ID:18	LOG TEMPARATURE 9.3 
+4:46:26.197	ID:21	LOG TEMPARATURE 27.6 
+4:46:26.214	ID:33	LOG TEMPARATURE 28.0 
+4:46:26.233	ID:44	LOG TEMPARATURE 33.0 
+4:46:26.303	ID:26	LOG TEMPARATURE 0.1 
+4:46:26.322	ID:27	LOG TEMPARATURE 9.4 
+4:46:26.415	ID:38	LOG TEMPARATURE 24.9 
+4:46:26.597	ID:22	LOG TEMPARATURE 30.4 
+4:46:26.670	ID:45	LOG AVAILABILITY 1
+4:46:26.670	ID:45	LOG SENT 44 45|1:45;|7.6:45;|14.7:45; 
+4:46:26.715	ID:30	LOG TEMPARATURE 7.8 
+4:46:26.770	ID:31	LOG TEMPARATURE 12.8 
+4:46:26.804	ID:8	LOG TEMPARATURE 16.9 
+4:46:26.843	ID:43	LOG TEMPARATURE 33.5 
+4:46:26.851	ID:29	LOG TEMPARATURE 6.7 
+4:46:26.989	ID:14	LOG TEMPARATURE 4.9 
+4:46:26.997	ID:4	LOG TEMPARATURE 18.3 
+4:46:27.026	ID:3	LOG TEMPARATURE 28.3 
+4:46:27.068	ID:24	LOG TEMPARATURE 3.8 
+4:48:06.136	ID:18	LOG TEMPARATURE 6.5 
+4:48:06.157	ID:16	LOG TEMPARATURE 7.9 
+4:48:06.182	ID:7	LOG TEMPARATURE 23.4 
+4:48:06.197	ID:21	LOG TEMPARATURE 30.6 
+4:48:06.233	ID:44	LOG TEMPARATURE 34.3 
+4:48:06.242	ID:20	LOG TEMPARATURE 12.9 
+4:48:06.303	ID:26	LOG TEMPARATURE 19.9 
+4:48:06.362	ID:9	LOG TEMPARATURE 19.5 
+4:48:06.715	ID:30	LOG TEMPARATURE 1.9 
+4:48:06.727	ID:6	LOG TEMPARATURE 21.8 
+4:48:06.843	ID:43	LOG TEMPARATURE 26.7 
+4:48:06.851	ID:29	LOG TEMPARATURE 2.8 
+4:48:07.032	ID:10	LOG TEMPARATURE 22.7 
+4:48:07.032	ID:10	LOG AVAILABILITY 1
+4:48:07.032	ID:10	LOG SENT 9 10|1:10;|22.7:10;|16.9:10; 
+4:48:07.068	ID:24	LOG TEMPARATURE 6.4 
+4:48:07.077	ID:9	LOG RECEIVED 10|1:10;|22.7:10;|16.9:10; 
+4:48:07.089	ID:25	LOG TEMPARATURE 21.1 
+4:48:07.095	ID:10	LOG SENT 11 10|1:10;|22.7:10;|16.9:10; 
+4:48:07.109	ID:17	LOG RECEIVED 10|1:10;|22.7:10;|16.9:10; 
+4:48:39.125	ID:40	LOG SENT 41 40|0:29;1:40;|29.5:40;|22.5:40; 
+4:48:45.431	ID:45	LOG SENT 46 45|1:45;|7.6:45;|14.7:45; 
+4:49:46.122	ID:19	LOG TEMPARATURE 27.2 
+4:49:46.182	ID:7	LOG TEMPARATURE 7.6 
+4:49:46.197	ID:21	LOG TEMPARATURE 10.9 
+4:49:46.197	ID:21	LOG AVAILABILITY 1
+4:49:46.197	ID:21	LOG SENT 20 21|1:21;|10.9:21;|23.0:21; 
+4:49:46.214	ID:33	LOG TEMPARATURE 21.6 
+4:49:46.215	ID:32	LOG RECEIVED 21|1:21;|10.9:21;|23.0:21; 
+4:49:46.233	ID:44	LOG TEMPARATURE 11.0 
+4:49:46.242	ID:20	LOG TEMPARATURE 21.1 
+4:49:46.243	ID:21	LOG SENT 22 21|0:16;1:21;|10.9:21;|23.0:21; 
+4:49:46.278	ID:5	LOG TEMPARATURE 13.5 
+4:49:46.281	ID:34	LOG RECEIVED 21|0:16;1:21;|10.9:21;|23.0:21; 
+4:49:46.322	ID:27	LOG TEMPARATURE 13.9 
+4:49:46.362	ID:9	LOG TEMPARATURE 33.1 
+4:49:46.597	ID:22	LOG TEMPARATURE 32.6 
+4:49:46.601	ID:23	LOG TEMPARATURE 19.2 
+4:49:46.650	ID:11	LOG TEMPARATURE 10.7 
+4:49:46.715	ID:30	LOG TEMPARATURE 18.4 
+4:49:46.727	ID:6	LOG TEMPARATURE 1.1 
+4:49:46.727	ID:6	LOG AVAILABILITY 1
+4:49:46.727	ID:6	LOG SENT 5 6|0:7;1:6;|1.1:6;|20.0:6; 
+4:49:46.761	ID:5	LOG RECEIVED 6|0:7;1:6;|1.1:6;|20.0:6; 
+4:49:46.770	ID:31	LOG TEMPARATURE 30.0 
+4:49:46.798	ID:6	LOG SENT 7 6|1:6;|1.1:6;|20.0:6; 
+4:49:46.835	ID:7	LOG RECEIVED 6|1:6;|1.1:6;|20.0:6; 
+4:49:46.843	ID:43	LOG TEMPARATURE 19.1 
+4:49:46.848	ID:15	LOG TEMPARATURE 26.2 
+4:49:46.851	ID:29	LOG AVAILABILITY 1
+4:49:46.851	ID:29	LOG SENT 28 29|1:29;|2.8:29;|17.9:29; 
+4:49:46.889	ID:40	LOG RECEIVED 29|1:29;|2.8:29;|17.9:29; 
+4:49:46.893	ID:17	LOG TEMPARATURE 25.5 
+4:49:46.929	ID:29	LOG SENT 30 29|1:29;|2.8:29;|17.9:29; 
+4:49:46.930	ID:28	LOG TEMPARATURE 28.2 
+4:49:46.943	ID:48	LOG RECEIVED 29|1:29;|2.8:29;|17.9:29; 
+4:49:46.997	ID:4	LOG TEMPARATURE 10.2 
+4:49:47.026	ID:3	LOG TEMPARATURE 13.9 
+4:49:47.032	ID:10	LOG TEMPARATURE 4.2 
+4:49:47.032	ID:10	LOG AVAILABILITY 0
+4:49:47.032	ID:10	LOG SENT 9 10|0:10;|4.2:10;|4.2:10; 
+4:49:47.047	ID:9	LOG RECEIVED 10|0:10;|4.2:10;|4.2:10; 
+4:49:47.058	ID:10	LOG SENT 11 10|0:10;|4.2:10;|4.2:10; 
+4:49:47.068	ID:24	LOG TEMPARATURE 28.0 
+4:49:47.085	ID:17	LOG RECEIVED 10|0:10;|4.2:10;|4.2:10; 
+4:49:47.089	ID:25	LOG TEMPARATURE 25.2 
+4:51:26.122	ID:19	LOG TEMPARATURE 18.6 
+4:51:26.136	ID:18	LOG AVAILABILITY 0
+4:51:26.136	ID:18	LOG SENT 17 18|0:18;|6.5:18;|13.6:18; 
+4:51:26.143	ID:23	LOG RECEIVED 18|0:18;|6.5:18;|13.6:18; 
+4:51:26.157	ID:16	LOG TEMPARATURE 25.3 
+4:51:26.157	ID:18	LOG SENT 19 18|0:13,18;|6.5:18;|13.6:18; 
+4:51:26.163	ID:25	LOG RECEIVED 18|0:13,18;|6.5:18;|13.6:18; 
+4:51:26.182	ID:7	LOG TEMPARATURE 10.5 
+4:51:26.197	ID:21	LOG TEMPARATURE 27.1 
+4:51:26.242	ID:20	LOG TEMPARATURE 3.7 
+4:51:26.303	ID:26	LOG TEMPARATURE 2.2 
+4:51:26.362	ID:9	LOG TEMPARATURE 11.5 
+4:51:26.362	ID:9	LOG AVAILABILITY 0
+4:51:26.362	ID:9	LOG SENT 8 9|0:10,9;|11.5:9;|21.4:9; 
+4:51:26.381	ID:8	LOG RECEIVED 9|0:10,9;|11.5:9;|21.4:9; 
+4:51:26.389	ID:9	LOG SENT 10 9|0:9;|11.5:9;|21.4:9; 
+4:51:26.406	ID:16	LOG RECEIVED 9|0:9;|11.5:9;|21.4:9; 
+4:51:26.597	ID:22	LOG TEMPARATURE 16.0 
+4:51:26.601	ID:23	LOG TEMPARATURE 17.9 
+4:51:26.727	ID:6	LOG TEMPARATURE 17.1 
+4:51:26.843	ID:43	LOG TEMPARATURE 4.6 
+4:51:26.843	ID:43	LOG AVAILABILITY 1
+4:51:26.843	ID:43	LOG SENT 42 43|1:43;|4.6:43;|19.4:43; 
+4:51:26.848	ID:15	LOG TEMPARATURE 11.9 
+4:51:26.851	ID:29	LOG TEMPARATURE 33.1 
+4:51:26.930	ID:28	LOG TEMPARATURE 21.5 
+4:51:26.989	ID:14	LOG TEMPARATURE 34.7 
+4:51:27.007	ID:13	LOG TEMPARATURE 20.2 
+4:51:27.007	ID:13	LOG AVAILABILITY 1
+4:51:27.007	ID:13	LOG SENT 12 13|1:13;|20.2:13;|20.7:13; 
+4:51:27.032	ID:10	LOG TEMPARATURE 32.5 
+4:51:27.045	ID:18	LOG RECEIVED 13|1:13;|20.2:13;|20.7:13; 
+4:51:27.084	ID:13	LOG SENT 14 13|1:13;|20.2:13;|20.7:13; 
+4:51:27.171	ID:20	LOG RECEIVED 13|1:13;|20.2:13;|20.7:13; 
+4:53:06.122	ID:19	LOG TEMPARATURE 13.6 
+4:53:06.136	ID:18	LOG TEMPARATURE 19.3 
+4:53:06.214	ID:33	LOG TEMPARATURE 18.3 
+4:53:06.242	ID:20	LOG TEMPARATURE 21.7 
+4:53:06.322	ID:27	LOG TEMPARATURE 29.7 
+4:53:06.362	ID:9	LOG TEMPARATURE 11.4 
+4:53:06.416	ID:12	LOG TEMPARATURE 17.0 
+4:53:06.597	ID:22	LOG TEMPARATURE 28.8 
+4:53:06.601	ID:23	LOG TEMPARATURE 30.0 
+4:53:06.650	ID:11	LOG TEMPARATURE 21.5 
+4:53:06.715	ID:30	LOG TEMPARATURE 8.2 
+4:53:06.727	ID:6	LOG TEMPARATURE 23.5 
+4:53:06.851	ID:29	LOG TEMPARATURE 23.0 
+4:53:06.893	ID:17	LOG TEMPARATURE 15.5 
+4:53:06.930	ID:28	LOG TEMPARATURE 15.2 
+4:53:07.007	ID:13	LOG AVAILABILITY 0
+4:53:07.007	ID:13	LOG SENT 12 13|0:13;|| 
+4:53:07.019	ID:18	LOG RECEIVED 13|0:13;|| 
+4:53:07.026	ID:3	LOG TEMPARATURE 1.5 
+4:53:07.029	ID:13	LOG SENT 14 13|0:13;|| 
+4:53:07.063	ID:20	LOG RECEIVED 13|0:13;|| 
+4:53:38.567	ID:43	LOG SENT 44 43|1:43;|4.6:43;|19.4:43; 
+4:54:46.122	ID:19	LOG TEMPARATURE 34.7 
+4:54:46.136	ID:18	LOG TEMPARATURE 4.4 
+4:54:46.182	ID:7	LOG TEMPARATURE 8.4 
+4:54:46.233	ID:44	LOG TEMPARATURE 4.5 
+4:54:46.303	ID:26	LOG TEMPARATURE 34.5 
+4:54:46.303	ID:26	LOG AVAILABILITY 0
+4:54:46.303	ID:26	LOG SENT 25 26|0:26;|34.5:26;|13.4:26; 
+4:54:46.322	ID:27	LOG TEMPARATURE 4.6 
+4:54:46.334	ID:37	LOG RECEIVED 26|0:26;|34.5:26;|13.4:26; 
+4:54:46.360	ID:26	LOG SENT 27 26|0:26;|34.5:26;|13.4:26; 
+4:54:46.373	ID:39	LOG RECEIVED 26|0:26;|34.5:26;|13.4:26; 
+4:54:46.601	ID:23	LOG TEMPARATURE 31.2 
+4:54:46.606	ID:2	LOG TEMPARATURE 13.7 
+4:54:46.650	ID:11	LOG TEMPARATURE 26.1 
+4:54:46.715	ID:30	LOG TEMPARATURE 5.8 
+4:54:46.727	ID:6	LOG TEMPARATURE 22.4 
+4:54:46.851	ID:29	LOG TEMPARATURE 29.2 
+4:54:46.893	ID:17	LOG TEMPARATURE 27.1 
+4:54:46.930	ID:28	LOG TEMPARATURE 1.6 
+4:54:47.007	ID:13	LOG TEMPARATURE 34.5 
+4:54:47.026	ID:3	LOG TEMPARATURE 5.8 
+4:54:47.026	ID:3	LOG AVAILABILITY 1
+4:54:47.026	ID:3	LOG SENT 2 3|1:3;|5.8:3;|11.0:3; 
+4:54:47.043	ID:2	LOG RECEIVED 3|1:3;|5.8:3;|11.0:3; 
+4:54:47.049	ID:3	LOG SENT 4 3|0:2;1:3;|5.8:3;|11.0:3; 
+4:54:47.059	ID:4	LOG RECEIVED 3|0:2;1:3;|5.8:3;|11.0:3; 
+4:54:47.068	ID:24	LOG TEMPARATURE 16.8 
+4:56:26.122	ID:19	LOG TEMPARATURE 16.4 
+4:56:26.199	ID:21	LOG TEMPARATURE 5.1 
+4:56:26.242	ID:20	LOG TEMPARATURE 1.4 
+4:56:26.278	ID:5	LOG AVAILABILITY 0
+4:56:26.278	ID:5	LOG SENT 4 5|0:5;1:6;|13.5:5;|12.8:5; 
+4:56:26.303	ID:26	LOG TEMPARATURE 16.3 
+4:56:26.321	ID:4	LOG RECEIVED 5|0:5;1:6;|13.5:5;|12.8:5; 
+4:56:26.322	ID:27	LOG TEMPARATURE 26.2 
+4:56:26.353	ID:5	LOG SENT 6 5|0:5;|13.5:5;|12.8:5; 
+4:56:26.362	ID:9	LOG TEMPARATURE 23.3 
+4:56:26.395	ID:6	LOG RECEIVED 5|0:5;|13.5:5;|12.8:5; 
+4:56:26.416	ID:12	LOG TEMPARATURE 4.0 
+4:56:26.597	ID:22	LOG TEMPARATURE 14.8 
+4:56:26.601	ID:23	LOG TEMPARATURE 22.9 
+4:56:26.606	ID:2	LOG TEMPARATURE 22.0 
+4:56:26.727	ID:6	LOG TEMPARATURE 31.5 
+4:56:26.804	ID:8	LOG TEMPARATURE 34.8 
+4:56:26.848	ID:15	LOG TEMPARATURE 18.0 
+4:56:26.848	ID:15	LOG AVAILABILITY 1
+4:56:26.848	ID:15	LOG SENT 14 15|1:15;|18.0:15;|17.2:15; 
+4:56:26.851	ID:29	LOG TEMPARATURE 32.5 
+4:56:26.892	ID:20	LOG RECEIVED 15|1:15;|18.0:15;|17.2:15; 
+4:56:26.893	ID:17	LOG TEMPARATURE 1.7 
+4:56:26.920	ID:15	LOG SENT 16 15|1:15;|18.0:15;|17.2:15; 
+4:56:26.942	ID:22	LOG RECEIVED 15|1:15;|18.0:15;|17.2:15; 
+4:56:26.989	ID:14	LOG TEMPARATURE 18.4 
+4:56:27.007	ID:13	LOG TEMPARATURE 27.1 
+4:56:27.032	ID:10	LOG TEMPARATURE 3.7 
+4:56:27.068	ID:24	LOG TEMPARATURE 33.4 
+4:58:06.136	ID:18	LOG TEMPARATURE 22.7 
+4:58:06.136	ID:18	LOG AVAILABILITY 1
+4:58:06.136	ID:18	LOG SENT 17 18|1:18;|22.7:18;|15.5:18; 
+4:58:06.179	ID:23	LOG RECEIVED 18|1:18;|22.7:18;|15.5:18; 
+4:58:06.197	ID:21	LOG TEMPARATURE 1.4 
+4:58:06.207	ID:18	LOG SENT 19 18|0:13;1:18;|22.7:18;|15.5:18; 
+4:58:06.214	ID:33	LOG SENT 32 33||18.3:33;|20.2:33; 
+4:58:06.233	ID:44	LOG TEMPARATURE 11.0 
+4:58:06.233	ID:44	LOG SENT 43 44||11.0:44;|17.8:44; 
+4:58:06.237	ID:50	LOG RECEIVED 33||18.3:33;|20.2:33; 
+4:58:06.242	ID:20	LOG AVAILABILITY 1
+4:58:06.242	ID:20	LOG SENT 19 20|1:20;|1.4:20;|15.4:20; 
+4:58:06.245	ID:33	LOG SENT 34 33|0:20;|18.3:33;|20.2:33; 
+4:58:06.251	ID:25	LOG RECEIVED 18|0:13;1:18;|22.7:18;|15.5:18; 
+4:58:06.263	ID:25	LOG RECEIVED 20|1:20;|1.4:20;|15.4:20; 
+4:58:06.273	ID:20	LOG SENT 21 20|1:15,20;|1.4:20;|15.4:20; 
+4:58:06.278	ID:5	LOG TEMPARATURE 2.2 
+4:58:06.294	ID:33	LOG RECEIVED 20|1:15,20;|1.4:20;|15.4:20; 
+4:58:06.303	ID:26	LOG TEMPARATURE 23.1 
+4:58:06.322	ID:27	LOG SENT 26 27||26.2:27;|14.7:27; 
+4:58:06.374	ID:38	LOG RECEIVED 27||26.2:27;|14.7:27; 
+4:58:06.415	ID:38	LOG SENT 37 38||24.9:38;|19.6:38; 
+4:58:06.495	ID:27	LOG SENT 28 27||26.2:27;|14.7:27; 
+4:58:06.538	ID:40	LOG RECEIVED 27||26.2:27;|14.7:27; 
+4:58:06.597	ID:22	LOG TEMPARATURE 32.1 
+4:58:06.601	ID:23	LOG TEMPARATURE 34.0 
+4:58:06.650	ID:11	LOG TEMPARATURE 29.7 
+4:58:06.715	ID:30	LOG TEMPARATURE 8.0 
+4:58:06.851	ID:29	LOG TEMPARATURE 15.9 
+4:58:06.930	ID:28	LOG TEMPARATURE 15.7 
+4:58:06.989	ID:14	LOG TEMPARATURE 14.7 
+4:58:06.989	ID:14	LOG AVAILABILITY 0
+4:58:06.989	ID:14	LOG SENT 13 14|0:14;|14.7:14;|18.2:14; 
+4:58:06.997	ID:4	LOG TEMPARATURE 10.7 
+4:58:07.018	ID:19	LOG RECEIVED 14|0:14;|14.7:14;|18.2:14; 
+4:58:07.032	ID:10	LOG TEMPARATURE 6.0 
+4:58:07.049	ID:14	LOG SENT 15 14|0:14;|14.7:14;|18.2:14; 
+4:58:07.068	ID:24	LOG TEMPARATURE 21.2 
+4:58:07.073	ID:21	LOG RECEIVED 14|0:14;|14.7:14;|18.2:14; 
+4:58:07.089	ID:25	LOG TEMPARATURE 34.9 
+4:59:43.051	ID:44	LOG SENT 45 44||11.0:44;|17.8:44; 
+4:59:46.122	ID:19	LOG TEMPARATURE 16.8 
+4:59:46.136	ID:18	LOG TEMPARATURE 3.7 
+4:59:46.182	ID:7	LOG TEMPARATURE 18.7 
+4:59:46.242	ID:20	LOG TEMPARATURE 30.8 
+4:59:46.278	ID:5	LOG AVAILABILITY 1
+4:59:46.278	ID:5	LOG SENT 4 5|1:6,5;|2.2:5;|2.2:5; 
+4:59:46.307	ID:4	LOG RECEIVED 5|1:6,5;|2.2:5;|2.2:5; 
+4:59:46.322	ID:27	LOG TEMPARATURE 24.9 
+4:59:46.328	ID:5	LOG SENT 6 5|1:5;|2.2:5;|2.2:5; 
+4:59:46.362	ID:9	LOG TEMPARATURE 30.2 
+4:59:46.384	ID:6	LOG RECEIVED 5|1:5;|2.2:5;|2.2:5; 
+4:59:46.601	ID:23	LOG TEMPARATURE 33.6 
+4:59:46.601	ID:23	LOG AVAILABILITY 1
+4:59:46.601	ID:23	LOG SENT 22 23|1:23;|33.6:23;|23.5:23; 
+4:59:46.606	ID:2	LOG TEMPARATURE 10.6 
+4:59:46.609	ID:34	LOG RECEIVED 23|1:23;|33.6:23;|23.5:23; 
+4:59:46.629	ID:23	LOG SENT 24 23|1:18,23;|33.6:23;|23.5:23; 
+4:59:46.650	ID:11	LOG TEMPARATURE 20.9 
+4:59:46.668	ID:36	LOG RECEIVED 23|1:18,23;|33.6:23;|23.5:23; 
+4:59:46.715	ID:30	LOG TEMPARATURE 7.7 
+4:59:46.727	ID:6	LOG TEMPARATURE 0.2 
+4:59:46.989	ID:14	LOG TEMPARATURE 2.3 
+4:59:47.007	ID:13	LOG TEMPARATURE 32.4 
+4:59:47.007	ID:13	LOG AVAILABILITY 1
+4:59:47.007	ID:13	LOG SENT 12 13|1:13;|32.4:13;|31.3:13; 
+4:59:47.026	ID:3	LOG TEMPARATURE 24.0 
+4:59:47.043	ID:18	LOG RECEIVED 13|1:13;|32.4:13;|31.3:13; 
+4:59:47.068	ID:24	LOG TEMPARATURE 27.3 
+4:59:47.080	ID:13	LOG SENT 14 13|1:13;|32.4:13;|31.3:13; 
+4:59:47.089	ID:25	LOG AVAILABILITY 0
+4:59:47.089	ID:25	LOG SENT 24 25|0:25;|34.9:25;|19.3:25; 
+4:59:47.093	ID:20	LOG RECEIVED 13|1:13;|32.4:13;|31.3:13; 
+4:59:47.131	ID:36	LOG RECEIVED 25|0:25;|34.9:25;|19.3:25; 
+4:59:47.138	ID:25	LOG SENT 26 25|0:25;1:20;|34.9:25;|19.3:25; 
+4:59:47.170	ID:38	LOG RECEIVED 25|0:25;1:20;|34.9:25;|19.3:25; 
+5:00:19.999	ID:38	LOG SENT 39 38|0:20;|24.9:38;|19.6:38; 
+5:01:26.182	ID:7	LOG TEMPARATURE 23.6 
+5:01:26.197	ID:21	LOG TEMPARATURE 14.0 
+5:01:26.242	ID:20	LOG TEMPARATURE 5.1 
+5:01:26.322	ID:27	LOG TEMPARATURE 15.0 
+5:01:26.416	ID:12	LOG TEMPARATURE 16.5 
+5:01:26.606	ID:2	LOG TEMPARATURE 1.0 
+5:01:26.715	ID:30	LOG TEMPARATURE 3.6 
+5:01:26.727	ID:6	LOG TEMPARATURE 13.3 
+5:01:26.804	ID:8	LOG TEMPARATURE 31.2 
+5:01:26.848	ID:15	LOG TEMPARATURE 8.2 
+5:01:26.893	ID:17	LOG TEMPARATURE 6.2 
+5:01:26.997	ID:4	LOG TEMPARATURE 34.6 
+5:01:27.007	ID:13	LOG TEMPARATURE 13.3 
+5:01:27.026	ID:3	LOG AVAILABILITY 0
+5:01:27.026	ID:3	LOG SENT 2 3|0:3;|24.0:3;|24.0:3; 
+5:01:27.042	ID:2	LOG RECEIVED 3|0:3;|24.0:3;|24.0:3; 
+5:01:27.058	ID:3	LOG SENT 4 3|0:2,3;|24.0:3;|24.0:3; 
+5:01:27.076	ID:4	LOG RECEIVED 3|0:2,3;|24.0:3;|24.0:3; 
+5:03:06.157	ID:16	LOG TEMPARATURE 24.1 
+5:03:06.197	ID:21	LOG TEMPARATURE 34.1 
+5:03:06.242	ID:20	LOG TEMPARATURE 26.6 
+5:03:06.278	ID:5	LOG TEMPARATURE 23.2 
+5:03:06.322	ID:27	LOG TEMPARATURE 23.2 
+5:03:06.362	ID:9	LOG TEMPARATURE 24.7 
+5:03:06.416	ID:12	LOG TEMPARATURE 26.5 
+5:03:06.601	ID:23	LOG AVAILABILITY 0
+5:03:06.601	ID:23	LOG SENT 22 23|0:23;|| 
+5:03:06.606	ID:2	LOG TEMPARATURE 21.7 
+5:03:06.609	ID:34	LOG RECEIVED 23|0:23;|| 
+5:03:06.631	ID:23	LOG SENT 24 23|0:23;1:18;|| 
+5:03:06.648	ID:36	LOG RECEIVED 23|0:23;1:18;|| 
+5:03:06.650	ID:11	LOG AVAILABILITY 0
+5:03:06.650	ID:11	LOG SENT 10 11|0:11;|20.9:11;|20.5:11; 
+5:03:06.659	ID:16	LOG RECEIVED 11|0:11;|20.9:11;|20.5:11; 
+5:03:06.702	ID:11	LOG SENT 12 11|0:11;|20.9:11;|20.5:11; 
+5:03:06.727	ID:6	LOG TEMPARATURE 22.7 
+5:03:06.741	ID:18	LOG RECEIVED 11|0:11;|20.9:11;|20.5:11; 
+5:03:06.770	ID:31	LOG TEMPARATURE 25.2 
+5:03:06.804	ID:8	LOG AVAILABILITY 1
+5:03:06.804	ID:8	LOG SENT 7 8|0:10;1:8;|31.2:8;|26.4:8; 
+5:03:06.833	ID:7	LOG RECEIVED 8|0:10;1:8;|31.2:8;|26.4:8; 
+5:03:06.838	ID:8	LOG SENT 9 8|1:8;|31.2:8;|26.4:8; 
+5:03:06.851	ID:29	LOG TEMPARATURE 5.8 
+5:03:06.870	ID:9	LOG RECEIVED 8|1:8;|31.2:8;|26.4:8; 
+5:03:06.893	ID:17	LOG TEMPARATURE 7.0 
+5:03:06.997	ID:4	LOG TEMPARATURE 9.8 
+5:03:07.026	ID:3	LOG TEMPARATURE 24.8 
+5:03:07.032	ID:10	LOG TEMPARATURE 30.3 
+5:03:07.068	ID:24	LOG TEMPARATURE 19.7 
+5:03:07.089	ID:25	LOG TEMPARATURE 34.2 
+5:04:46.122	ID:19	LOG TEMPARATURE 34.8 
+5:04:46.157	ID:16	LOG TEMPARATURE 18.7 
+5:04:46.157	ID:16	LOG AVAILABILITY 1
+5:04:46.157	ID:16	LOG SENT 15 16|1:16;|18.7:16;|19.0:16; 
+5:04:46.164	ID:21	LOG RECEIVED 16|1:16;|18.7:16;|19.0:16; 
+5:04:46.182	ID:7	LOG TEMPARATURE 23.7 
+5:04:46.189	ID:16	LOG SENT 17 16|0:9;1:16;|18.7:16;|19.0:16; 
+5:04:46.197	ID:21	LOG TEMPARATURE 7.1 
+5:04:46.204	ID:23	LOG RECEIVED 16|0:9;1:16;|18.7:16;|19.0:16; 
+5:04:46.278	ID:5	LOG TEMPARATURE 33.4 
+5:04:46.416	ID:12	LOG TEMPARATURE 30.6 
+5:04:46.601	ID:23	LOG TEMPARATURE 29.4 
+5:04:46.715	ID:30	LOG TEMPARATURE 8.3 
+5:04:46.997	ID:4	LOG TEMPARATURE 27.5 
+5:04:47.007	ID:13	LOG AVAILABILITY 0
+5:04:47.007	ID:13	LOG SENT 12 13|0:13;|13.3:13;|13.3:13; 
+5:04:47.026	ID:3	LOG TEMPARATURE 0.0 
+5:04:47.032	ID:10	LOG TEMPARATURE 0.8 
+5:04:47.042	ID:18	LOG RECEIVED 13|0:13;|13.3:13;|13.3:13; 
+5:04:47.063	ID:13	LOG SENT 14 13|0:13;|13.3:13;|13.3:13; 
+5:04:47.068	ID:24	LOG TEMPARATURE 11.7 
+5:04:47.084	ID:20	LOG RECEIVED 13|0:13;|13.3:13;|13.3:13; 
+5:04:47.089	ID:25	LOG TEMPARATURE 32.6 
+5:06:26.157	ID:16	LOG TEMPARATURE 10.8 
+5:06:26.242	ID:20	LOG TEMPARATURE 32.5 
+5:06:26.278	ID:5	LOG TEMPARATURE 1.4 
+5:06:26.303	ID:26	LOG AVAILABILITY 1
+5:06:26.303	ID:26	LOG SENT 25 26|1:26;|23.1:26;|19.7:26; 
+5:06:26.319	ID:37	LOG RECEIVED 26|1:26;|23.1:26;|19.7:26; 
+5:06:26.359	ID:26	LOG SENT 27 26|1:26;|23.1:26;|19.7:26; 
+5:06:26.368	ID:39	LOG RECEIVED 26|1:26;|23.1:26;|19.7:26; 
+5:06:26.416	ID:12	LOG TEMPARATURE 28.4 
+5:06:26.597	ID:22	LOG TEMPARATURE 30.6 
+5:06:26.601	ID:23	LOG TEMPARATURE 33.0 
+5:06:26.650	ID:11	LOG TEMPARATURE 14.1 
+5:06:26.715	ID:30	LOG TEMPARATURE 30.7 
+5:06:26.770	ID:31	LOG TEMPARATURE 12.6 
+5:06:26.804	ID:8	LOG TEMPARATURE 30.0 
+5:06:26.851	ID:29	LOG TEMPARATURE 14.1 
+5:06:26.997	ID:4	LOG TEMPARATURE 25.3 
+5:06:27.032	ID:10	LOG TEMPARATURE 24.4 
+5:06:27.068	ID:24	LOG TEMPARATURE 16.7 
+5:08:06.122	ID:19	LOG TEMPARATURE 3.5 
+5:08:06.242	ID:20	LOG TEMPARATURE 14.4 
+5:08:06.278	ID:5	LOG TEMPARATURE 7.5 
+5:08:06.303	ID:26	LOG AVAILABILITY 0
+5:08:06.303	ID:26	LOG SENT 25 26|0:26;|| 
+5:08:06.309	ID:37	LOG RECEIVED 26|0:26;|| 
+5:08:06.340	ID:26	LOG SENT 27 26|0:26;|| 
+5:08:06.347	ID:39	LOG RECEIVED 26|0:26;|| 
+5:08:06.362	ID:9	LOG TEMPARATURE 6.8 
+5:08:06.601	ID:23	LOG TEMPARATURE 25.0 
+5:08:06.770	ID:31	LOG AVAILABILITY 1
+5:08:06.770	ID:31	LOG SENT 30 31|1:31;|12.6:31;|21.7:31; 
+5:08:06.804	ID:8	LOG TEMPARATURE 34.4 
+5:08:06.807	ID:48	LOG RECEIVED 31|1:31;|12.6:31;|21.7:31; 
+5:08:06.827	ID:31	LOG SENT 32 31|1:31;|12.6:31;|21.7:31; 
+5:08:06.848	ID:15	LOG TEMPARATURE 19.1 
+5:08:06.869	ID:50	LOG RECEIVED 31|1:31;|12.6:31;|21.7:31; 
+5:08:06.893	ID:17	LOG TEMPARATURE 19.3 
+5:08:06.989	ID:14	LOG TEMPARATURE 26.0 
+5:08:07.026	ID:3	LOG TEMPARATURE 17.6 
+5:08:07.032	ID:10	LOG TEMPARATURE 6.6 
+5:08:07.032	ID:10	LOG AVAILABILITY 1
+5:08:07.032	ID:10	LOG SENT 9 10|1:10;|6.6:10;|14.9:10; 
+5:08:07.078	ID:9	LOG RECEIVED 10|1:10;|6.6:10;|14.9:10; 
+5:08:07.089	ID:25	LOG TEMPARATURE 30.7 
+5:08:07.096	ID:10	LOG SENT 11 10|1:10;|6.6:10;|14.9:10; 
+5:08:07.132	ID:17	LOG RECEIVED 10|1:10;|6.6:10;|14.9:10; 
+5:09:46.136	ID:18	LOG TEMPARATURE 1.9 
+5:09:46.136	ID:18	LOG AVAILABILITY 0
+5:09:46.136	ID:18	LOG SENT 17 18|0:18;|1.9:18;|2.8:18; 
+5:09:46.173	ID:23	LOG RECEIVED 18|0:18;|1.9:18;|2.8:18; 
+5:09:46.182	ID:7	LOG TEMPARATURE 19.4 
+5:09:46.182	ID:7	LOG AVAILABILITY 1
+5:09:46.182	ID:7	LOG SENT 6 7|1:7;|19.4:7;|16.2:7; 
+5:09:46.194	ID:18	LOG SENT 19 18|0:13,18;|1.9:18;|2.8:18; 
+5:09:46.197	ID:21	LOG TEMPARATURE 19.9 
+5:09:46.218	ID:6	LOG RECEIVED 7|1:7;|19.4:7;|16.2:7; 
+5:09:46.238	ID:25	LOG RECEIVED 18|0:13,18;|1.9:18;|2.8:18; 
+5:09:46.242	ID:20	LOG TEMPARATURE 32.5 
+5:09:46.242	ID:20	LOG AVAILABILITY 0
+5:09:46.242	ID:20	LOG SENT 19 20|0:20;|32.5:20;|23.6:20; 
+5:09:46.248	ID:7	LOG SENT 8 7|1:6,7;|19.4:7;|16.2:7; 
+5:09:46.266	ID:25	LOG RECEIVED 20|0:20;|32.5:20;|23.6:20; 
+5:09:46.293	ID:8	LOG RECEIVED 7|1:6,7;|19.4:7;|16.2:7; 
+5:09:46.309	ID:20	LOG SENT 21 20|0:20;1:15;|32.5:20;|23.6:20; 
+5:09:46.323	ID:33	LOG RECEIVED 20|0:20;1:15;|32.5:20;|23.6:20; 
+5:09:46.362	ID:9	LOG TEMPARATURE 24.5 
+5:09:46.650	ID:11	LOG TEMPARATURE 21.6 
+5:09:46.727	ID:6	LOG TEMPARATURE 24.7 
+5:09:46.804	ID:8	LOG TEMPARATURE 15.5 
+5:09:46.848	ID:15	LOG TEMPARATURE 27.3 
+5:09:46.851	ID:29	LOG TEMPARATURE 13.7 
+5:09:46.893	ID:17	LOG TEMPARATURE 12.8 
+5:09:46.930	ID:28	LOG TEMPARATURE 12.4 
+5:09:46.930	ID:28	LOG AVAILABILITY 0
+5:09:46.930	ID:28	LOG SENT 27 28|0:28;|12.4:28;|18.0:28; 
+5:09:46.942	ID:39	LOG RECEIVED 28|0:28;|12.4:28;|18.0:28; 
+5:09:46.947	ID:28	LOG SENT 29 28|0:28;|12.4:28;|18.0:28; 
+5:09:46.971	ID:41	LOG RECEIVED 28|0:28;|12.4:28;|18.0:28; 
+5:09:47.007	ID:13	LOG TEMPARATURE 19.8 
+5:09:47.032	ID:10	LOG TEMPARATURE 7.1 
+5:09:47.068	ID:24	LOG TEMPARATURE 4.5 
+5:09:47.089	ID:25	LOG AVAILABILITY 1
+5:09:47.089	ID:25	LOG SENT 24 25|1:25;|30.7:25;|32.5:25; 
+5:09:47.104	ID:36	LOG RECEIVED 25|1:25;|30.7:25;|32.5:25; 
+5:09:47.147	ID:25	LOG SENT 26 25|0:20;1:25;|30.7:25;|32.5:25; 
+5:09:47.172	ID:38	LOG RECEIVED 25|0:20;1:25;|30.7:25;|32.5:25; 
+5:11:26.122	ID:19	LOG TEMPARATURE 3.2 
+5:11:26.182	ID:7	LOG TEMPARATURE 21.8 
+5:11:26.322	ID:27	LOG TEMPARATURE 15.4 
+5:11:26.362	ID:9	LOG AVAILABILITY 1
+5:11:26.362	ID:9	LOG SENT 8 9|1:10,9;|24.5:9;|20.1:9; 
+5:11:26.397	ID:8	LOG RECEIVED 9|1:10,9;|24.5:9;|20.1:9; 
+5:11:26.407	ID:9	LOG SENT 10 9|1:9;|24.5:9;|20.1:9; 
+5:11:26.416	ID:12	LOG TEMPARATURE 31.6 
+5:11:26.447	ID:16	LOG RECEIVED 9|1:9;|24.5:9;|20.1:9; 
+5:11:26.597	ID:22	LOG TEMPARATURE 16.5 
+5:11:26.606	ID:2	LOG TEMPARATURE 9.9 
+5:11:26.606	ID:2	LOG AVAILABILITY 1
+5:11:26.606	ID:2	LOG SENT 1 2|1:2;|9.9:2;|13.2:2; 
+5:11:26.616	ID:1	LOG RECEIVED 2|1:2;|9.9:2;|13.2:2; 
+5:11:26.655	ID:2	LOG SENT 3 2|1:1,2;|9.9:2;|13.2:2; 
+5:11:26.661	ID:3	LOG RECEIVED 2|1:1,2;|9.9:2;|13.2:2; 
+5:11:26.804	ID:8	LOG TEMPARATURE 4.8 
+5:11:26.848	ID:15	LOG TEMPARATURE 33.4 
+5:11:26.848	ID:15	LOG AVAILABILITY 0
+5:11:26.848	ID:15	LOG SENT 14 15|0:15;|33.4:15;|22.0:15; 
+5:11:26.851	ID:29	LOG TEMPARATURE 10.9 
+5:11:26.851	ID:29	LOG AVAILABILITY 0
+5:11:26.851	ID:29	LOG SENT 28 29|0:29;|10.9:29;|19.8:29; 
+5:11:26.864	ID:20	LOG RECEIVED 15|0:15;|33.4:15;|22.0:15; 
+5:11:26.893	ID:17	LOG TEMPARATURE 17.1 
+5:11:26.897	ID:40	LOG RECEIVED 29|0:29;|10.9:29;|19.8:29; 
+5:11:26.908	ID:15	LOG SENT 16 15|0:15;|33.4:15;|22.0:15; 
+5:11:26.913	ID:29	LOG SENT 30 29|0:29;|10.9:29;|19.8:29; 
+5:11:26.930	ID:28	LOG TEMPARATURE 29.9 
+5:11:26.931	ID:48	LOG RECEIVED 29|0:29;|10.9:29;|19.8:29; 
+5:11:26.945	ID:22	LOG RECEIVED 15|0:15;|33.4:15;|22.0:15; 
+5:11:26.989	ID:14	LOG TEMPARATURE 22.0 
+5:11:27.007	ID:13	LOG TEMPARATURE 16.5 
+5:11:27.026	ID:3	LOG TEMPARATURE 32.0 
+5:11:27.032	ID:10	LOG TEMPARATURE 8.9 
+5:11:27.089	ID:25	LOG TEMPARATURE 22.9 
+5:13:06.122	ID:19	LOG TEMPARATURE 30.2 
+5:13:06.136	ID:18	LOG TEMPARATURE 2.9 
+5:13:06.157	ID:16	LOG TEMPARATURE 9.4 
+5:13:06.182	ID:7	LOG TEMPARATURE 4.0 
+5:13:06.278	ID:5	LOG TEMPARATURE 4.7 
+5:13:06.303	ID:26	LOG TEMPARATURE 33.0 
+5:13:06.362	ID:9	LOG TEMPARATURE 7.3 
+5:13:06.597	ID:22	LOG TEMPARATURE 28.3 
+5:13:06.650	ID:11	LOG TEMPARATURE 32.4 
+5:13:06.715	ID:30	LOG TEMPARATURE 13.3 
+5:13:06.770	ID:31	LOG TEMPARATURE 14.7 
+5:13:06.770	ID:31	LOG AVAILABILITY 0
+5:13:06.770	ID:31	LOG SENT 30 31|0:31;|14.7:31;|14.7:31; 
+5:13:06.781	ID:48	LOG RECEIVED 31|0:31;|14.7:31;|14.7:31; 
+5:13:06.787	ID:31	LOG SENT 32 31|0:31;|14.7:31;|14.7:31; 
+5:13:06.803	ID:50	LOG RECEIVED 31|0:31;|14.7:31;|14.7:31; 
+5:13:06.804	ID:8	LOG AVAILABILITY 0
+5:13:06.804	ID:8	LOG SENT 7 8|0:8;1:10;|4.8:8;|21.2:8; 
+5:13:06.833	ID:7	LOG RECEIVED 8|0:8;1:10;|4.8:8;|21.2:8; 
+5:13:06.851	ID:29	LOG TEMPARATURE 1.1 
+5:13:06.851	ID:29	LOG AVAILABILITY 1
+5:13:06.851	ID:29	LOG SENT 28 29|1:29;|1.1:29;|1.1:29; 
+5:13:06.866	ID:8	LOG SENT 9 8|0:8;|4.8:8;|21.2:8; 
+5:13:06.880	ID:9	LOG RECEIVED 8|0:8;|4.8:8;|21.2:8; 
+5:13:06.887	ID:40	LOG RECEIVED 29|1:29;|1.1:29;|1.1:29; 
+5:13:06.893	ID:17	LOG TEMPARATURE 26.6 
+5:13:06.912	ID:29	LOG SENT 30 29|1:29;|1.1:29;|1.1:29; 
+5:13:06.944	ID:48	LOG RECEIVED 29|1:29;|1.1:29;|1.1:29; 
+5:13:06.989	ID:14	LOG TEMPARATURE 18.0 
+5:13:06.989	ID:14	LOG AVAILABILITY 1
+5:13:06.989	ID:14	LOG SENT 13 14|1:14;|18.0:14;|17.1:14; 
+5:13:07.007	ID:13	LOG TEMPARATURE 22.1 
+5:13:07.020	ID:19	LOG RECEIVED 14|1:14;|18.0:14;|17.1:14; 
+5:13:07.032	ID:10	LOG TEMPARATURE 20.0 
+5:13:07.052	ID:14	LOG SENT 15 14|1:14;|18.0:14;|17.1:14; 
+5:13:07.068	ID:24	LOG TEMPARATURE 10.1 
+5:13:07.068	ID:24	LOG SENT 23 24||10.1:24;|15.8:24; 
+5:13:07.089	ID:25	LOG AVAILABILITY 0
+5:13:07.089	ID:25	LOG SENT 24 25|0:25;|22.9:25;|22.9:25; 
+5:13:07.096	ID:21	LOG RECEIVED 14|1:14;|18.0:14;|17.1:14; 
+5:13:07.103	ID:35	LOG RECEIVED 24||10.1:24;|15.8:24; 
+5:13:07.114	ID:36	LOG RECEIVED 25|0:25;|22.9:25;|22.9:25; 
+5:13:07.139	ID:25	LOG SENT 26 25|0:20,25;|22.9:25;|22.9:25; 
+5:13:07.148	ID:24	LOG SENT 25 24|0:12;|10.1:24;|15.8:24; 
+5:13:07.164	ID:38	LOG RECEIVED 25|0:20,25;|22.9:25;|22.9:25; 
+5:13:07.244	ID:37	LOG RECEIVED 24|0:12;|10.1:24;|15.8:24; 
+5:14:46.136	ID:18	LOG TEMPARATURE 4.7 
+5:14:46.197	ID:21	LOG TEMPARATURE 0.9 
+5:14:46.278	ID:5	LOG TEMPARATURE 15.0 
+5:14:46.303	ID:26	LOG TEMPARATURE 2.6 
+5:14:46.362	ID:9	LOG TEMPARATURE 10.1 
+5:14:46.597	ID:22	LOG TEMPARATURE 34.5 
+5:14:46.597	ID:22	LOG AVAILABILITY 0
+5:14:46.597	ID:22	LOG SENT 21 22|0:22;|34.5:22;|24.6:22; 
+5:14:46.606	ID:2	LOG TEMPARATURE 13.8 
+5:14:46.621	ID:33	LOG RECEIVED 22|0:22;|34.5:22;|24.6:22; 
+5:14:46.657	ID:22	LOG SENT 23 22|0:17,22;|34.5:22;|24.6:22; 
+5:14:46.663	ID:35	LOG RECEIVED 22|0:17,22;|34.5:22;|24.6:22; 
+5:14:46.715	ID:30	LOG TEMPARATURE 14.8 
+5:14:46.770	ID:31	LOG TEMPARATURE 7.3 
+5:14:46.804	ID:8	LOG TEMPARATURE 32.7 
+5:14:46.851	ID:29	LOG TEMPARATURE 15.8 
+5:14:46.893	ID:17	LOG AVAILABILITY 1
+5:14:46.893	ID:17	LOG SENT 16 17|1:17;|26.6:17;|16.1:17; 
+5:14:46.930	ID:28	LOG TEMPARATURE 29.9 
+5:14:46.935	ID:22	LOG RECEIVED 17|1:17;|26.6:17;|16.1:17; 
+5:14:46.978	ID:17	LOG SENT 18 17|1:12,17;|26.6:17;|16.1:17; 
+5:14:46.989	ID:14	LOG TEMPARATURE 28.8 
+5:14:46.997	ID:4	LOG TEMPARATURE 16.0 
+5:14:46.997	ID:24	LOG RECEIVED 17|1:12,17;|26.6:17;|16.1:17; 
+5:14:47.089	ID:25	LOG TEMPARATURE 25.0 
+5:14:47.089	ID:25	LOG AVAILABILITY 1
+5:14:47.089	ID:25	LOG SENT 24 25|1:25;|25.0:25;|25.0:25; 
+5:14:47.131	ID:36	LOG RECEIVED 25|1:25;|25.0:25;|25.0:25; 
+5:14:47.144	ID:25	LOG SENT 26 25|0:20;1:25;|25.0:25;|25.0:25; 
+5:14:47.180	ID:38	LOG RECEIVED 25|0:20;1:25;|25.0:25;|25.0:25; 
+5:16:26.136	ID:18	LOG TEMPARATURE 7.2 
+5:16:26.157	ID:16	LOG TEMPARATURE 28.7 
+5:16:26.278	ID:5	LOG TEMPARATURE 5.6 
+5:16:26.303	ID:26	LOG TEMPARATURE 12.2 
+5:16:26.322	ID:27	LOG TEMPARATURE 1.7 
+5:16:26.362	ID:9	LOG TEMPARATURE 30.3 
+5:16:26.416	ID:12	LOG TEMPARATURE 22.3 
+5:16:26.727	ID:6	LOG TEMPARATURE 1.7 
+5:16:26.770	ID:31	LOG TEMPARATURE 19.3 
+5:16:26.848	ID:15	LOG TEMPARATURE 12.3 
+5:16:26.848	ID:15	LOG AVAILABILITY 1
+5:16:26.848	ID:15	LOG SENT 14 15|1:15;|12.3:15;|12.3:15; 
+5:16:26.851	ID:29	LOG AVAILABILITY 0
+5:16:26.851	ID:29	LOG SENT 28 29|0:29;|15.8:29;|15.8:29; 
+5:16:26.871	ID:20	LOG RECEIVED 15|1:15;|12.3:15;|12.3:15; 
+5:16:26.893	ID:17	LOG TEMPARATURE 8.4 
+5:16:26.893	ID:15	LOG SENT 16 15|1:15;|12.3:15;|12.3:15; 
+5:16:26.904	ID:22	LOG RECEIVED 15|1:15;|12.3:15;|12.3:15; 
+5:16:26.930	ID:28	LOG TEMPARATURE 6.0 
+5:16:26.930	ID:28	LOG AVAILABILITY 1
+5:16:26.930	ID:28	LOG SENT 27 28|1:28;|6.0:28;|21.9:28; 
+5:16:26.941	ID:39	LOG RECEIVED 28|1:28;|6.0:28;|21.9:28; 
+5:16:26.947	ID:40	LOG RECEIVED 29|0:29;|15.8:29;|15.8:29; 
+5:16:26.952	ID:29	LOG SENT 30 29|0:29;|15.8:29;|15.8:29; 
+5:16:26.980	ID:28	LOG SENT 29 28|1:28;|6.0:28;|21.9:28; 
+5:16:26.983	ID:48	LOG RECEIVED 29|0:29;|15.8:29;|15.8:29; 
+5:16:26.989	ID:14	LOG TEMPARATURE 2.1 
+5:16:26.993	ID:41	LOG RECEIVED 28|1:28;|6.0:28;|21.9:28; 
+5:16:27.007	ID:13	LOG TEMPARATURE 11.7 
+5:16:27.026	ID:3	LOG TEMPARATURE 0.3 
+5:16:27.026	ID:3	LOG AVAILABILITY 1
+5:16:27.026	ID:3	LOG SENT 2 3|1:3;|0.3:3;|14.9:3; 
+5:16:27.064	ID:2	LOG RECEIVED 3|1:3;|0.3:3;|14.9:3; 
+5:16:27.068	ID:24	LOG TEMPARATURE 6.8 
+5:16:27.092	ID:3	LOG SENT 4 3|1:2,3;|0.3:3;|14.9:3; 
+5:16:27.123	ID:4	LOG RECEIVED 3|1:2,3;|0.3:3;|14.9:3; 
+5:18:06.157	ID:16	LOG TEMPARATURE 12.1 
+5:18:06.182	ID:7	LOG TEMPARATURE 4.8 
+5:18:06.197	ID:21	LOG TEMPARATURE 22.6 
+5:18:06.278	ID:5	LOG TEMPARATURE 29.7 
+5:18:06.322	ID:27	LOG TEMPARATURE 25.4 
+5:18:06.601	ID:23	LOG TEMPARATURE 25.2 
+5:18:06.650	ID:11	LOG TEMPARATURE 7.1 
+5:18:06.715	ID:30	LOG TEMPARATURE 25.6 
+5:18:06.727	ID:6	LOG TEMPARATURE 13.5 
+5:18:06.770	ID:31	LOG TEMPARATURE 15.8 
+5:18:06.848	ID:15	LOG TEMPARATURE 0.2 
+5:18:06.893	ID:17	LOG TEMPARATURE 22.6 
+5:18:06.930	ID:28	LOG TEMPARATURE 4.2 
+5:18:06.989	ID:14	LOG TEMPARATURE 15.8 
+5:18:06.989	ID:14	LOG AVAILABILITY 0
+5:18:06.989	ID:14	LOG SENT 13 14|0:14;|15.8:14;|15.6:14; 
+5:18:06.997	ID:4	LOG TEMPARATURE 26.6 
+5:18:06.998	ID:19	LOG RECEIVED 14|0:14;|15.8:14;|15.6:14; 
+5:18:07.007	ID:13	LOG TEMPARATURE 0.0 
+5:18:07.010	ID:14	LOG SENT 15 14|0:14;|15.8:14;|15.6:14; 
+5:18:07.026	ID:3	LOG TEMPARATURE 16.0 
+5:18:07.044	ID:21	LOG RECEIVED 14|0:14;|15.8:14;|15.6:14; 
+5:18:07.068	ID:24	LOG TEMPARATURE 3.1 
+5:19:46.136	ID:18	LOG TEMPARATURE 34.0 
+5:19:46.157	ID:16	LOG TEMPARATURE 33.1 
+5:19:46.197	ID:21	LOG TEMPARATURE 15.3 
+5:19:46.242	ID:20	LOG TEMPARATURE 5.4 
+5:19:46.278	ID:5	LOG TEMPARATURE 32.3 
+5:19:46.322	ID:27	LOG TEMPARATURE 6.1 
+5:19:46.597	ID:22	LOG TEMPARATURE 6.8 
+5:19:46.606	ID:2	LOG TEMPARATURE 24.8 
+5:19:46.650	ID:11	LOG TEMPARATURE 3.2 
+5:19:46.715	ID:30	LOG TEMPARATURE 9.2 
+5:19:46.804	ID:8	LOG TEMPARATURE 5.0 
+5:19:46.848	ID:15	LOG TEMPARATURE 13.3 
+5:19:46.848	ID:15	LOG AVAILABILITY 0
+5:19:46.848	ID:15	LOG SENT 14 15|0:15;|13.3:15;|6.8:15; 
+5:19:46.881	ID:20	LOG RECEIVED 15|0:15;|13.3:15;|6.8:15; 
+5:19:46.919	ID:15	LOG SENT 16 15|0:15;|13.3:15;|6.8:15; 
+5:19:46.930	ID:28	LOG TEMPARATURE 8.1 
+5:19:46.942	ID:22	LOG RECEIVED 15|0:15;|13.3:15;|6.8:15; 
+5:19:46.997	ID:4	LOG TEMPARATURE 32.2 
+5:19:46.997	ID:4	LOG AVAILABILITY 0
+5:19:46.997	ID:4	LOG SENT 3 4|0:4;|32.2:4;|18.4:4; 
+5:19:47.007	ID:13	LOG TEMPARATURE 17.7 
+5:19:47.008	ID:3	LOG RECEIVED 4|0:4;|32.2:4;|18.4:4; 
+5:19:47.026	ID:4	LOG SENT 5 4|0:4;1:2;|32.2:4;|18.4:4; 
+5:19:47.027	ID:3	LOG TEMPARATURE 9.8 
+5:19:47.047	ID:5	LOG RECEIVED 4|0:4;1:2;|32.2:4;|18.4:4; 
+5:21:26.136	ID:18	LOG TEMPARATURE 11.2 
+5:21:26.157	ID:16	LOG TEMPARATURE 18.1 
+5:21:26.182	ID:7	LOG TEMPARATURE 8.8 
+5:21:26.242	ID:20	LOG TEMPARATURE 1.6 
+5:21:26.242	ID:20	LOG AVAILABILITY 1
+5:21:26.242	ID:20	LOG SENT 19 20|1:20;|1.6:20;|3.5:20; 
+5:21:26.265	ID:25	LOG RECEIVED 20|1:20;|1.6:20;|3.5:20; 
+5:21:26.289	ID:20	LOG SENT 21 20|0:15;1:20;|1.6:20;|3.5:20; 
+5:21:26.313	ID:33	LOG RECEIVED 20|0:15;1:20;|1.6:20;|3.5:20; 
+5:21:26.322	ID:27	LOG TEMPARATURE 34.9 
+5:21:26.362	ID:9	LOG TEMPARATURE 10.7 
+5:21:26.597	ID:22	LOG TEMPARATURE 30.0 
+5:21:26.601	ID:23	LOG TEMPARATURE 15.0 
+5:21:26.601	ID:23	LOG AVAILABILITY 1
+5:21:26.601	ID:23	LOG SENT 22 23|1:23;|15.0:23;|25.5:23; 
+5:21:26.613	ID:34	LOG RECEIVED 23|1:23;|15.0:23;|25.5:23; 
+5:21:26.623	ID:23	LOG SENT 24 23|0:18;1:23;|15.0:23;|25.5:23; 
+5:21:26.633	ID:36	LOG RECEIVED 23|0:18;1:23;|15.0:23;|25.5:23; 
+5:21:26.727	ID:6	LOG TEMPARATURE 11.6 
+5:21:26.804	ID:8	LOG TEMPARATURE 0.8 
+5:21:26.848	ID:15	LOG TEMPARATURE 4.8 
+5:21:26.893	ID:17	LOG TEMPARATURE 17.1 
+5:21:26.989	ID:14	LOG TEMPARATURE 25.9 
+5:21:27.068	ID:24	LOG TEMPARATURE 24.1 
+5:21:27.089	ID:25	LOG TEMPARATURE 15.8 
+5:23:06.136	ID:18	LOG TEMPARATURE 27.4 
+5:23:06.157	ID:16	LOG TEMPARATURE 31.3 
+5:23:06.242	ID:20	LOG TEMPARATURE 15.1 
+5:23:06.303	ID:26	LOG TEMPARATURE 14.3 
+5:23:06.322	ID:27	LOG TEMPARATURE 18.2 
+5:23:06.362	ID:9	LOG TEMPARATURE 4.2 
+5:23:06.597	ID:22	LOG TEMPARATURE 16.3 
+5:23:06.601	ID:23	LOG TEMPARATURE 17.3 
+5:23:06.606	ID:2	LOG TEMPARATURE 14.2 
+5:23:06.650	ID:11	LOG TEMPARATURE 19.4 
+5:23:06.715	ID:30	LOG TEMPARATURE 15.7 
+5:23:06.770	ID:31	LOG TEMPARATURE 6.0 
+5:23:06.804	ID:8	LOG TEMPARATURE 20.3 
+5:23:06.848	ID:15	LOG TEMPARATURE 18.7 
+5:23:06.930	ID:28	LOG TEMPARATURE 21.5 
+5:23:06.930	ID:28	LOG AVAILABILITY 0
+5:23:06.930	ID:28	LOG SENT 27 28|0:28;|21.5:28;|11.3:28; 
+5:23:06.961	ID:39	LOG RECEIVED 28|0:28;|21.5:28;|11.3:28; 
+5:23:06.977	ID:28	LOG SENT 29 28|0:28;|21.5:28;|11.3:28; 
+5:23:06.995	ID:41	LOG RECEIVED 28|0:28;|21.5:28;|11.3:28; 
+5:23:06.997	ID:4	LOG TEMPARATURE 27.8 
+5:23:07.007	ID:13	LOG TEMPARATURE 0.5 
+5:23:07.026	ID:3	LOG TEMPARATURE 13.0 
+5:23:07.032	ID:10	LOG TEMPARATURE 20.1 
+5:23:07.068	ID:24	LOG TEMPARATURE 23.3 
+5:23:07.068	ID:24	LOG AVAILABILITY 1
+5:23:07.068	ID:24	LOG SENT 23 24|1:24;|23.3:24;|14.3:24; 
+5:23:07.089	ID:25	LOG TEMPARATURE 0.7 
+5:23:07.099	ID:35	LOG RECEIVED 24|1:24;|23.3:24;|14.3:24; 
+5:23:07.120	ID:24	LOG SENT 25 24|1:12,24;|23.3:24;|14.3:24; 
+5:23:07.154	ID:37	LOG RECEIVED 24|1:12,24;|23.3:24;|14.3:24; 
+5:24:46.122	ID:19	LOG TEMPARATURE 17.5 
+5:24:46.136	ID:18	LOG TEMPARATURE 23.8 
+5:24:46.303	ID:26	LOG TEMPARATURE 10.8 
+5:24:46.322	ID:27	LOG TEMPARATURE 31.8 
+5:24:46.362	ID:9	LOG TEMPARATURE 26.1 
+5:24:46.362	ID:9	LOG AVAILABILITY 0
+5:24:46.362	ID:9	LOG SENT 8 9|0:9;1:10;|26.1:9;|14.8:9; 
+5:24:46.372	ID:8	LOG RECEIVED 9|0:9;1:10;|26.1:9;|14.8:9; 
+5:24:46.387	ID:9	LOG SENT 10 9|0:9;|26.1:9;|14.8:9; 
+5:24:46.416	ID:12	LOG TEMPARATURE 2.5 
+5:24:46.426	ID:16	LOG RECEIVED 9|0:9;|26.1:9;|14.8:9; 
+5:24:46.606	ID:2	LOG TEMPARATURE 33.3 
+5:24:46.727	ID:6	LOG TEMPARATURE 26.6 
+5:24:46.851	ID:29	LOG TEMPARATURE 26.3 
+5:24:46.893	ID:17	LOG TEMPARATURE 10.2 
+5:24:46.989	ID:14	LOG TEMPARATURE 23.1 
+5:24:47.032	ID:10	LOG TEMPARATURE 2.4 
+5:24:47.068	ID:24	LOG TEMPARATURE 1.2 
+5:26:26.122	ID:19	LOG TEMPARATURE 32.2 
+5:26:26.182	ID:7	LOG TEMPARATURE 20.9 
+5:26:26.197	ID:21	LOG TEMPARATURE 25.6 
+5:26:26.416	ID:12	LOG TEMPARATURE 9.1 
+5:26:26.597	ID:22	LOG TEMPARATURE 1.9 
+5:26:26.597	ID:22	LOG AVAILABILITY 1
+5:26:26.597	ID:22	LOG SENT 21 22|1:22;|1.9:22;|13.8:22; 
+5:26:26.601	ID:23	LOG TEMPARATURE 6.6 
+5:26:26.641	ID:33	LOG RECEIVED 22|1:22;|1.9:22;|13.8:22; 
+5:26:26.651	ID:22	LOG SENT 23 22|1:17,22;|1.9:22;|13.8:22; 
+5:26:26.675	ID:35	LOG RECEIVED 22|1:17,22;|1.9:22;|13.8:22; 
+5:26:26.770	ID:31	LOG TEMPARATURE 25.6 
+5:26:26.804	ID:8	LOG TEMPARATURE 25.5 
+5:26:26.851	ID:29	LOG TEMPARATURE 31.6 
+5:26:26.997	ID:4	LOG AVAILABILITY 1
+5:26:26.997	ID:4	LOG SENT 3 4|1:4;|27.8:4;|27.8:4; 
+5:26:27.007	ID:13	LOG TEMPARATURE 31.6 
+5:26:27.022	ID:3	LOG RECEIVED 4|1:4;|27.8:4;|27.8:4; 
+5:26:27.032	ID:10	LOG TEMPARATURE 16.4 
+5:26:27.048	ID:4	LOG SENT 5 4|1:2,4;|27.8:4;|27.8:4; 
+5:26:27.057	ID:5	LOG RECEIVED 4|1:2,4;|27.8:4;|27.8:4; 
+5:26:27.068	ID:24	LOG AVAILABILITY 0
+5:26:27.068	ID:24	LOG SENT 23 24|0:24;|1.2:24;|1.2:24; 
+5:26:27.076	ID:35	LOG RECEIVED 24|0:24;|1.2:24;|1.2:24; 
+5:26:27.092	ID:24	LOG SENT 25 24|0:24;1:12;|1.2:24;|1.2:24; 
+5:26:27.121	ID:37	LOG RECEIVED 24|0:24;1:12;|1.2:24;|1.2:24; 
+5:28:06.157	ID:16	LOG TEMPARATURE 23.8 
+5:28:06.197	ID:21	LOG TEMPARATURE 12.7 
+5:28:06.242	ID:20	LOG TEMPARATURE 18.1 
+5:28:06.278	ID:5	LOG TEMPARATURE 1.9 
+5:28:06.322	ID:27	LOG TEMPARATURE 6.4 
+5:28:06.362	ID:9	LOG TEMPARATURE 20.3 
+5:28:06.416	ID:12	LOG TEMPARATURE 3.5 
+5:28:06.606	ID:2	LOG TEMPARATURE 13.0 
+5:28:06.727	ID:6	LOG TEMPARATURE 17.8 
+5:28:06.893	ID:17	LOG TEMPARATURE 11.8 
+5:28:06.997	ID:4	LOG TEMPARATURE 34.2 
+5:28:07.007	ID:13	LOG TEMPARATURE 23.4 
+5:28:07.007	ID:13	LOG AVAILABILITY 1
+5:28:07.007	ID:13	LOG SENT 12 13|1:13;|23.4:13;|15.9:13; 
+5:28:07.026	ID:3	LOG TEMPARATURE 21.6 
+5:28:07.031	ID:18	LOG RECEIVED 13|1:13;|23.4:13;|15.9:13; 
+5:28:07.032	ID:10	LOG TEMPARATURE 30.9 
+5:28:07.073	ID:13	LOG SENT 14 13|1:13;|23.4:13;|15.9:13; 
+5:28:07.087	ID:20	LOG RECEIVED 13|1:13;|23.4:13;|15.9:13; 
+5:28:07.089	ID:25	LOG TEMPARATURE 2.3 
+5:29:46.136	ID:18	LOG TEMPARATURE 24.1 
+5:29:46.182	ID:7	LOG TEMPARATURE 12.6 
+5:29:46.303	ID:26	LOG TEMPARATURE 7.7 
+5:29:46.362	ID:9	LOG TEMPARATURE 25.2 
+5:29:46.416	ID:12	LOG TEMPARATURE 18.1 
+5:29:46.601	ID:23	LOG TEMPARATURE 19.4 
+5:29:46.650	ID:11	LOG TEMPARATURE 2.2 
+5:29:46.650	ID:11	LOG AVAILABILITY 1
+5:29:46.650	ID:11	LOG SENT 10 11|1:11;|2.2:11;|14.3:11; 
+5:29:46.667	ID:16	LOG RECEIVED 11|1:11;|2.2:11;|14.3:11; 
+5:29:46.699	ID:11	LOG SENT 12 11|1:11;|2.2:11;|14.3:11; 
+5:29:46.709	ID:18	LOG RECEIVED 11|1:11;|2.2:11;|14.3:11; 
+5:29:46.770	ID:31	LOG TEMPARATURE 3.8 
+5:29:46.893	ID:17	LOG AVAILABILITY 0
+5:29:46.893	ID:17	LOG SENT 16 17|0:17;|11.8:17;|14.0:17; 
+5:29:46.930	ID:28	LOG TEMPARATURE 32.6 
+5:29:46.930	ID:22	LOG RECEIVED 17|0:17;|11.8:17;|14.0:17; 
+5:29:46.948	ID:17	LOG SENT 18 17|0:17;1:12;|11.8:17;|14.0:17; 
+5:29:46.955	ID:24	LOG RECEIVED 17|0:17;1:12;|11.8:17;|14.0:17; 
+5:29:47.068	ID:24	LOG TEMPARATURE 22.7 
+5:29:47.068	ID:24	LOG AVAILABILITY 1
+5:29:47.068	ID:24	LOG SENT 23 24|1:24;|22.7:24;|22.7:24; 
+5:29:47.082	ID:35	LOG RECEIVED 24|1:24;|22.7:24;|22.7:24; 
+5:29:47.103	ID:24	LOG SENT 25 24|1:12,24;|22.7:24;|22.7:24; 
+5:29:47.121	ID:37	LOG RECEIVED 24|1:12,24;|22.7:24;|22.7:24; 
+5:31:26.136	ID:18	LOG TEMPARATURE 11.5 
+5:31:26.197	ID:21	LOG TEMPARATURE 8.4 
+5:31:26.278	ID:5	LOG TEMPARATURE 9.0 
+5:31:26.278	ID:5	LOG AVAILABILITY 0
+5:31:26.278	ID:5	LOG SENT 4 5|0:5;1:6;|9.0:5;|14.9:5; 
+5:31:26.302	ID:4	LOG RECEIVED 5|0:5;1:6;|9.0:5;|14.9:5; 
+5:31:26.303	ID:26	LOG TEMPARATURE 7.1 
+5:31:26.322	ID:27	LOG TEMPARATURE 20.7 
+5:31:26.325	ID:5	LOG SENT 6 5|0:5;|9.0:5;|14.9:5; 
+5:31:26.361	ID:6	LOG RECEIVED 5|0:5;|9.0:5;|14.9:5; 
+5:31:26.416	ID:12	LOG TEMPARATURE 4.1 
+5:31:26.597	ID:22	LOG TEMPARATURE 28.1 
+5:31:26.650	ID:11	LOG TEMPARATURE 21.3 
+5:31:26.715	ID:30	LOG TEMPARATURE 15.9 
+5:31:26.715	ID:30	LOG SENT 29 30||15.9:30;|12.9:30; 
+5:31:26.726	ID:41	LOG RECEIVED 30||15.9:30;|12.9:30; 
+5:31:26.727	ID:6	LOG TEMPARATURE 10.4 
+5:31:26.727	ID:6	LOG AVAILABILITY 0
+5:31:26.727	ID:6	LOG SENT 5 6|0:6;1:7;|10.4:6;|16.9:6; 
+5:31:26.739	ID:5	LOG RECEIVED 6|0:6;1:7;|10.4:6;|16.9:6; 
+5:31:26.747	ID:6	LOG SENT 7 6|0:6;|10.4:6;|16.9:6; 
+5:31:26.771	ID:30	LOG SENT 31 30||15.9:30;|12.9:30; 
+5:31:26.792	ID:7	LOG RECEIVED 6|0:6;|10.4:6;|16.9:6; 
+5:31:26.795	ID:49	LOG RECEIVED 30||15.9:30;|12.9:30; 
+5:31:26.804	ID:8	LOG TEMPARATURE 24.4 
+5:31:26.848	ID:15	LOG TEMPARATURE 11.3 
+5:31:26.893	ID:17	LOG TEMPARATURE 0.0 
+5:31:26.989	ID:14	LOG TEMPARATURE 14.5 
+5:31:27.032	ID:10	LOG TEMPARATURE 16.3 
+5:31:27.068	ID:24	LOG TEMPARATURE 8.5 
+5:33:06.136	ID:18	LOG TEMPARATURE 25.4 
+5:33:06.242	ID:20	LOG TEMPARATURE 32.8 
+5:33:06.416	ID:12	LOG TEMPARATURE 16.8 
+5:33:06.597	ID:22	LOG TEMPARATURE 5.7 
+5:33:06.601	ID:23	LOG TEMPARATURE 13.2 
+5:33:06.606	ID:2	LOG TEMPARATURE 28.6 
+5:33:06.727	ID:6	LOG TEMPARATURE 18.1 
+5:33:06.804	ID:8	LOG TEMPARATURE 32.4 
+5:33:06.851	ID:29	LOG TEMPARATURE 22.4 
+5:33:06.930	ID:28	LOG TEMPARATURE 16.2 
+5:33:06.989	ID:14	LOG TEMPARATURE 33.4 
+5:33:07.007	ID:13	LOG TEMPARATURE 30.9 
+5:33:07.026	ID:3	LOG TEMPARATURE 16.1 
+5:33:07.032	ID:10	LOG TEMPARATURE 34.2 
+5:33:07.068	ID:24	LOG TEMPARATURE 8.6 
+5:33:07.089	ID:25	LOG TEMPARATURE 13.9 
+5:34:46.182	ID:7	LOG TEMPARATURE 32.1 
+5:34:46.242	ID:20	LOG TEMPARATURE 13.5 
+5:34:46.303	ID:26	LOG TEMPARATURE 28.5 
+5:34:46.322	ID:27	LOG TEMPARATURE 3.5 
+5:34:46.362	ID:9	LOG TEMPARATURE 7.4 
+5:34:46.416	ID:12	LOG SENT 11 12||16.8:12;|16.5:12; 
+5:34:46.444	ID:17	LOG RECEIVED 12||16.8:12;|16.5:12; 
+5:34:46.456	ID:12	LOG SENT 13 12||16.8:12;|16.5:12; 
+5:34:46.470	ID:19	LOG RECEIVED 12||16.8:12;|16.5:12; 
+5:34:46.601	ID:23	LOG TEMPARATURE 19.1 
+5:34:46.727	ID:6	LOG TEMPARATURE 11.8 
+5:34:46.848	ID:15	LOG TEMPARATURE 19.8 
+5:34:46.851	ID:29	LOG TEMPARATURE 13.9 
+5:34:46.930	ID:28	LOG TEMPARATURE 4.9 
+5:34:46.989	ID:14	LOG AVAILABILITY 1
+5:34:46.989	ID:14	LOG SENT 13 14|1:14;|33.4:14;|24.2:14; 
+5:34:47.001	ID:19	LOG RECEIVED 14|1:14;|33.4:14;|24.2:14; 
+5:34:47.007	ID:13	LOG TEMPARATURE 15.2 
+5:34:47.026	ID:3	LOG TEMPARATURE 33.3 
+5:34:47.026	ID:14	LOG SENT 15 14|1:14;|33.4:14;|24.2:14; 
+5:34:47.069	ID:21	LOG RECEIVED 14|1:14;|33.4:14;|24.2:14; 
+5:34:47.089	ID:25	LOG TEMPARATURE 14.0 
+5:36:26.122	ID:19	LOG SENT 18 19||32.2:19;|20.7:19; 
+5:36:26.136	ID:18	LOG TEMPARATURE 3.7 
+5:36:26.140	ID:24	LOG RECEIVED 19||32.2:19;|20.7:19; 
+5:36:26.157	ID:16	LOG TEMPARATURE 7.6 
+5:36:26.179	ID:19	LOG SENT 20 19|1:12;|32.2:19;|20.7:19; 
+5:36:26.182	ID:7	LOG TEMPARATURE 13.4 
+5:36:26.205	ID:32	LOG RECEIVED 19|1:12;|32.2:19;|20.7:19; 
+5:36:26.416	ID:12	LOG TEMPARATURE 19.7 
+5:36:26.650	ID:11	LOG AVAILABILITY 0
+5:36:26.650	ID:11	LOG SENT 10 11|0:11;|21.3:11;|21.3:11; 
+5:36:26.675	ID:16	LOG RECEIVED 11|0:11;|21.3:11;|21.3:11; 
+5:36:26.692	ID:11	LOG SENT 12 11|0:11;|21.3:11;|21.3:11; 
+5:36:26.711	ID:18	LOG RECEIVED 11|0:11;|21.3:11;|21.3:11; 
+5:36:26.804	ID:8	LOG TEMPARATURE 17.3 
+5:36:26.804	ID:8	LOG AVAILABILITY 1
+5:36:26.804	ID:8	LOG SENT 7 8|1:10,8;|17.3:8;|19.8:8; 
+5:36:26.827	ID:7	LOG RECEIVED 8|1:10,8;|17.3:8;|19.8:8; 
+5:36:26.832	ID:8	LOG SENT 9 8|1:8;|17.3:8;|19.8:8; 
+5:36:26.873	ID:9	LOG RECEIVED 8|1:8;|17.3:8;|19.8:8; 
+5:36:26.930	ID:28	LOG TEMPARATURE 10.7 
+5:36:26.997	ID:4	LOG TEMPARATURE 30.8 
+5:36:26.997	ID:4	LOG AVAILABILITY 0
+5:36:26.997	ID:4	LOG SENT 3 4|0:4;|30.8:4;|32.5:4; 
+5:36:27.007	ID:13	LOG TEMPARATURE 6.9 
+5:36:27.017	ID:3	LOG RECEIVED 4|0:4;|30.8:4;|32.5:4; 
+5:36:27.026	ID:3	LOG AVAILABILITY 0
+5:36:27.026	ID:3	LOG SENT 2 3|0:3;|33.3:3;|18.3:3; 
+5:36:27.052	ID:4	LOG SENT 5 4|0:4;1:2;|30.8:4;|32.5:4; 
+5:36:27.061	ID:5	LOG RECEIVED 4|0:4;1:2;|30.8:4;|32.5:4; 
+5:36:27.067	ID:2	LOG RECEIVED 3|0:3;|33.3:3;|18.3:3; 
+5:36:27.083	ID:3	LOG SENT 4 3|0:3;1:2;|33.3:3;|18.3:3; 
+5:36:27.119	ID:4	LOG RECEIVED 3|0:3;1:2;|33.3:3;|18.3:3; 
+5:38:06.122	ID:19	LOG TEMPARATURE 29.6 
+5:38:06.157	ID:16	LOG TEMPARATURE 12.6 
+5:38:06.182	ID:7	LOG TEMPARATURE 31.3 
+5:38:06.278	ID:5	LOG TEMPARATURE 16.7 
+5:38:06.303	ID:26	LOG TEMPARATURE 15.6 
+5:38:06.322	ID:27	LOG TEMPARATURE 13.3 
+5:38:06.362	ID:9	LOG TEMPARATURE 16.5 
+5:38:06.416	ID:12	LOG TEMPARATURE 26.4 
+5:38:06.597	ID:22	LOG TEMPARATURE 3.9 
+5:38:06.650	ID:11	LOG TEMPARATURE 29.5 
+5:38:06.851	ID:29	LOG TEMPARATURE 13.0 
+5:38:06.930	ID:28	LOG TEMPARATURE 2.3 
+5:38:06.989	ID:14	LOG TEMPARATURE 28.7 
+5:38:06.997	ID:4	LOG TEMPARATURE 12.8 
+5:38:07.068	ID:24	LOG TEMPARATURE 11.9 
+5:38:07.089	ID:25	LOG TEMPARATURE 6.7 
+5:38:07.089	ID:25	LOG AVAILABILITY 0
+5:38:07.089	ID:25	LOG SENT 24 25|0:25;|6.7:25;|8.9:25; 
+5:38:07.105	ID:36	LOG RECEIVED 25|0:25;|6.7:25;|8.9:25; 
+5:38:07.128	ID:25	LOG SENT 26 25|0:25;1:20;|6.7:25;|8.9:25; 
+5:38:07.136	ID:38	LOG RECEIVED 25|0:25;1:20;|6.7:25;|8.9:25; 
+5:39:46.122	ID:19	LOG TEMPARATURE 32.1 
+5:39:46.136	ID:18	LOG TEMPARATURE 2.2 
+5:39:46.182	ID:7	LOG TEMPARATURE 3.0 
+5:39:46.197	ID:21	LOG TEMPARATURE 0.6 
+5:39:46.242	ID:20	LOG TEMPARATURE 22.8 
+5:39:46.303	ID:26	LOG TEMPARATURE 26.1 
+5:39:46.322	ID:27	LOG TEMPARATURE 4.0 
+5:39:46.362	ID:9	LOG TEMPARATURE 13.8 
+5:39:46.416	ID:12	LOG TEMPARATURE 11.2 
+5:39:46.606	ID:2	LOG TEMPARATURE 20.9 
+5:39:46.715	ID:30	LOG TEMPARATURE 18.0 
+5:39:46.770	ID:31	LOG TEMPARATURE 26.4 
+5:39:46.804	ID:8	LOG TEMPARATURE 32.7 
+5:39:46.851	ID:29	LOG AVAILABILITY 1
+5:39:46.851	ID:29	LOG SENT 28 29|1:29;|13.0:29;|21.4:29; 
+5:39:46.862	ID:40	LOG RECEIVED 29|1:29;|13.0:29;|21.4:29; 
+5:39:46.881	ID:29	LOG SENT 30 29|1:29;|13.0:29;|21.4:29; 
+5:39:46.898	ID:48	LOG RECEIVED 29|1:29;|13.0:29;|21.4:29; 
+5:39:46.930	ID:28	LOG TEMPARATURE 6.6 
+5:39:46.989	ID:14	LOG TEMPARATURE 7.7 
+5:39:47.007	ID:13	LOG TEMPARATURE 16.5 
+5:39:47.089	ID:25	LOG TEMPARATURE 32.4 
+5:39:47.089	ID:25	LOG AVAILABILITY 1
+5:39:47.089	ID:25	LOG SENT 24 25|1:25;|32.4:25;|32.4:25; 
+5:39:47.122	ID:36	LOG RECEIVED 25|1:25;|32.4:25;|32.4:25; 
+5:39:47.164	ID:25	LOG SENT 26 25|1:20,25;|32.4:25;|32.4:25; 
+5:39:47.206	ID:38	LOG RECEIVED 25|1:20,25;|32.4:25;|32.4:25; 
+5:41:26.122	ID:19	LOG TEMPARATURE 31.1 
+5:41:26.182	ID:7	LOG TEMPARATURE 2.4 
+5:41:26.197	ID:21	LOG TEMPARATURE 32.6 
+5:41:26.197	ID:21	LOG SENT 20 21||32.6:21;|15.2:21; 
+5:41:26.242	ID:32	LOG RECEIVED 21||32.6:21;|15.2:21; 
+5:41:26.286	ID:21	LOG SENT 22 21|1:16;|32.6:21;|15.2:21; 
+5:41:26.292	ID:34	LOG RECEIVED 21|1:16;|32.6:21;|15.2:21; 
+5:41:26.416	ID:12	LOG TEMPARATURE 9.4 
+5:41:26.597	ID:22	LOG TEMPARATURE 5.6 
+5:41:26.601	ID:23	LOG AVAILABILITY 0
+5:41:26.601	ID:23	LOG SENT 22 23|0:23;|19.1:23;|15.1:23; 
+5:41:26.606	ID:2	LOG TEMPARATURE 34.8 
+5:41:26.611	ID:34	LOG RECEIVED 23|0:23;|19.1:23;|15.1:23; 
+5:41:26.620	ID:23	LOG SENT 24 23|0:18,23;|19.1:23;|15.1:23; 
+5:41:26.650	ID:11	LOG TEMPARATURE 23.3 
+5:41:26.664	ID:36	LOG RECEIVED 23|0:18,23;|19.1:23;|15.1:23; 
+5:41:26.715	ID:30	LOG TEMPARATURE 7.4 
+5:41:26.715	ID:30	LOG AVAILABILITY 0
+5:41:26.715	ID:30	LOG SENT 29 30|0:30;|7.4:30;|12.7:30; 
+5:41:26.727	ID:6	LOG TEMPARATURE 0.4 
+5:41:26.755	ID:41	LOG RECEIVED 30|0:30;|7.4:30;|12.7:30; 
+5:41:26.760	ID:30	LOG SENT 31 30|0:30;|7.4:30;|12.7:30; 
+5:41:26.770	ID:31	LOG TEMPARATURE 8.5 
+5:41:26.795	ID:49	LOG RECEIVED 30|0:30;|7.4:30;|12.7:30; 
+5:41:26.804	ID:8	LOG TEMPARATURE 11.1 
+5:41:26.804	ID:8	LOG AVAILABILITY 0
+5:41:26.804	ID:8	LOG SENT 7 8|0:8;1:10;|11.1:8;|21.9:8; 
+5:41:26.842	ID:7	LOG RECEIVED 8|0:8;1:10;|11.1:8;|21.9:8; 
+5:41:26.848	ID:15	LOG TEMPARATURE 13.2 
+5:41:26.848	ID:15	LOG AVAILABILITY 1
+5:41:26.848	ID:15	LOG SENT 14 15|1:15;|13.2:15;|13.6:15; 
+5:41:26.851	ID:29	LOG TEMPARATURE 1.7 
+5:41:26.863	ID:8	LOG SENT 9 8|0:8;|11.1:8;|21.9:8; 
+5:41:26.883	ID:20	LOG RECEIVED 15|1:15;|13.2:15;|13.6:15; 
+5:41:26.893	ID:17	LOG TEMPARATURE 34.6 
+5:41:26.926	ID:15	LOG SENT 16 15|1:15;|13.2:15;|13.6:15; 
+5:41:26.966	ID:22	LOG RECEIVED 15|1:15;|13.2:15;|13.6:15; 
+5:41:26.989	ID:14	LOG TEMPARATURE 20.4 
+5:41:27.007	ID:13	LOG TEMPARATURE 4.7 
+5:41:27.032	ID:10	LOG TEMPARATURE 5.3 
+5:41:27.068	ID:24	LOG TEMPARATURE 12.6 
+5:41:27.103	ID:9	LOG RECEIVED 8|0:8;|11.1:8;|21.9:8; 
+5:43:06.122	ID:19	LOG TEMPARATURE 28.8 
+5:43:06.122	ID:19	LOG AVAILABILITY 1
+5:43:06.122	ID:19	LOG SENT 18 19|1:19;|28.8:19;|30.4:19; 
+5:43:06.149	ID:24	LOG RECEIVED 19|1:19;|28.8:19;|30.4:19; 
+5:43:06.157	ID:16	LOG TEMPARATURE 27.6 
+5:43:06.166	ID:19	LOG SENT 20 19|1:12,19;|28.8:19;|30.4:19; 
+5:43:06.187	ID:32	LOG RECEIVED 19|1:12,19;|28.8:19;|30.4:19; 
+5:43:06.197	ID:21	LOG TEMPARATURE 14.9 
+5:43:06.303	ID:26	LOG TEMPARATURE 16.8 
+5:43:06.322	ID:27	LOG TEMPARATURE 13.9 
+5:43:06.362	ID:9	LOG TEMPARATURE 7.8 
+5:43:06.597	ID:22	LOG TEMPARATURE 15.9 
+5:43:06.606	ID:2	LOG TEMPARATURE 19.5 
+5:43:06.606	ID:2	LOG AVAILABILITY 0
+5:43:06.606	ID:2	LOG SENT 1 2|0:2;|19.5:2;|22.5:2; 
+5:43:06.646	ID:1	LOG RECEIVED 2|0:2;|19.5:2;|22.5:2; 
+5:43:06.674	ID:2	LOG SENT 3 2|0:2;1:1;|19.5:2;|22.5:2; 
+5:43:06.696	ID:3	LOG RECEIVED 2|0:2;1:1;|19.5:2;|22.5:2; 
+5:43:06.727	ID:6	LOG TEMPARATURE 34.7 
+5:43:06.770	ID:31	LOG TEMPARATURE 13.6 
+5:43:06.804	ID:8	LOG TEMPARATURE 1.6 
+5:43:06.848	ID:15	LOG TEMPARATURE 8.1 
+5:43:06.851	ID:29	LOG TEMPARATURE 1.6 
+5:43:06.893	ID:17	LOG TEMPARATURE 2.7 
+5:43:07.007	ID:13	LOG TEMPARATURE 3.1 
+5:43:07.026	ID:3	LOG TEMPARATURE 22.0 
+5:43:07.026	ID:3	LOG AVAILABILITY 1
+5:43:07.026	ID:3	LOG SENT 2 3|1:3;|22.0:3;|22.0:3; 
+5:43:07.049	ID:2	LOG RECEIVED 3|1:3;|22.0:3;|22.0:3; 
+5:43:07.068	ID:24	LOG TEMPARATURE 7.9 
+5:43:07.068	ID:24	LOG AVAILABILITY 0
+5:43:07.068	ID:24	LOG SENT 23 24|0:24;|7.9:24;|9.9:24; 
+5:43:07.080	ID:3	LOG SENT 4 3|0:2;1:3;|22.0:3;|22.0:3; 
+5:43:07.094	ID:4	LOG RECEIVED 3|0:2;1:3;|22.0:3;|22.0:3; 
+5:43:07.111	ID:35	LOG RECEIVED 24|0:24;|7.9:24;|9.9:24; 
+5:43:07.126	ID:24	LOG SENT 25 24|0:24;1:12;|7.9:24;|9.9:24; 
+5:43:07.133	ID:37	LOG RECEIVED 24|0:24;1:12;|7.9:24;|9.9:24; 
+5:44:46.136	ID:18	LOG TEMPARATURE 32.7 
+5:44:46.278	ID:5	LOG AVAILABILITY 1
+5:44:46.278	ID:5	LOG SENT 4 5|0:6;1:5;|16.7:5;|16.7:5; 
+5:44:46.292	ID:4	LOG RECEIVED 5|0:6;1:5;|16.7:5;|16.7:5; 
+5:44:46.299	ID:5	LOG SENT 6 5|1:5;|16.7:5;|16.7:5; 
+5:44:46.338	ID:6	LOG RECEIVED 5|1:5;|16.7:5;|16.7:5; 
+5:44:46.597	ID:22	LOG TEMPARATURE 5.2 
+5:44:46.601	ID:23	LOG TEMPARATURE 3.7 
+5:44:46.650	ID:11	LOG TEMPARATURE 2.6 
+5:44:46.848	ID:15	LOG TEMPARATURE 6.4 
+5:44:46.848	ID:15	LOG AVAILABILITY 0
+5:44:46.848	ID:15	LOG SENT 14 15|0:15;|6.4:15;|7.2:15; 
+5:44:46.851	ID:29	LOG TEMPARATURE 4.9 
+5:44:46.859	ID:20	LOG RECEIVED 15|0:15;|6.4:15;|7.2:15; 
+5:44:46.900	ID:15	LOG SENT 16 15|0:15;|6.4:15;|7.2:15; 
+5:44:46.931	ID:22	LOG RECEIVED 15|0:15;|6.4:15;|7.2:15; 
+5:44:47.007	ID:13	LOG TEMPARATURE 28.4 
+5:44:47.026	ID:3	LOG AVAILABILITY 0
+5:44:47.026	ID:3	LOG SENT 2 3|0:3;|| 
+5:44:47.032	ID:10	LOG TEMPARATURE 32.0 
+5:44:47.068	ID:24	LOG TEMPARATURE 1.5 
+5:44:47.068	ID:2	LOG RECEIVED 3|0:3;|| 
+5:44:47.109	ID:3	LOG SENT 4 3|0:2,3;|| 
+5:44:47.115	ID:4	LOG RECEIVED 3|0:2,3;|| 
+5:46:26.122	ID:19	LOG TEMPARATURE 21.1 
+5:46:26.157	ID:16	LOG TEMPARATURE 6.4 
+5:46:26.197	ID:21	LOG TEMPARATURE 23.9 
+5:46:26.197	ID:21	LOG AVAILABILITY 0
+5:46:26.197	ID:21	LOG SENT 20 21|0:21;|23.9:21;|19.4:21; 
+5:46:26.240	ID:32	LOG RECEIVED 21|0:21;|23.9:21;|19.4:21; 
+5:46:26.278	ID:5	LOG TEMPARATURE 4.7 
+5:46:26.285	ID:21	LOG SENT 22 21|0:21;1:16;|23.9:21;|19.4:21; 
+5:46:26.297	ID:34	LOG RECEIVED 21|0:21;1:16;|23.9:21;|19.4:21; 
+5:46:26.322	ID:27	LOG AVAILABILITY 1
+5:46:26.322	ID:27	LOG SENT 26 27|1:27;|13.9:27;|16.1:27; 
+5:46:26.353	ID:38	LOG RECEIVED 27|1:27;|13.9:27;|16.1:27; 
+5:46:26.362	ID:9	LOG AVAILABILITY 1
+5:46:26.362	ID:9	LOG SENT 8 9|1:10,9;|7.8:9;|15.2:9; 
+5:46:26.390	ID:8	LOG RECEIVED 9|1:10,9;|7.8:9;|15.2:9; 
+5:46:26.415	ID:9	LOG SENT 10 9|1:9;|7.8:9;|15.2:9; 
+5:46:26.420	ID:27	LOG SENT 28 27|1:27;|13.9:27;|16.1:27; 
+5:46:26.447	ID:16	LOG RECEIVED 9|1:9;|7.8:9;|15.2:9; 
+5:46:26.495	ID:40	LOG RECEIVED 27|1:27;|13.9:27;|16.1:27; 
+5:46:26.597	ID:22	LOG TEMPARATURE 15.6 
+5:46:26.650	ID:11	LOG TEMPARATURE 2.9 
+5:46:26.715	ID:30	LOG TEMPARATURE 2.2 
+5:46:26.848	ID:15	LOG TEMPARATURE 24.4 
+5:46:26.851	ID:29	LOG TEMPARATURE 0.8 
+5:46:26.989	ID:14	LOG TEMPARATURE 17.5 
+5:46:26.997	ID:4	LOG TEMPARATURE 20.4 
+5:46:27.007	ID:13	LOG TEMPARATURE 33.6 
+5:46:27.026	ID:3	LOG TEMPARATURE 1.5 
+5:46:27.032	ID:10	LOG AVAILABILITY 0
+5:46:27.032	ID:10	LOG SENT 9 10|0:10;|32.0:10;|17.6:10; 
+5:46:27.049	ID:9	LOG RECEIVED 10|0:10;|32.0:10;|17.6:10; 
+5:46:27.084	ID:10	LOG SENT 11 10|0:10;|32.0:10;|17.6:10; 
+5:46:27.089	ID:25	LOG TEMPARATURE 19.3 
+5:46:27.108	ID:17	LOG RECEIVED 10|0:10;|32.0:10;|17.6:10; 
+5:48:06.122	ID:19	LOG TEMPARATURE 22.4 
+5:48:06.136	ID:18	LOG TEMPARATURE 21.2 
+5:48:06.182	ID:7	LOG TEMPARATURE 8.6 
+5:48:06.362	ID:9	LOG TEMPARATURE 1.0 
+5:48:06.597	ID:22	LOG TEMPARATURE 10.7 
+5:48:06.601	ID:23	LOG TEMPARATURE 12.6 
+5:48:06.606	ID:2	LOG TEMPARATURE 18.2 
+5:48:06.606	ID:2	LOG AVAILABILITY 1
+5:48:06.606	ID:2	LOG SENT 1 2|1:2;|18.2:2;|18.2:2; 
+5:48:06.636	ID:1	LOG RECEIVED 2|1:2;|18.2:2;|18.2:2; 
+5:48:06.641	ID:2	LOG SENT 3 2|1:1,2;|18.2:2;|18.2:2; 
+5:48:06.684	ID:3	LOG RECEIVED 2|1:1,2;|18.2:2;|18.2:2; 
+5:48:06.727	ID:6	LOG TEMPARATURE 0.3 
+5:48:06.851	ID:29	LOG AVAILABILITY 0
+5:48:06.851	ID:29	LOG SENT 28 29|0:29;|0.8:29;|2.3:29; 
+5:48:06.866	ID:40	LOG RECEIVED 29|0:29;|0.8:29;|2.3:29; 
+5:48:06.902	ID:29	LOG SENT 30 29|0:29;|0.8:29;|2.3:29; 
+5:48:06.944	ID:48	LOG RECEIVED 29|0:29;|0.8:29;|2.3:29; 
+5:48:07.007	ID:13	LOG AVAILABILITY 0
+5:48:07.007	ID:13	LOG SENT 12 13|0:13;|33.6:13;|17.4:13; 
+5:48:07.032	ID:10	LOG TEMPARATURE 14.6 
+5:48:07.044	ID:18	LOG RECEIVED 13|0:13;|33.6:13;|17.4:13; 
+5:48:07.068	ID:24	LOG TEMPARATURE 5.1 
+5:48:07.081	ID:13	LOG SENT 14 13|0:13;|33.6:13;|17.4:13; 
+5:48:07.089	ID:25	LOG TEMPARATURE 29.3 
+5:48:07.124	ID:20	LOG RECEIVED 13|0:13;|33.6:13;|17.4:13; 
+5:49:46.122	ID:19	LOG TEMPARATURE 25.9 
+5:49:46.157	ID:16	LOG AVAILABILITY 0
+5:49:46.157	ID:16	LOG SENT 15 16|0:16;|6.4:16;|18.5:16; 
+5:49:46.169	ID:21	LOG RECEIVED 16|0:16;|6.4:16;|18.5:16; 
+5:49:46.174	ID:16	LOG SENT 17 16|0:16;1:9;|6.4:16;|18.5:16; 
+5:49:46.197	ID:21	LOG TEMPARATURE 23.9 
+5:49:46.213	ID:23	LOG RECEIVED 16|0:16;1:9;|6.4:16;|18.5:16; 
+5:49:46.242	ID:20	LOG TEMPARATURE 2.4 
+5:49:46.278	ID:5	LOG TEMPARATURE 14.6 
+5:49:46.322	ID:27	LOG TEMPARATURE 10.8 
+5:49:46.416	ID:12	LOG TEMPARATURE 12.6 
+5:49:46.597	ID:22	LOG TEMPARATURE 13.2 
+5:49:46.606	ID:2	LOG TEMPARATURE 27.5 
+5:49:46.606	ID:2	LOG AVAILABILITY 0
+5:49:46.606	ID:2	LOG SENT 1 2|0:2;|27.5:2;|27.5:2; 
+5:49:46.614	ID:1	LOG RECEIVED 2|0:2;|27.5:2;|27.5:2; 
+5:49:46.650	ID:11	LOG TEMPARATURE 1.2 
+5:49:46.657	ID:2	LOG SENT 3 2|0:2;1:1;|27.5:2;|27.5:2; 
+5:49:46.677	ID:3	LOG RECEIVED 2|0:2;1:1;|27.5:2;|27.5:2; 
+5:49:46.770	ID:31	LOG TEMPARATURE 20.3 
+5:49:46.804	ID:8	LOG TEMPARATURE 19.6 
+5:49:46.848	ID:15	LOG TEMPARATURE 13.0 
+5:49:46.893	ID:17	LOG TEMPARATURE 11.2 
+5:49:46.893	ID:17	LOG AVAILABILITY 1
+5:49:46.893	ID:17	LOG SENT 16 17|1:17;|11.2:17;|12.1:17; 
+5:49:46.903	ID:22	LOG RECEIVED 17|1:17;|11.2:17;|12.1:17; 
+5:49:46.920	ID:17	LOG SENT 18 17|1:12,17;|11.2:17;|12.1:17; 
+5:49:46.930	ID:28	LOG TEMPARATURE 9.6 
+5:49:46.935	ID:24	LOG RECEIVED 17|1:12,17;|11.2:17;|12.1:17; 
+5:49:46.997	ID:4	LOG TEMPARATURE 13.2 
+5:49:47.026	ID:3	LOG AVAILABILITY 1
+5:49:47.026	ID:3	LOG SENT 2 3|1:3;|1.5:3;|1.5:3; 
+5:49:47.071	ID:2	LOG RECEIVED 3|1:3;|1.5:3;|1.5:3; 
+5:49:47.089	ID:25	LOG TEMPARATURE 17.1 
+5:49:47.096	ID:3	LOG SENT 4 3|0:2;1:3;|1.5:3;|1.5:3; 
+5:49:47.107	ID:4	LOG RECEIVED 3|0:2;1:3;|1.5:3;|1.5:3; 
+5:51:26.136	ID:18	LOG TEMPARATURE 13.9 
+5:51:26.182	ID:7	LOG TEMPARATURE 10.2 
+5:51:26.242	ID:20	LOG TEMPARATURE 18.5 
+5:51:26.278	ID:5	LOG TEMPARATURE 8.1 
+5:51:26.322	ID:27	LOG TEMPARATURE 1.8 
+5:51:26.416	ID:12	LOG AVAILABILITY 0
+5:51:26.416	ID:12	LOG SENT 11 12|0:12;|12.6:12;|15.9:12; 
+5:51:26.423	ID:17	LOG RECEIVED 12|0:12;|12.6:12;|15.9:12; 
+5:51:26.459	ID:12	LOG SENT 13 12|0:12;|12.6:12;|15.9:12; 
+5:51:26.488	ID:19	LOG RECEIVED 12|0:12;|12.6:12;|15.9:12; 
+5:51:26.597	ID:22	LOG TEMPARATURE 8.0 
+5:51:26.601	ID:23	LOG TEMPARATURE 14.5 
+5:51:26.650	ID:11	LOG TEMPARATURE 24.6 
+5:51:26.715	ID:30	LOG TEMPARATURE 27.6 
+5:51:26.727	ID:6	LOG AVAILABILITY 1
+5:51:26.727	ID:6	LOG SENT 5 6|1:7,6;|0.3:6;|13.1:6; 
+5:51:26.744	ID:5	LOG RECEIVED 6|1:7,6;|0.3:6;|13.1:6; 
+5:51:26.749	ID:6	LOG SENT 7 6|1:6;|0.3:6;|13.1:6; 
+5:51:26.770	ID:31	LOG TEMPARATURE 11.7 
+5:51:26.782	ID:7	LOG RECEIVED 6|1:6;|0.3:6;|13.1:6; 
+5:51:26.804	ID:8	LOG TEMPARATURE 32.9 
+5:51:26.893	ID:17	LOG TEMPARATURE 9.7 
+5:51:26.930	ID:28	LOG TEMPARATURE 0.9 
+5:51:26.997	ID:4	LOG TEMPARATURE 5.7 
+5:51:27.007	ID:13	LOG TEMPARATURE 21.2 
+5:51:27.032	ID:10	LOG TEMPARATURE 4.1 
+5:53:06.122	ID:19	LOG TEMPARATURE 22.6 
+5:53:06.136	ID:18	LOG AVAILABILITY 1
+5:53:06.136	ID:18	LOG SENT 17 18|1:18;|13.9:18;|16.4:18; 
+5:53:06.157	ID:16	LOG AVAILABILITY 1
+5:53:06.157	ID:16	LOG SENT 15 16|1:16;|| 
+5:53:06.166	ID:23	LOG RECEIVED 18|1:18;|13.9:18;|16.4:18; 
+5:53:06.182	ID:7	LOG TEMPARATURE 13.9 
+5:53:06.184	ID:18	LOG SENT 19 18|0:13;1:18;|13.9:18;|16.4:18; 
+5:53:06.201	ID:25	LOG RECEIVED 18|0:13;1:18;|13.9:18;|16.4:18; 
+5:53:06.238	ID:21	LOG RECEIVED 16|1:16;|| 
+5:53:06.242	ID:20	LOG TEMPARATURE 14.7 
+5:53:06.244	ID:16	LOG SENT 17 16|1:9,16;|| 
+5:53:06.278	ID:5	LOG TEMPARATURE 15.4 
+5:53:06.283	ID:23	LOG RECEIVED 16|1:9,16;|| 
+5:53:06.322	ID:27	LOG TEMPARATURE 0.4 
+5:53:06.362	ID:9	LOG TEMPARATURE 20.3 
+5:53:06.597	ID:22	LOG TEMPARATURE 27.1 
+5:53:06.606	ID:2	LOG TEMPARATURE 0.4 
+5:53:06.606	ID:2	LOG AVAILABILITY 1
+5:53:06.606	ID:2	LOG SENT 1 2|1:2;|0.4:2;|0.4:2; 
+5:53:06.624	ID:1	LOG RECEIVED 2|1:2;|0.4:2;|0.4:2; 
+5:53:06.648	ID:2	LOG SENT 3 2|1:1,2;|0.4:2;|0.4:2; 
+5:53:06.671	ID:3	LOG RECEIVED 2|1:1,2;|0.4:2;|0.4:2; 
+5:53:06.727	ID:6	LOG TEMPARATURE 5.3 
+5:53:06.893	ID:17	LOG TEMPARATURE 30.9 
+5:53:06.930	ID:28	LOG TEMPARATURE 10.4 
+5:53:06.997	ID:4	LOG TEMPARATURE 3.6 
+5:53:07.007	ID:13	LOG TEMPARATURE 30.3 
+5:53:07.032	ID:10	LOG AVAILABILITY 1
+5:53:07.032	ID:10	LOG SENT 9 10|1:10;|4.1:10;|9.4:10; 
+5:53:07.068	ID:24	LOG TEMPARATURE 11.2 
+5:53:07.075	ID:9	LOG RECEIVED 10|1:10;|4.1:10;|9.4:10; 
+5:53:07.100	ID:10	LOG SENT 11 10|1:10;|4.1:10;|9.4:10; 
+5:53:07.113	ID:17	LOG RECEIVED 10|1:10;|4.1:10;|9.4:10; 
+5:54:46.136	ID:18	LOG TEMPARATURE 5.9 
+5:54:46.136	ID:18	LOG AVAILABILITY 0
+5:54:46.136	ID:18	LOG SENT 17 18|0:18;|5.9:18;|5.9:18; 
+5:54:46.157	ID:16	LOG TEMPARATURE 9.3 
+5:54:46.174	ID:23	LOG RECEIVED 18|0:18;|5.9:18;|5.9:18; 
+5:54:46.192	ID:18	LOG SENT 19 18|0:13,18;|5.9:18;|5.9:18; 
+5:54:46.237	ID:25	LOG RECEIVED 18|0:13,18;|5.9:18;|5.9:18; 
+5:54:46.278	ID:5	LOG AVAILABILITY 0
+5:54:46.278	ID:5	LOG SENT 4 5|0:5;1:6;|15.4:5;|10.7:5; 
+5:54:46.305	ID:4	LOG RECEIVED 5|0:5;1:6;|15.4:5;|10.7:5; 
+5:54:46.322	ID:27	LOG TEMPARATURE 15.4 
+5:54:46.349	ID:5	LOG SENT 6 5|0:5;|15.4:5;|10.7:5; 
+5:54:46.362	ID:9	LOG AVAILABILITY 0
+5:54:46.362	ID:9	LOG SENT 8 9|0:9;1:10;|20.3:9;|10.6:9; 
+5:54:46.372	ID:8	LOG RECEIVED 9|0:9;1:10;|20.3:9;|10.6:9; 
+5:54:46.375	ID:6	LOG RECEIVED 5|0:5;|15.4:5;|10.7:5; 
+5:54:46.400	ID:9	LOG SENT 10 9|0:9;|20.3:9;|10.6:9; 
+5:54:46.446	ID:16	LOG RECEIVED 9|0:9;|20.3:9;|10.6:9; 
+5:54:46.601	ID:23	LOG AVAILABILITY 1
+5:54:46.601	ID:23	LOG SENT 22 23|1:23;|14.5:23;|10.3:23; 
+5:54:46.606	ID:2	LOG TEMPARATURE 13.2 
+5:54:46.632	ID:34	LOG RECEIVED 23|1:23;|14.5:23;|10.3:23; 
+5:54:46.651	ID:23	LOG SENT 24 23|0:18;1:23;|14.5:23;|10.3:23; 
+5:54:46.678	ID:36	LOG RECEIVED 23|0:18;1:23;|14.5:23;|10.3:23; 
+5:54:46.770	ID:31	LOG TEMPARATURE 26.7 
+5:54:46.848	ID:15	LOG AVAILABILITY 1
+5:54:46.848	ID:15	LOG SENT 14 15|1:15;|13.0:15;|18.7:15; 
+5:54:46.851	ID:29	LOG TEMPARATURE 22.9 
+5:54:46.871	ID:20	LOG RECEIVED 15|1:15;|13.0:15;|18.7:15; 
+5:54:46.900	ID:15	LOG SENT 16 15|1:15;|13.0:15;|18.7:15; 
+5:54:46.930	ID:28	LOG TEMPARATURE 1.5 
+5:54:46.945	ID:22	LOG RECEIVED 15|1:15;|13.0:15;|18.7:15; 
+5:54:47.026	ID:3	LOG TEMPARATURE 28.6 
+5:54:47.032	ID:10	LOG TEMPARATURE 2.1 
+5:54:47.068	ID:24	LOG TEMPARATURE 26.1 
+5:54:47.089	ID:25	LOG TEMPARATURE 3.1 
+5:56:26.182	ID:7	LOG TEMPARATURE 27.4 
+5:56:26.197	ID:21	LOG TEMPARATURE 2.8 
+5:56:26.278	ID:5	LOG TEMPARATURE 18.8 
+5:56:26.278	ID:5	LOG AVAILABILITY 1
+5:56:26.278	ID:5	LOG SENT 4 5|1:6,5;|18.8:5;|18.8:5; 
+5:56:26.303	ID:26	LOG TEMPARATURE 31.9 
+5:56:26.321	ID:4	LOG RECEIVED 5|1:6,5;|18.8:5;|18.8:5; 
+5:56:26.322	ID:27	LOG TEMPARATURE 32.0 
+5:56:26.362	ID:9	LOG TEMPARATURE 29.5 
+5:56:26.362	ID:9	LOG AVAILABILITY 1
+5:56:26.362	ID:9	LOG SENT 8 9|1:10,9;|29.5:9;|29.5:9; 
+5:56:26.362	ID:5	LOG SENT 6 5|1:5;|18.8:5;|18.8:5; 
+5:56:26.371	ID:6	LOG RECEIVED 5|1:5;|18.8:5;|18.8:5; 
+5:56:26.405	ID:8	LOG RECEIVED 9|1:10,9;|29.5:9;|29.5:9; 
+5:56:26.416	ID:12	LOG TEMPARATURE 7.2 
+5:56:26.416	ID:12	LOG AVAILABILITY 1
+5:56:26.416	ID:12	LOG SENT 11 12|1:12;|7.2:12;|7.2:12; 
+5:56:26.417	ID:9	LOG SENT 10 9|1:9;|29.5:9;|29.5:9; 
+5:56:26.444	ID:16	LOG RECEIVED 9|1:9;|29.5:9;|29.5:9; 
+5:56:26.461	ID:17	LOG RECEIVED 12|1:12;|7.2:12;|7.2:12; 
+5:56:26.498	ID:12	LOG SENT 13 12|1:12;|7.2:12;|7.2:12; 
+5:56:26.520	ID:19	LOG RECEIVED 12|1:12;|7.2:12;|7.2:12; 
+5:56:26.601	ID:23	LOG TEMPARATURE 31.1 
+5:56:26.606	ID:2	LOG TEMPARATURE 29.5 
+5:56:26.650	ID:11	LOG TEMPARATURE 11.2 
+5:56:26.715	ID:30	LOG TEMPARATURE 20.5 
+5:56:26.770	ID:31	LOG TEMPARATURE 0.7 
+5:56:26.851	ID:29	LOG TEMPARATURE 7.0 
+5:56:26.930	ID:28	LOG TEMPARATURE 2.4 
+5:56:26.930	ID:28	LOG AVAILABILITY 1
+5:56:26.930	ID:28	LOG SENT 27 28|1:28;|2.4:28;|8.9:28; 
+5:56:26.951	ID:39	LOG RECEIVED 28|1:28;|2.4:28;|8.9:28; 
+5:56:26.976	ID:28	LOG SENT 29 28|1:28;|2.4:28;|8.9:28; 
+5:56:26.989	ID:14	LOG TEMPARATURE 8.9 
+5:56:27.007	ID:41	LOG RECEIVED 28|1:28;|2.4:28;|8.9:28; 
+5:56:27.026	ID:3	LOG TEMPARATURE 24.7 
+5:58:06.242	ID:20	LOG TEMPARATURE 7.5 
+5:58:06.242	ID:20	LOG AVAILABILITY 0
+5:58:06.242	ID:20	LOG SENT 19 20|0:20;|7.5:20;|16.2:20; 
+5:58:06.261	ID:25	LOG RECEIVED 20|0:20;|7.5:20;|16.2:20; 
+5:58:06.304	ID:20	LOG SENT 21 20|0:20;1:15;|7.5:20;|16.2:20; 
+5:58:06.348	ID:33	LOG RECEIVED 20|0:20;1:15;|7.5:20;|16.2:20; 
+5:58:06.416	ID:12	LOG TEMPARATURE 0.2 
+5:58:06.597	ID:22	LOG TEMPARATURE 16.4 
+5:58:06.601	ID:23	LOG TEMPARATURE 5.3 
+5:58:06.606	ID:2	LOG AVAILABILITY 0
+5:58:06.606	ID:2	LOG SENT 1 2|0:2;|29.5:2;|21.4:2; 
+5:58:06.637	ID:1	LOG RECEIVED 2|0:2;|29.5:2;|21.4:2; 
+5:58:06.666	ID:2	LOG SENT 3 2|0:2;1:1;|29.5:2;|21.4:2; 
+5:58:06.708	ID:3	LOG RECEIVED 2|0:2;1:1;|29.5:2;|21.4:2; 
+5:58:06.715	ID:30	LOG TEMPARATURE 25.5 
+5:58:06.715	ID:30	LOG AVAILABILITY 1
+5:58:06.715	ID:30	LOG SENT 29 30|1:30;|25.5:30;|19.0:30; 
+5:58:06.727	ID:6	LOG AVAILABILITY 0
+5:58:06.727	ID:6	LOG SENT 5 6|0:6;1:7;|5.3:6;|5.3:6; 
+5:58:06.746	ID:5	LOG RECEIVED 6|0:6;1:7;|5.3:6;|5.3:6; 
+5:58:06.761	ID:41	LOG RECEIVED 30|1:30;|25.5:30;|19.0:30; 
+5:58:06.767	ID:6	LOG SENT 7 6|0:6;|5.3:6;|5.3:6; 
+5:58:06.776	ID:30	LOG SENT 31 30|1:30;|25.5:30;|19.0:30; 
+5:58:06.785	ID:7	LOG RECEIVED 6|0:6;|5.3:6;|5.3:6; 
+5:58:06.801	ID:49	LOG RECEIVED 30|1:30;|25.5:30;|19.0:30; 
+5:58:06.848	ID:15	LOG TEMPARATURE 17.3 
+5:58:06.851	ID:29	LOG TEMPARATURE 32.2 
+5:58:06.893	ID:17	LOG TEMPARATURE 4.0 
+5:58:06.930	ID:28	LOG AVAILABILITY 0
+5:58:06.930	ID:28	LOG SENT 27 28|0:28;|| 
+5:58:06.953	ID:39	LOG RECEIVED 28|0:28;|| 
+5:58:06.968	ID:28	LOG SENT 29 28|0:28;|| 
+5:58:06.997	ID:4	LOG TEMPARATURE 21.4 
+5:58:07.007	ID:13	LOG TEMPARATURE 19.7 
+5:58:07.007	ID:41	LOG RECEIVED 28|0:28;|| 
+5:58:07.026	ID:3	LOG AVAILABILITY 0
+5:58:07.026	ID:3	LOG SENT 2 3|0:3;|24.7:3;|26.7:3; 
+5:58:07.047	ID:2	LOG RECEIVED 3|0:3;|24.7:3;|26.7:3; 
+5:58:07.068	ID:24	LOG TEMPARATURE 0.3 
+5:58:07.078	ID:3	LOG SENT 4 3|0:2,3;|24.7:3;|26.7:3; 
+5:58:07.102	ID:4	LOG RECEIVED 3|0:2,3;|24.7:3;|26.7:3; 
+5:59:46.136	ID:18	LOG TEMPARATURE 25.1 
+5:59:46.157	ID:16	LOG TEMPARATURE 14.7 
+5:59:46.197	ID:21	LOG TEMPARATURE 9.5 
+5:59:46.242	ID:20	LOG TEMPARATURE 4.8 
+5:59:46.278	ID:5	LOG TEMPARATURE 33.5 
+5:59:46.303	ID:26	LOG SENT 25 26||31.9:26;|17.2:26; 
+5:59:46.322	ID:27	LOG TEMPARATURE 2.9 
+5:59:46.322	ID:27	LOG AVAILABILITY 0
+5:59:46.322	ID:27	LOG SENT 26 27|0:27;|2.9:27;|10.6:27; 
+5:59:46.344	ID:38	LOG RECEIVED 27|0:27;|2.9:27;|10.6:27; 
+5:59:46.357	ID:27	LOG SENT 28 27|0:27;|2.9:27;|10.6:27; 
+5:59:46.362	ID:9	LOG TEMPARATURE 13.4 
+5:59:46.390	ID:40	LOG RECEIVED 27|0:27;|2.9:27;|10.6:27; 
+5:59:46.431	ID:37	LOG RECEIVED 26||31.9:26;|17.2:26; 
+5:59:46.469	ID:26	LOG SENT 27 26||31.9:26;|17.2:26; 
+5:59:46.483	ID:39	LOG RECEIVED 26||31.9:26;|17.2:26; 
+5:59:46.597	ID:22	LOG TEMPARATURE 32.4 
+5:59:46.597	ID:22	LOG AVAILABILITY 0
+5:59:46.597	ID:22	LOG SENT 21 22|0:22;|32.4:22;|14.4:22; 
+5:59:46.601	ID:23	LOG AVAILABILITY 0
+5:59:46.601	ID:23	LOG SENT 22 23|0:23;|5.3:23;|18.2:23; 
+5:59:46.606	ID:2	LOG TEMPARATURE 31.3 
+5:59:46.607	ID:33	LOG RECEIVED 22|0:22;|32.4:22;|14.4:22; 
+5:59:46.616	ID:22	LOG SENT 23 22|0:22;1:17;|32.4:22;|14.4:22; 
+5:59:46.640	ID:34	LOG RECEIVED 23|0:23;|5.3:23;|18.2:23; 
+5:59:46.643	ID:35	LOG RECEIVED 22|0:22;1:17;|32.4:22;|14.4:22; 
+5:59:46.650	ID:23	LOG SENT 24 23|0:18,23;|5.3:23;|18.2:23; 
+5:59:46.672	ID:36	LOG RECEIVED 23|0:18,23;|5.3:23;|18.2:23; 
+5:59:46.727	ID:6	LOG TEMPARATURE 18.9 
+5:59:46.770	ID:31	LOG TEMPARATURE 16.4 
+5:59:46.848	ID:15	LOG TEMPARATURE 1.5 
+5:59:46.893	ID:17	LOG TEMPARATURE 33.6 
+5:59:46.930	ID:28	LOG TEMPARATURE 15.4 
+5:59:46.997	ID:4	LOG TEMPARATURE 34.5 
+5:59:47.026	ID:3	LOG TEMPARATURE 5.0 
+5:59:47.032	ID:10	LOG TEMPARATURE 1.6 
+5:59:47.068	ID:24	LOG TEMPARATURE 10.8 
+5:59:47.089	ID:25	LOG TEMPARATURE 7.0 
+5:59:47.089	ID:25	LOG AVAILABILITY 0
+5:59:47.089	ID:25	LOG SENT 24 25|0:25;|7.0:25;|15.2:25; 
+5:59:47.135	ID:36	LOG RECEIVED 25|0:25;|7.0:25;|15.2:25; 
+5:59:47.143	ID:25	LOG SENT 26 25|0:20,25;|7.0:25;|15.2:25; 
+5:59:47.160	ID:38	LOG RECEIVED 25|0:20,25;|7.0:25;|15.2:25; 
